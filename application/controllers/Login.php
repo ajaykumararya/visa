@@ -1,5 +1,5 @@
  <?php
-ob_start();
+
 class Login extends CI_Controller
 {
 	
