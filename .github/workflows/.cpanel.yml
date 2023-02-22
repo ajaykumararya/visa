@@ -2,7 +2,7 @@ on:
   push:
     branches:
        - main
-name: 🚀 Deploy visa website
+name: 🚀 Deploy visa website❤️
 jobs:
   web-deploy:
     name: 🎉 Deploy
