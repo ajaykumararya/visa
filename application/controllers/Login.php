@@ -2,11 +2,7 @@
 
 class Login extends CI_Controller
 {
-	
-	function __construct()
-	{ 
-		__construct();
-	}
+
 	function check_login() 
 	{
 		if($p = $this->input->post())
