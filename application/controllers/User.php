@@ -12,7 +12,10 @@ class User extends CI_Controller
 		$this->load->view('index');
 	}
 	 
-
+	function list_pages()
+	{
+		$this->load->view(__FUNCTION__);
+	}
 	public function add_page()
 	{
 		if($post = $this->input->post()){

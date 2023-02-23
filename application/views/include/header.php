@@ -342,7 +342,7 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="<?=base_url()?>User/add_page"><i class="fa fa-circle-o"></i>Add Page</a></li>
-            <li><a href="<?=base_url()?>User/pages"><i class="fa fa-circle-o"></i>All Page</a></li>
+            <li><a href="<?=base_url()?>User/list_pages"><i class="fa fa-circle-o"></i>All Page</a></li>
           </ul>
         </li>
 
