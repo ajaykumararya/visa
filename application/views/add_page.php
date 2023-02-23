@@ -32,11 +32,11 @@ include 'include/header.php';
 </div>
 
 <div class="col-md-6">
-<div class="card">
-				<div class="card-header bg-primary text-white">
+<div class="box">
+				<div class="box-header bg-primary text-white">
 					<strong><i class="fa fa-list"></i> List Page(s)</strong>
 				</div>
-				<div class="card-body">
+				<div class="box-body">
 					<div class="table-responsive">
 						<table class="table table-bordered table-striped table-hover">
 							<thead>
