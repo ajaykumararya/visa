@@ -26,5 +26,10 @@ class User extends CI_Controller
 		else
 			$this->load->view(__FUNCTION__);
 	}
+
+	public function pages()
+	{
+		$this->load->view(__FUNCTION__);
+	}
 }
 ?>
