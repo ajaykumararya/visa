@@ -1,5 +1,6 @@
 <?php
 include 'include/header.php';
+?>
 <div class="col-md-6">
           <div class="box box-primary">
             <div class="box-header with-border">
