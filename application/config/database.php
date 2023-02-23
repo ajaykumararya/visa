@@ -94,3 +94,10 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE 
 );
+
+if($_SERVER['HTTP_HOST'] == 'localhost'){
+	$db['default']['username'] = 'root',
+	$db['default']['password'] = '',
+	$db['default']['database'] = 'visa',
+}
+
