@@ -1,7 +1,7 @@
 <?
 require 'include/header.php';
 
-if($pages->num_rows() ):
+// if($pages->num_rows() ):
 ?>
 	<div class="row">
 
@@ -22,21 +22,9 @@ if($pages->num_rows() ):
 									<th>Url</th>
 								</tr>
 							</thead>
-							<tbody>
-								<?
-								$i = 0;
+							<!-- <tbody>
 								
-									foreach($pages->result() as $page){
-										echo '<tr>
-												<td>'.++$i.'</td>
-												<td>'.$page->page_name.'</td>
-												
-												
-											</tr>';
-									}
-
-								?>
-							</tbody>
+							</tbody> -->
 							
 						</table>
 					</div>

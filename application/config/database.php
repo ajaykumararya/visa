@@ -95,7 +95,7 @@ $db['default'] = array(
 	'save_queries' => TRUE 
 );
 
-if($_SERVER['HTTP_HOST'] == 'localhost'){
+if($_SERVER['HTTP_HOST'] == '[::1]'){
 	$db['default']['username'] = 'root',
 	$db['default']['password'] = '',
 	$db['default']['database'] = 'visa',
