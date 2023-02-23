@@ -10,7 +10,7 @@
       <nav class="navigation-Panel radius-0-1-1-0">
         <div class="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
 
-<a href="index.php" class="active" title="Home" itemprop="url">Home</a>
+<a href="" class="active" title="Home" itemprop="url">Home</a>
 
 
 <a href="track-application.php"  title="Track Application" itemprop="url">Track Application</a>
@@ -43,7 +43,7 @@
         
         
         
-                <div class="row alignFromCenter fontEleven">+971-589667714</div>
+                <div class="row alignFromCenter fontEleven">+91-7409944445</div>
               </div>
       
 <div style="position:fixed; left:0px; bottom:0px; width:100%; z-index:10000; ">
