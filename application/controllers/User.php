@@ -56,7 +56,7 @@ class User extends CI_Controller
 								$return['html'] .= '<tr>
 								<td>'.$r->id.'</td>
 								<td>'.$r->page_name.'</td>
-								<td><span class="btn btn-info">content</span></td>
+								<td><span class="btn btn-primary">content</span></td>
 								<td><a href=""><i class="btn btn-success fa fa-edit"></i></a></td>
 								<td class="center"><a href="javascript:delete_page('.$r->id.')" onclick="return confirm(\'Are You Sure Want to Delete?\')"><i class="btn btn-danger fa fa-trash"></i></a>									
 								</td>
