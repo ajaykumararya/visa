@@ -1,4 +1,4 @@
-<?
+<?php
 require 'include/header.php';
 
 // if($pages->num_rows() ):
@@ -33,10 +33,10 @@ require 'include/header.php';
 		</div>
 	</div>
 
-<?
-else:
-	echo '<div class="alert alert-danger">Data not found....</div>';
-endif;
+<?php
+// else
+// 	echo '<div class="alert alert-danger">Data not found....</div>';
+// endif;
 
 require 'include/footer.php';
 ?>
