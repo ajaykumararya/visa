@@ -11,6 +11,10 @@ include 'include/header.php';
             </div>
             <!-- /.box-header -->
             <!-- form start -->
+            <?
+              if($msg = $this->session->flashdata('msg'));
+                echo $msg;
+            ?>
             <form method="post" action="">
               <div class="box-body">
                 <div class="form-group">
