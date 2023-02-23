@@ -43,6 +43,8 @@ class User extends CI_Controller
 								<tr>
 									<th>id</th>
 									<th>Name</th>
+									<th>Information</th>
+									<th>Edit</th>
 									<th>Delete</th>
 								</tr>
 							</thead>
@@ -54,8 +56,9 @@ class User extends CI_Controller
 								$return['html'] .= '<tr>
 								<td>'.$r->id.'</td>
 								<td>'.$r->page_name.'</td>
-								
-								<td class="center"><a href="javascript:delete_page('.$r->id.')" onclick="return confirm(\'Are You Sure?\')"><i class="btn btn-danger zmdi zmdi-delete"><i class="fa fa-trash"></i></i></a>									
+								<td><span class="btn btn-info">content</span></td>
+								<td><a href=""><i class="btn btn-success fa fa-edit"></i></a></td>
+								<td class="center"><a href="javascript:delete_page('.$r->id.')" onclick="return confirm(\'Are You Sure Want to Delete?\')"><i class="btn btn-danger fa fa-trash"></i></a>									
 								</td>
 								</tr>'; 
 							}
