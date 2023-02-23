@@ -1,7 +1,8 @@
 <?php
 include 'include/header.php';
 ?>
-<div class="col-md-6">
+
+<div class="col-md-12">
           <div class="box box-primary">
             <div class="box-header with-border">
               <h3 class="box-title">List Pages</h3>
@@ -23,14 +24,14 @@ include 'include/header.php';
                     </div>
           </div>
           <!-- /.box -->
-</div>
+        </div>
 
 <?php
 include 'include/footer.php';
 ?>
 
 <script type="text/javascript"> 
-        get_page();
+    get_page();
         delete_page();
        
 
