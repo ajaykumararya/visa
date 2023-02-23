@@ -32,8 +32,8 @@ include 'include/header.php';
 </div>
 
 <div class="col-md-6">
-<div class="box">
-				<div class="box-header bg-primary text-white">
+<div class="box-primary">
+				<div class="box-header with-border">
 					<strong><i class="fa fa-list"></i> List Page(s)</strong>
 				</div>
 				<div class="box-body">
