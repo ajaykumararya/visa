@@ -939,9 +939,9 @@
       </div>
       <div class="welcomeTextPanel" style="float:right">
         <div class="ptext white font-Weight-Normal"><span class="marginFromRight">Get</span>
-          <h1 class="">Dubai Visa</h1>
+          <h1 class="">Tourist Dubai Visa</h1>
           <span class="">easier & faster</span></div>
-        <div class="row alignFromCenter line-height-reg white">Our company traces its origins back to 2001 when we opened our first travel agency in Dubai. Over the past successful years in the travel industry we have gained expertise and specialized in Dubai Visa processing. With over 50 million Visa to Dubai already issued, you can trust us to deliver YOUR visa in time... always! </div>
+        <div class="row alignFromCenter line-height-reg white">Touristdubaivisa.com is an online platform that provides information about visa requirements, processes, and procedures for individuals who wish to travel to a foreign country. It is designed to help people understand the steps they need to take in order to obtain a visa, and to provide resources that can help them through the visa application process.</div>
       </div>
     </div>
   </div>
@@ -1005,15 +1005,17 @@
               <p class="ptext1 black paddingFromBottom marginFromTop marginFromBottom mobpadding-0">Why Tourist Dubai Visa?</p>
               <div class="row points padding-All-sm whyTDV">
                 <ul>
-                  <li>More than 5 million visas issued and counting</li>
+                  <li>More than 8 million visas issued and counting</li>
                   <li>Quick processing & turnaround time</li>
-                  <li>Apply dubai visa online from the comfort of your home</li>
+                  <li>Apply dubai visa online from the comfort of your home and workplace</li>
                   <li>Easy dubai online visa application form</li>
                   <li>Application handling by trained specialists</li>
                   <li>Entire website secured & protected with Industry-Leading 256-bit SSL</li>
                   <li>Convenient Payment Options - Credit and Debit Cards accepted</li>
                   <li>Notification via email on each and every stage of processing</li>
                   <li>24X7 chat support from experts.</li>
+                  <li>we are offering a 100% refund assurance</li>
+                  <li>The processing time may take anytime between 24 to 72 working hours.</li>
                 </ul>
               </div>
             </div>
@@ -1269,6 +1271,23 @@ But Maryam was too irresponsible.</span> </li>
 
 </div>
 </div>
+
+
+<div class="row"> 
+<div class="row content"> 
+<div class="row fontTwnty8 marginFromBottom green borderFromBottom paddingFromBottom label"><strong>Dubai</strong>- The lovechild of the United Arab Emirates</div>
+<p>Dubai is indeed one of the seven emirates that make up the United Arab Emirates (UAE). It is a city known for its modern architecture, luxury shopping, and vibrant entertainment scene. Dubai has transformed itself from a small desert town into a major global city in just a few decades, and is now considered one of the most dynamic and cosmopolitan cities in the world.The stay occupancy in Dubai peaked at 74%, one of the highest in the world. A host of global events, festivals and leisure drives helped spark Dubai Tourism. The World Government Summit, Arabian Travel Market and Dubai Shopping Festival attracted curious visitors in large numbers.</p>
+<p>A huge influx of applicants applying for online Dubai visa was witnessed by various visa service providers. The UAE Government is leaving no stone unturned to make Dubai a world-class tourist destination.</p>
+<p>Dubai is famous for its iconic skyline, which includes the world's tallest building, the Burj Khalifa, as well as the Burj Al Arab, the world's only seven-star hotel. The city is also a popular tourist destination, attracting millions of visitors each year with its beautiful beaches, world-class shopping malls, and diverse cultural attractions. Dubai is also a hub for business and finance, and is home to many multinational corporations, making it a key player in the global economy.</p>
+<p>Another major criterion that has fuelled the tourism sector of Dubai is the ease of Dubai visa procedures. With online visa application forms and online submission of pre-requisites, journeys and attending events have become more accessible. Dubai understands the convenience of travellers well.</p>
+
+<p>e have become the world’s largest supplier of online Dubai visas, successfully processing more than 1,25,000 Visa of Dubai per month. We are proud of the fact that our rejection rate is less than 0.01%, the absolute lowest in the industry. For a limited time only, we are offering a 100% refund guarantee*, in the slim case your visa application is not approved by the UAE immigration department. We are the only company in the world offering such a guarantee! We refund only in</p>
+
+
+</div>
+</div>
+
+
 
 <div class="row gapping">   
 <div class="wrap">
