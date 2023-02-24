@@ -14,6 +14,10 @@ class Web extends CI_Controller
 	// {
 	// 	$this->load->view('Web/track_application'); 
 	// }
+	function track_application()
+	{
+		$this->load->view('Web/track_application');
+	}
 	function how_to_apply()
   	{
   		$this->load->view('Web/how_to_apply');
