@@ -16,23 +16,23 @@ class Web extends CI_Controller
 	// }
 	function track_application()
 	{
-		$this->load->view('Web/track_application');
+		$this->load->view('web/track_application');
 	}
 	function how_to_apply()
   	{
-  		$this->load->view('Web/how_to_apply');
+  		$this->load->view('web/how_to_apply');
   	}
   	function types_of_visa()
   	{
-  		$this->load->view('Web/types_of_visa');
+  		$this->load->view('web/types_of_visa');
   	}
   	function visa_application_form()
   	{
-  		$this->load->view('Web/visa_application_form');
+  		$this->load->view('web/visa_application_form');
   	}
   	function contact_us()
   	{
-  		$this->load->view('Web/contact_us');
+  		$this->load->view('web/contact_us');
   	}
 	
 }
