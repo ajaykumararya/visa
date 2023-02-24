@@ -10,10 +10,10 @@
       <nav class="navigation-Panel radius-0-1-1-0">
         <div class="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
 
-<a href="" class="active" title="Home" itemprop="url">Home</a>
+<a href="<?=base_url()?>Web/index" class="active" title="Home" itemprop="url">Home</a>
 
 
-<a href="track-application.php"  title="Track Application" itemprop="url">Track Application</a>
+<a href="<?=base_url()?>Web/track_application"  title="Track Application" itemprop="url">Track Application</a>
 
 <a href="how-to-apply.php"  title="How to Apply" itemprop="url">How to Apply</a>
 

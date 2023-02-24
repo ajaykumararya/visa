@@ -10,6 +10,9 @@ class Web extends CI_Controller
 	public function index(){
   		$this->load->view('web/index');
   	}
-
+	public fucntion track_application()
+	{
+		$this->load->view('Web/track_application');
+	}
 }
 ?>
