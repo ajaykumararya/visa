@@ -15,15 +15,15 @@
 
 <a href="<?=base_url()?>Web/track_application"  title="Track Application" itemprop="url">Track Application</a>
 
-<a href="how-to-apply.php"  title="How to Apply" itemprop="url">How to Apply</a>
+<a href="<?=base_url()?>Web/how_to_apply"  title="How to Apply" itemprop="url">How to Apply</a>
 
-<a href="types-of-visa.php"  title="Visa Types" data-flexmenu="flexmenu2" itemprop="url">Visa Types</a>
+<a href="<?=base_url()?>Web/types_of_visa"  title="Visa Types" data-flexmenu="flexmenu2" itemprop="url">Visa Types</a>
 
-<a href="dubai-visa-application-form.php"  title="Visa Application Form" itemprop="url">Visa Application Form</a>
+<a href="<?=base_url()?>Web/visa_application_form"  title="Visa Application Form" itemprop="url">Visa Application Form</a>
     
 <a class="displayNone mobDisplayBlock" href="uae-tourism.php"  title="Tourism in UAE" itemprop="url">Tourism in UAE</a>
 
-<a href="contact-us.php"  title="Contact Us" itemprop="url">Contact Us</a>
+<a href="<?=base_url()?>Web/contact_us"  title="Contact Us" itemprop="url">Contact Us</a>
 
 <ul id="flexmenu2" class="flexdropdownmenu">
 <li itemprop="name"><a href="visa-online/14-days-dubai-visa.php" title="14 days dubai visa" itemprop="url">14 Days Dubai Visa</a></li>
