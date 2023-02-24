@@ -1273,19 +1273,7 @@ But Maryam was too irresponsible.</span> </li>
 </div>
 
 
-<div class="row"> 
-<div class="row content"> 
-<div class="row fontTwnty8 marginFromBottom green borderFromBottom paddingFromBottom label"><strong>Dubai</strong>- The lovechild of the United Arab Emirates</div>
-<p>Dubai is indeed one of the seven emirates that make up the United Arab Emirates (UAE). It is a city known for its modern architecture, luxury shopping, and vibrant entertainment scene. Dubai has transformed itself from a small desert town into a major global city in just a few decades, and is now considered one of the most dynamic and cosmopolitan cities in the world.The stay occupancy in Dubai peaked at 74%, one of the highest in the world. A host of global events, festivals and leisure drives helped spark Dubai Tourism. The World Government Summit, Arabian Travel Market and Dubai Shopping Festival attracted curious visitors in large numbers.</p>
-<p>A huge influx of applicants applying for online Dubai visa was witnessed by various visa service providers. The UAE Government is leaving no stone unturned to make Dubai a world-class tourist destination.</p>
-<p>Dubai is famous for its iconic skyline, which includes the world's tallest building, the Burj Khalifa, as well as the Burj Al Arab, the world's only seven-star hotel. The city is also a popular tourist destination, attracting millions of visitors each year with its beautiful beaches, world-class shopping malls, and diverse cultural attractions. Dubai is also a hub for business and finance, and is home to many multinational corporations, making it a key player in the global economy.</p>
-<p>Another major criterion that has fuelled the tourism sector of Dubai is the ease of Dubai visa procedures. With online visa application forms and online submission of pre-requisites, journeys and attending events have become more accessible. Dubai understands the convenience of travellers well.</p>
 
-<p>e have become the world’s largest supplier of online Dubai visas, successfully processing more than 1,25,000 Visa of Dubai per month. We are proud of the fact that our rejection rate is less than 0.01%, the absolute lowest in the industry. For a limited time only, we are offering a 100% refund guarantee*, in the slim case your visa application is not approved by the UAE immigration department. We are the only company in the world offering such a guarantee! We refund only in</p>
-
-
-</div>
-</div>
 
 
 
