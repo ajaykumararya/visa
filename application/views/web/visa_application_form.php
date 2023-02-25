@@ -1,6 +1,6 @@
 <?php include_once "include/header.php";?>
 
-<div class="row">
+<div class="row body-panel">
     <form enctype="multipart/form-data" id="visaForm" method="post" name="visaForm"
         onsubmit="return validateTravelDetails(this)&amp;&amp;ShowLoading()">
         <div id="loading2"
@@ -39,7 +39,7 @@
                                                 <option value="">Visa Type</option>
                                                 <option value="6">96 Hrs ( Transit Visa Single Entry ) </option>
                                                 <option value="1">14 ( Days Visa Single Entry ) </option>
-                                                <option value="2">30 ( Days Visa Single Entry ) </option>
+                                                <option value="2" selected="">30 ( Days Visa Single Entry ) </option>
                                                 <option value="7">60 ( Days Visa Single Entry ) </option>
                                                 <option value="21">14 ( Days Visa Multiple Entry ) </option>
                                                 <option value="3">30 ( Days Visa Multiple Entry ) </option>
@@ -49,19 +49,18 @@
                                             <div class="row"><select class="form-control-input" id="insurance"
                                                     name="insurance" onchange="getServiceData()">
                                                     <option value="">Service Type</option>
-                                                    <option value="No">Regular</option>
+                                                    <option value="No" selected="">Regular</option>
                                                     <option value="Yes">With Insurance</option>
                                                 </select></div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mobpadding-0 column-five box_Sizing paddingFromLeft" id="feediv"
-                                    style="display:none">
+                                <div class="mobpadding-0 column-five box_Sizing paddingFromLeft" id="feediv" style="">
                                     <div class="row label mob10">Fee</div>
                                     <div class="row label mob90">
                                         <div class="popupPanel" id="overlay" style="display:none">
                                             <div class="imageDiv"><img src="images/loading.gif" alt="loading...."></div>
-                                        </div><span class="fontTwnty" id="feeShow"> 0</span>
+                                        </div><span class="fontTwnty" id="feeShow">$ 199</span>
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +95,7 @@
                                         <div class="row"><input id="city" name="city" value=""
                                                 class="form-control-input" placeholder="City"
                                                 onclick="removeError(this.id)">
-                                            <input id="country" name="country" value="" class="form-control-input"
+                                            <input id="country" name="country" value="209" class="form-control-input"
                                                 placeholder="India" type="hidden" readonly="">
                                         </div>
                                     </div>
@@ -137,7 +136,7 @@
                                         <div class="column-five mob50"><select class="form-control-input"
                                                 id="country_isd_code" name="country_isd_code">
                                                 <option value="">Country Code</option>
-                                                <option value="+93">Afghanistan ( +93 ) </option>
+                                                <option value="+93" selected="">Afghanistan ( +93 ) </option>
                                                 <option value="+355">Albania ( +355 ) </option>
                                                 <option value="+213">Algeria ( +213 ) </option>
                                                 <option value="+685">American Samoa ( +685 ) </option>
@@ -893,8 +892,8 @@
             </div>
         </div>
         <div class="container"><input id="admoreapp" name="admoreapp" value="No" type="hidden"> <input id="service_type"
-                name="service_type" value="" type="hidden"> <input id="rpq" name="rpq" value="" type="hidden"> <input
-                id="page_name" name="page_name" value="com" type="hidden"></div>
+                name="service_type" value="Regular" type="hidden"> <input id="rpq" name="rpq" value="" type="hidden">
+            <input id="page_name" name="page_name" value="com" type="hidden"></div>
     </form>
 </div>
 <?php include_once "include/footer.php";?>
