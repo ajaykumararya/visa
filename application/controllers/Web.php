@@ -34,7 +34,7 @@ class Web extends CI_Controller
          $this->input->post('passport_copy_number');
          $data_upload_files = $this->upload->data();
 
-         $passport_copy_number = $data_upload_files['upload'];
+         $data= $data_upload_files['upload'];
 		
 		if($post = $this->input->post()){
 			$data = array(
