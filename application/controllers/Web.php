@@ -50,8 +50,6 @@ class Web extends CI_Controller
 								'start_date_day'=>$post['start_date_day'],
 								'tart_date_month'=>$post['start_date_month'],
 								'start_date_year'=>$post['start_date_year'],
-								'passport_copy_upload'=>$post['passport_copy_upload'],
-								'additional_document5_upload'=>$post['additional_document5_upload'],
 								
 								
 				);
