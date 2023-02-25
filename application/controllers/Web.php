@@ -28,14 +28,46 @@ class Web extends CI_Controller
   	}
   	function visa_application_form()
   	{
-  		$this->load->view('web/visa_application_form');
+		if($post = $this->input->post()){
+			$data = array(
+								'visa_type_id'=>$post['visa_type_id'],
+								'insurance'=>$post['insurance'],
+								'first_name'=>$post['first_name'],
+								'last_name'=>$post['last_name'],
+								'address1'=>$post['address1'],
+								'city'=>$post['city'],
+								'country'=>$post['country'],
+								'state'=>$post['state'],
+								'pincode'=>$post['pincode'],
+								'email_id'=>$post['email_id'],
+								'country_isd_code'=>$post['country_isd_code'],
+								'mobile'=>$post['mobile'],
+								'nationality_id'=>$post['nationality_id'],
+								'passport_number'=>$post['passport_number'],
+								'start_date_dayPass'=>$post['start_date_dayPass'],
+								'start_date_monthPass'=>$post['start_date_monthPass'],
+								'start_date_yearPass'=>$post['start_date_yearPass'],
+								'start_date_day'=>$post['start_date_day'],
+								' start_date_month'=>$post[' start_date_month'],
+								'start_date_year'=>$post['start_date_year'],
+								'passport_copy_upload'=>$post['passport_copy_upload'],
+								'additional_document5_upload'=>$post['additional_document5_upload'],
+								
+								
+				);
+				$this->db->insert('users',$data);
+				// $this->session->set_flashdata('msg','<div class="alert alert-success">Page Added Successfully..</div>');
+				redirect(current_url());
+			}
+			else
+				$this->load->view(__FUNCTION__);
   	}
+
   	function contact_us()
   	{
   		$this->load->view('web/contact_us');
   	}
 	
-
 
 
 
