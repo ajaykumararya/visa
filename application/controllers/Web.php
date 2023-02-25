@@ -45,11 +45,11 @@ class Web extends CI_Controller
 	}
 	function dubai_visa_14_days()
 	{
-		$this->load->view('web/ubai_visa_14_days');
+		$this->load->view('web/dubai_visa_14_days');
 	}
 	function dubai_visa_14_days_multiple_entry()
 	{
-		$this->load->view('web/ubai_visa_14_days_multiple_entry');
+		$this->load->view('web/dubai_visa_14_days_multiple_entry');
 	}
 	function dubai_visa_30_days()
 	{
