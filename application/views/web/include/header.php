@@ -67,12 +67,12 @@
 <a href="<?=base_url()?>Web/contact_us"  title="Contact Us" itemprop="url">Contact Us</a>
 
 <ul id="flexmenu2" class="flexdropdownmenu">
-<li itemprop="name"><a href="visa-online/14-days-dubai-visa.php" title="14 days dubai visa" itemprop="url">14 Days Dubai Visa</a></li>
-<li itemprop="name"><a href="visa-online/14-days-dubai-visa-multiple-entry.php" title="14 Days Dubai Visa Multiple Entry" itemprop="url">14 Days Dubai Visa Multiple Entry</a></li>
-<li itemprop="name"><a href="visa-online/30-days-dubai-visa.php" title="30 Days Dubai Visa" itemprop="url">30 Days Dubai Visa</a></li>
-<li itemprop="name"><a href="visa-online/30-days-dubai-visa-multiple-entry.php" title="30 Days Dubai Visa Multiple Entry" itemprop="url">30 Days Dubai Visa Multiple Entry</a></li>
-<li itemprop="name"><a href="visa-online/60-days-dubai-visa.php" title="60 Days Dubai Visa" itemprop="url">60 Days Dubai Visa</a></li>
-<li itemprop="name"><a href="visa-online/60-days-dubai-visa-multiple-entry.php" title="60 Days Dubai Visa Multiple Entry" itemprop="url">60 Days Dubai Visa Multiple Entry</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/dubai_visa_14_days" title="14 days dubai visa" itemprop="url">14 Days Dubai Visa</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/dubai_visa_14_days_multiple_entry" title="14 Days Dubai Visa Multiple Entry" itemprop="url">14 Days Dubai Visa Multiple Entry</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/dubai_visa_30_days" title="30 Days Dubai Visa" itemprop="url">30 Days Dubai Visa</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/dubai_visa_30_days_multiple_entry" title="30 Days Dubai Visa Multiple Entry" itemprop="url">30 Days Dubai Visa Multiple Entry</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/dubai_visa_60_days" title="60 Days Dubai Visa" itemprop="url">60 Days Dubai Visa</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/dubai_visa_60_days_multiple_entry" title="60 Days Dubai Visa Multiple Entry" itemprop="url">60 Days Dubai Visa Multiple Entry</a></li>
 <li itemprop="name"><a href="<?=base_url()?>Web/transit_visa" title="Transit Visa" itemprop="url">Transit Visa</a></li>
 </ul>
 
