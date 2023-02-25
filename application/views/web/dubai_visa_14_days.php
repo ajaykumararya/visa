@@ -145,7 +145,7 @@
                             <a href="#" class="accordion_head submenuheader" headerindex="3h"><span
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>Can I avail a visa at the earliest?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
                                 <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
