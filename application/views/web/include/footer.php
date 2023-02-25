@@ -1,7 +1,7 @@
      <!-- FOOTER PANEL -->
       
 
-<footer class="row footer-panel pull_left white"> 
+<footer class="row footer-panel pull_left white" style="padding-top:20px;"> 
 <div class="wrap">
 <div class="container">
 
