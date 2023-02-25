@@ -180,7 +180,7 @@
                             <h2 class="row font-Weight-Normal titleFont upperCase box_Sizing darkBlueBG mobpaddingAll paddingAll white"
                                 style="font-size:20px">30 daysDubai Visa</h2>
                             <div class="row" itemscope="" itemtype="https://schema.org/Table">
-                                <form action="/dubai-visa-application-form.php" enctype="multipart/form-data"
+                                <form action="<?=base_url()?>Web/visa_application_form" enctype="multipart/form-data"
                                     id="visaForm" method="post" name="visaForm"><input id="visa_type_id" type="hidden"
                                         value="2" name="visa_type_id"> <input id="nationality_id" type="hidden"
                                         value="209" name="nationality_id"> <input id="living_in_id" type="hidden"
