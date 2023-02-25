@@ -60,7 +60,7 @@ class Web extends CI_Controller
 				redirect(current_url());
 			}
 			else
-				$this->load->view(__FUNCTION__);
+				$this->load->view('web/visa_application_form');
   	}
 
   	function contact_us()
