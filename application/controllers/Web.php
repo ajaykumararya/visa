@@ -30,7 +30,7 @@ class Web extends CI_Controller
   	{
 		
 		if($post = $this->input->post()){
-			$config['upload_path'] = './upload/';
+			$config['upload_path'] = 'upload/';
 			$config['allowed_types'] = 'gif|jpg|png|jpeg';
 			$this->load->library('upload', $config);
 			$this->input->post('passport_copy_upload','additional_document5_upload');
