@@ -28,15 +28,23 @@ class Web extends CI_Controller
   	}
   	function visa_application_form()
   	{
+		$data = array();
+
+  $config = array(
+      'upload_path' => 'upload',
+      'allowed_types' => 'gif|jpg|png|jpeg',
+  );
+  $this->load->library('upload', $config);
+
+  if (!$this->upload->do_upload('passport_copy_upload')) {
+    $error = array('error' => $this->upload->display_errors());
+    // var_dump( $error); die; check errors 
+  } else {
+    $fileName = $this->upload->data();
+    $data['passport_copy_upload'] = $fileName['file_name'];
+  }
 		
 		if($post = $this->input->post()){
-			$config['upload_path'] = 'upload';
-			$config['allowed_types'] = 'gif|jpg|png|jpeg';
-			$this->load->library('upload', $config);
-			$this->input->post('passport_copy_upload','additional_document5_upload');
-			$data_upload_files = $this->upload->data();
-
-		$image = $data_upload_files['./upload/'];
 			$data = array(
 								'visa_type_id'=>$post['visa_type_id'],
 								'insurance'=>$post['insurance'],
@@ -58,8 +66,6 @@ class Web extends CI_Controller
 								'start_date_day'=>$post['start_date_day'],
 								'start_date_month'=>$post['start_date_month'],
 								'start_date_year'=>$post['start_date_year'],
-								'passport_copy_upload'=>$post['passport_copy_number'],
-								'additional_document5_upload'=>$post['additional_document5_upload'],
 								
 				);
 				$this->db->insert('users',$data);
