@@ -73,7 +73,7 @@
 <li itemprop="name"><a href="visa-online/30-days-dubai-visa-multiple-entry.php" title="30 Days Dubai Visa Multiple Entry" itemprop="url">30 Days Dubai Visa Multiple Entry</a></li>
 <li itemprop="name"><a href="visa-online/60-days-dubai-visa.php" title="60 Days Dubai Visa" itemprop="url">60 Days Dubai Visa</a></li>
 <li itemprop="name"><a href="visa-online/60-days-dubai-visa-multiple-entry.php" title="60 Days Dubai Visa Multiple Entry" itemprop="url">60 Days Dubai Visa Multiple Entry</a></li>
-<li itemprop="name"><a href="visa-online/transit-visa.php" title="Transit Visa" itemprop="url">Transit Visa</a></li>
+<li itemprop="name"><a href="<?=base_url()?>Web/transit_visa" title="Transit Visa" itemprop="url">Transit Visa</a></li>
 </ul>
 
 </div>

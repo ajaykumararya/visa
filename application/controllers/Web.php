@@ -35,5 +35,10 @@ class Web extends CI_Controller
   		$this->load->view('web/contact_us');
   	}
 	
+	function transit_visa()
+	{
+		$this->laod->view('web/transit_visa');
+	}
+
 }
 ?>
