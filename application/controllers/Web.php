@@ -151,7 +151,7 @@ class Web extends CI_Controller
 	}
 	function umm_al_quwain()
 	{
-		$this->load->view('web/umm_al_qumain');
+		$this->load->view('web/umm_al_quwain');
 	}
 
 
