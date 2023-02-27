@@ -39,6 +39,8 @@ class Web extends CI_Controller
 	     $addi = '';
 	    if (!$this->upload->do_upload('passport_copy_upload')) {
 	        $error = array('error' => $this->upload->display_errors());
+			print_r($error);
+			
 	    } 
 		else {
 	        $sau =  $this->upload->data('file_name');
