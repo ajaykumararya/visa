@@ -76,7 +76,7 @@ class Web extends CI_Controller
 								
 				);
 				$this->db->insert('users',$data);
-				// $this->session->set_flashdata('msg','<div class="alert alert-success">Page Added Successfully..</div>');
+				$this->session->set_flashdata('msg','<div class="alert alert-success">Data Add Successfully...</div>');
 				redirect(current_url());
 			}
 			else

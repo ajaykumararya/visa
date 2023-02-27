@@ -1,6 +1,10 @@
 <?php include_once "include/header.php";?>
 
 <div class="row body-panel">
+            <?
+              if($msg = $this->session->flashdata('msg'));
+                echo $msg;
+            ?>
     <form enctype="multipart/form-data" id="visaForm" method="post" name="visaForm"
         onsubmit="return validateTravelDetails(this)&amp;&amp;ShowLoading()">
         <div id="loading2"
@@ -59,7 +63,7 @@
                                     <div class="row label mob10">Fee</div>
                                     <div class="row label mob90">
                                         <div class="popupPanel" id="overlay" style="display:none">
-                                            <div class="imageDiv"><img src="images/loading.gif" alt="loading...."></div>
+                                            <div class="imageDiv"><img src="<?=base_url()?>assets/website/images/loading.gif" alt="loading...."></div>
                                         </div><span class="fontTwnty" id="feeShow">$ 199</span>
                                     </div>
                                 </div>
