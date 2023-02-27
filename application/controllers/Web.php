@@ -127,31 +127,31 @@ class Web extends CI_Controller
 	
 	function abu_dhabi_visa()
 	{
-		$this->load->view('web/abu_dhabi_visa')
+		$this->load->view('web/abu_dhabi_visa');
 	}
 	function ajman_visa()
 	{
-		$this->load->view('web/ajman_visa')
+		$this->load->view('web/ajman_visa');
 	}
 	function fujairah()
 	{
-		$this->load->view('web/fujairah')
+		$this->load->view('web/fujairah');
 	}
 	function ras_al_khaimah()
 	{
-		$this->load->view('web/ras_al_khaimah')
+		$this->load->view('web/ras_al_khaimah');
 	}
 	function sharjah()
 	{
-		$this->load->view('web/sharjah')
+		$this->load->view('web/sharjah');
 	}
 	function uae_visa()
 	{
-		$this->load->view('web/uae_visa')
+		$this->load->view('web/uae_visa');
 	}
 	function umm_al_qumain()
 	{
-		$this->load->view('web/umm_al_qumain')
+		$this->load->view('web/umm_al_qumain');
 	}
 
 
