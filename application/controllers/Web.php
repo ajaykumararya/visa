@@ -49,7 +49,7 @@ class Web extends CI_Controller
 	    }
 	    if (!$this->upload->do_upload('additional_document5_upload')) {
 	        $error = array('error' => $this->upload->display_errors());
-			print_r($sau);
+			print_r($error);
 	    } 
 		else {
 	        $addi =  $this->upload->data('file_name');
