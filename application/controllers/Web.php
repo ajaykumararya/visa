@@ -28,13 +28,14 @@ class Web extends CI_Controller
   	}
   	function visa_application_form()
   	{
-		$config['upload_path'] = base_url().'upload';
+		$config['upload_path'] = 'upload';
 	    $config['allowed_types'] = 'gif|jpg|png|jpeg';
 	    $config['max_size'] = 1000;
 	    $config['max_width'] = 1024;
 	    $config['max_height'] = 768;
 
 	    $this->load->library('upload', $config);
+		$this->upload->initialize($config);
 	     $sau = '';
 	     $addi = '';
 	    if (!$this->upload->do_upload('passport_copy_upload')) {
