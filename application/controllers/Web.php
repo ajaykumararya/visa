@@ -149,7 +149,7 @@ class Web extends CI_Controller
 	{
 		$this->load->view('web/uae_visa');
 	}
-	function umm_al_qumain()
+	function umm_al_quwain()
 	{
 		$this->load->view('web/umm_al_qumain');
 	}
