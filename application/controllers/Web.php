@@ -90,7 +90,10 @@ class Web extends CI_Controller
   		$this->load->view('web/contact_us');
   	}
 	
-
+	functino about_us()
+	{
+		$this->load->view('web/about_us');
+	}
 
 
 	function transit_visa()
