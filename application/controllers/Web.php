@@ -28,7 +28,7 @@ class Web extends CI_Controller
   	}
   	function visa_application_form()
   	{
-		$config['upload_path'] = './uploads/';
+		$config['upload_path'] = './upload/';
 	    $config['allowed_types'] = 'gif|jpg|png|jpeg';
 	    $config['max_size'] = 1000;
 	    $config['max_width'] = 1024;
