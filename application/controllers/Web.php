@@ -83,7 +83,7 @@ class Web extends CI_Controller
 			}
 			else
 			{
-  				$this->load->view('Web/visa_application_form');
+  				$this->load->view('web/visa_application_form');
 			}
   	}
 
