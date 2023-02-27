@@ -80,7 +80,7 @@ class Web extends CI_Controller
 				redirect(current_url());
 			}
 			else
-  				$this->load->view('Web/visa_application_form');
+  				$this->load->view(current_url());
   		
   	}
 
