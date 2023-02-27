@@ -815,7 +815,7 @@
                                     <strong>Note:</strong> Upload of passport and photograph are not
                                     mandatory to complete the visa application form. You can provide us
                                     these documents later also on email: contact@instadubaivisa.com or on
-                                    WhatsApp +971-505863986
+                                    WhatsApp +91-971589667714
                                 </div>
                                 <div class="row"><textarea
                                         class="form-control-input displayNone marginFromBottomNone resizeNone"
