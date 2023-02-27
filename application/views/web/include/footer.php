@@ -47,7 +47,7 @@
 <p class="container column-eight font-Weight-Normal">We are dubai visa request facilitation service with vast experience and technical know-how, that helps worldwide travellers process for dubai visa online. Our experts scrutinize your visa request and make sure that it is approved by Dubai authorities within the shortest possible time.</p>
 
 </div>
-<div class="row padding-top-bottom"><a href="<?=base_url()?>Web/about_us" class="button-large secondry-button container mobRow alignFromCenter" title="About Insta Dubai Visa">MORE INFORMATION ABOUT US</a></div>
+<div class="row padding-top-bottom"><a href="<?=base_url()?>web/about_us" class="button-large secondry-button container mobRow alignFromCenter" title="About Insta Dubai Visa">MORE INFORMATION ABOUT US</a></div>
 
 <div class="row">
 <div class="column-five paddingAllExtra mobpadding-0">
@@ -58,8 +58,8 @@
 </div>
 <div class="column-five paddingAllExtra mobpadding-0">
 <a class="footerLinks" href="<?=base_url()?>web/sharjah" title="Sharjah Visa">Sharjah Visa</a>
-<a class="footerLinks" href="<?=base_url()?>web/abu_dhabi" title="Abu Dhabi Visa">Abu Dhabi Visa</a>
-<a class="footerLinks" href="<?=base_url()?>web/ajman" title="Ajman Visa">Ajman Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/abu_dhabi_visa" title="Abu Dhabi Visa">Abu Dhabi Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/ajman_visa" title="Ajman Visa">Ajman Visa</a>
 </div>
 </div>
 </div>
