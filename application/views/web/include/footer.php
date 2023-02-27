@@ -47,19 +47,19 @@
 <p class="container column-eight font-Weight-Normal">We are dubai visa request facilitation service with vast experience and technical know-how, that helps worldwide travellers process for dubai visa online. Our experts scrutinize your visa request and make sure that it is approved by Dubai authorities within the shortest possible time.</p>
 
 </div>
-<div class="row padding-top-bottom"><a href="about-us.php" class="button-large secondry-button container mobRow alignFromCenter" title="About Insta Dubai Visa">MORE INFORMATION ABOUT US</a></div>
+<div class="row padding-top-bottom"><a href="<?=base_url()?>Web/about_us" class="button-large secondry-button container mobRow alignFromCenter" title="About Insta Dubai Visa">MORE INFORMATION ABOUT US</a></div>
 
 <div class="row">
 <div class="column-five paddingAllExtra mobpadding-0">
-<a class="footerLinks" href="fujairah.php" title="Fujairah Visa">Fujairah Visa</a>
-<a class="footerLinks" href="umm-al-quwain.php" title="Umm Al-Quwain Visa">Umm Al-Quwain Visa</a>
-<a class="footerLinks" href="ras-al-khaimah.php" title="Ras Al-Khaimah Visa">Ras Al-Khaimah Visa</a>
-<a class="footerLinks" href="uae-visa.php" title="Ras Al-Khaimah Visa">UAE Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/fujairah" title="Fujairah Visa">Fujairah Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/umm_al_quwain" title="Umm Al-Quwain Visa">Umm Al-Quwain Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/ras_al_khaimah" title="Ras Al-Khaimah Visa">Ras Al-Khaimah Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/uae_visa" title="Ras Al-Khaimah Visa">UAE Visa</a>
 </div>
 <div class="column-five paddingAllExtra mobpadding-0">
-<a class="footerLinks" href="sharjah.php" title="Sharjah Visa">Sharjah Visa</a>
-<a class="footerLinks" href="abu-dhabi.php" title="Abu Dhabi Visa">Abu Dhabi Visa</a>
-<a class="footerLinks" href="ajman.php" title="Ajman Visa">Ajman Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/sharjah" title="Sharjah Visa">Sharjah Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/abu_dhabi" title="Abu Dhabi Visa">Abu Dhabi Visa</a>
+<a class="footerLinks" href="<?=base_url()?>web/ajman" title="Ajman Visa">Ajman Visa</a>
 </div>
 </div>
 </div>
