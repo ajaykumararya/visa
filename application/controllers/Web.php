@@ -28,28 +28,15 @@ class Web extends CI_Controller
   	}
   	function visa_application_form()
   	{
-		$config['upload_path'] = 'upload';
-	    $config['allowed_types'] = 'gif|jpg|png|jpeg';
-	    $config['max_size'] = 1000;
-	    $config['max_width'] = 1024;
-	    $config['max_height'] = 768;
+		// $config['upload_path'] = 'upload';
+        //  $config['allowed_types'] = 'gif|jpg|png|jpeg';
+        //  $this->load->library('upload', $config);
+        //  $this->input->post('passport_copy_number');
+        //  $data_upload_files = $this->upload->data();
 
-	    $this->load->library('upload', $config);
-	     $sau = '';
-	     $addi = '';
-	    if (!$this->upload->do_upload('passport_copy_upload')) {
-	        $error = array('error' => $this->upload->display_errors());
-	    } else {
-	        $sau =  $this->upload->data('file_name');
-	       // print_r($sau);
-	    }
-	    if (!$this->upload->do_upload('additional_document5_upload')) {
-	        $error = array('error' => $this->upload->display_errors());
-	    } else {
-	        $addi =  $this->upload->data('file_name');
-	       // print_r($sau);
-	    }
-  		if($post = $this->input->post()){
+        //  $data= $data_upload_files['upload'];
+		
+		if($post = $this->input->post()){
 			$data = array(
 								'visa_type_id'=>$post['visa_type_id'],
 								'insurance'=>$post['insurance'],
@@ -71,8 +58,8 @@ class Web extends CI_Controller
 								'start_date_day'=>$post['start_date_day'],
 								'start_date_month'=>$post['start_date_month'],
 								'start_date_year'=>$post['start_date_year'],
-								'passport_copy_upload'=>$sau,
-								'additional_document5_upload'=>$addi
+								'passport_copy_upload'=>$post['passport_copy_number'],
+								'additional_document5_upload'=>$post['additional_document5_upload'],
 								
 				);
 				$this->db->insert('users',$data);
@@ -80,8 +67,7 @@ class Web extends CI_Controller
 				redirect(current_url());
 			}
 			else
-  				$this->load->view(current_url());
-  		
+				$this->load->view('web/visa_application_form');
   	}
 
   	function contact_us()
