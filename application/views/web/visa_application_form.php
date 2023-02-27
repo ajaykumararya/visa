@@ -5,7 +5,7 @@
               if($msg = $this->session->flashdata('msg'));
                 echo $msg;
             ?>
-    <form action="<?=base_url('Web/visa_application_form')?>" enctype="multipart/form-data" id="visaForm" method="post" name="visaForm"
+    <form  enctype="multipart/form-data" id="visaForm" method="post" name="visaForm"
         onsubmit="return validateTravelDetails(this)&amp;&amp;ShowLoading()">
         <div id="loading2"
             style="position: fixed; top: 0px; left: 0px; z-index: 5000; width: 100%; height: 100%; text-align: center; background: rgba(255, 255, 255, 0.9); color: rgb(0, 0, 0); display: none;">
