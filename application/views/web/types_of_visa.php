@@ -1,4 +1,11 @@
 <?php include_once "include/header.php";?>
+
+<style>
+.butt{
+    background:#001d70;
+}
+
+</style>
 <div class="row body-panel">
     <div class="wrap pos-Reltv"> <a href="https://www.instadubaivisa.com" class="pageClosebutton"><img
                 src="https://media.instadubaivisa.com/images/delete-icon.png" title="Insta Dubai Visa"
@@ -24,7 +31,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $189</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $189</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
@@ -53,7 +60,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $390</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $390</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
@@ -83,7 +90,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $199</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $199</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
@@ -113,7 +120,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $445</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $445</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
@@ -143,7 +150,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $349</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $349</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
@@ -173,7 +180,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $649</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $649</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
@@ -205,7 +212,7 @@
                             <div class="alignFromCenter column-three mob30 paddingFromRight pos-Reltv yellow">
                                 <div
                                     class="row alignFromCenter black fontBold fontTwnty line-height-reg padding-All-sm">
-                                    $149</div><a class="button-sm container primary-button" href="javascript:void();"
+                                    $149</div><a class="button-sm container primary-button butt" href="javascript:void();"
                                     onclick="showApplyNow(&quot;Open&quot;)">Apply Now</a>
                             </div>
                             <div class="row content marginFromTop paddingAll">
