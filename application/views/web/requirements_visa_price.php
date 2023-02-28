@@ -18,7 +18,7 @@
 	position:relative;
 }
 .issueDiv {
-	background: #00732f;
+	background: #001d70;
 	color: #fff;
 	border-radius: 20px;
 	padding: 5px 5px;
