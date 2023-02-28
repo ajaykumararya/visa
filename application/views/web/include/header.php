@@ -52,7 +52,7 @@
       <div class="menuIcon" id="menuIcon">
         <div class="tdv-img-sprites mobi"></div>
       </div>
-      <div class="logoPanel"><a href="index.php" class="row"><img src="<?=base_url()?>assets/website/media/images/tdv-logo-v2.png" class="circle" width="140" height="140" title="Insta Dubai Visa" alt="Insta Dubai Visa"/></a></div>
+      <div class="logoPanel"><a href="index.php" class="row"><img src="<?=base_url()?>assets/website/media/images/logo.png" class="circle" width="140" height="140" title="Insta Dubai Visa" alt="Insta Dubai Visa"/></a></div>
       <nav class="navigation-Panel radius-0-1-1-0">
         <div class="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
 
