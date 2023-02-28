@@ -5,6 +5,11 @@
 </head>
 <body>
 <div class="wrapper"> 
+
+<style>
+  a:hover
+  {background-color: white;color:black}
+</style>
 <?php include_once "include/header.php"; ?>
   
   <div class="row bannerPanel header-Panel">
