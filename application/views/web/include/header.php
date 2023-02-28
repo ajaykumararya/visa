@@ -9,7 +9,7 @@
 <link rel="canonical" href="index.php">
 <style>
   :root{
-    --theme-color:red;
+    --theme-color:#001d70;
   }
 </style>
 <link rel="alternate" href="index.php" hreflang="en">
