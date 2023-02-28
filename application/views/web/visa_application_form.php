@@ -1,5 +1,10 @@
 <?php include_once "include/header.php";?>
+<style>
 
+    .butt{
+        background:#001d70;
+    }
+</style>
 <div class="row body-panel">
             <?
               if($msg = $this->session->flashdata('msg'));
@@ -829,11 +834,11 @@
                                 </div>
                                 <div class="container next" id="button2"><input id="submit_r" name="continue"
                                         value="Submit Application"
-                                        class="marginFromTop button-large mobRow marginFromRight primary-button"
+                                        class="marginFromTop butt button-large mobRow marginFromRight primary-button"
                                         type="submit">
                                     <input id="submit_addmore_button" name="submit_addmore_button"
                                         value="Add More Applicant"
-                                        class="marginFromTop button-large mobRow marginFromRight custom-button"
+                                        class="marginFromTop butt button-large mobRow marginFromRight custom-button"
                                         type="submit">
                                 </div>
                             </div>
