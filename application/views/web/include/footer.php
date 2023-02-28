@@ -71,14 +71,14 @@
 </div>
 <div class="row mobmarginFromBottom">
 <div class="row paddingFromRight box_Sizing">
-<a class="footerLinks" href="make-payment.php" title="Payment" itemprop="url">Payment</a>
-<a class="footerLinks" href="termsandcondition.php" title="Terms & Conditions">Terms & Conditions</a>
-<a class="footerLinks" href="privacystatement.php" title="Privacy Policy">Privacy Policy</a>
-<a class="footerLinks" href="contact-us.php" title="Contact Us">Contact Us</a>
+<a class="footerLinks" href="<?=base_url()?>web/make_payment" title="Payment" itemprop="url">Payment</a>
+<a class="footerLinks" href="<?=base_url()?>web/termsandcondition" title="Terms & Conditions">Terms & Conditions</a>
+<a class="footerLinks" href="<?=base_url()?>web/privacy_policy" title="Privacy Policy">Privacy Policy</a>
+<a class="footerLinks" href="<?=base_url()?>web/contact_us" title="Contact Us">Contact Us</a>
 <a class="footerLinks" href="customer-reviews.php" title="Customer Reviews">Customer Reviews</a>
 <a class="footerLinks" href="faq.php" title="Dubai Visa FAQs">FAQs</a>
 <a class="footerLinks" href="blog.php" title="Dubai Visa Blog">Blog</a>
-<a class="footerLinks" href="requirements-visa-price.php" title="Price Requirement">Price Requirement</a>
+<a class="footerLinks" href="<?=base_url()?>web/requirements_visa_price" title="Price Requirement">Price Requirement</a>
 </div>
 <div class="social-<?=base_url()?>assets/website/media-icon marginFromTop">
 <p class="ptext4 row marginFromBottom white paddingFromTop">Follow us for news & offers.</p>

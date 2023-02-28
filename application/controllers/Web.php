@@ -154,6 +154,28 @@ class Web extends CI_Controller
 		$this->load->view('web/umm_al_quwain');
 	}
 
+	function privacy_policy()
+	{
+		$this->load->view('web/privacy_policy');
+	}
+	function termsandcondition()
+	{
+		$this->load->view('web/termsandcondition');
+	}
+	function make_payment()
+	{
+		$this->load->view('web/make_payment');
+	}
+	function requirements_visa_price()
+	{
+		$this->load->view('web/requirements_visa_price');
+	}
+	function visa_application_landing_form()
+	{
+		$this->load->view('web/visa_application_landing_form';)
+	}
+
+
 
 }
 ?>
