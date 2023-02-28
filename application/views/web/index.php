@@ -1000,7 +1000,7 @@
             <section class="row flagBG">
         <div class="whyUsBoxPanel">
           <div class="column-four whyUsPanel">
-            <div class="column-two mob20"><img  data-src="<?=base_url()?>assets/website/media/images/logo.jpg" width="80" height="70" alt="Dubai Visa" title="Dubai Visa" class="mobIMG pull_left circle lazy"/></div>
+            <div class="column-two mob20"><img  data-src="<?=base_url()?>assets/website/media/images/logo.png" width="80" height="70" alt="Dubai Visa" title="Dubai Visa" class="mobIMG pull_left circle lazy"/></div>
             <div class="column-eight mob80">
               <p class="ptext1 black paddingFromBottom marginFromTop marginFromBottom mobpadding-0">Why Tourist Dubai Visa?</p>
               <div class="row points padding-All-sm whyTDV">
@@ -1020,25 +1020,22 @@
               </div>
             </div>
           </div>
-          <div class="column-six box_Sizing borderFromLeft visaTypePanel" style="">
+          <div class="column-six box_Sizing borderFromLeft visaTypePanel">
             <div class="row">
               <h3 class="headingtext1 upperCase paddingFromBottom black marginFromTop mobpadding-0">Types of dubai Visa</h3>
             </div>
             <div class="tab-panel padding-0">
               <div id="tabs-container" class="row">
                 <ul class="tabs-menu">
-                  <li class="current"><a href="#tab-1" style="background:#001d70;color:white;a:hover {
-  background-color: white;
-  color:black;
-}">14 Days<br/>
+                  <li class="current"><a href="#tab-1">14 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
-                    <li><a href="#tab-2" style="background:#001d70;color:white;">30 Days<br/>
+                    <li><a href="#tab-2">30 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
-                  <li><a href="#tab-3" style="background:#001d70;color:white;">30 Days<br/>
+                  <li><a href="#tab-3">30 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Multiple Entry)</span></a></li>
-                  <li><a href="#tab-4" style="background:#001d70;color:white;">60 Days<br/>
+                  <li><a href="#tab-4">60 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
-                                    <li><a href="#tab-9" style="background:#001d70;color:white;">Transit Visa<br/>
+                                    <li><a href="#tab-9">Transit Visa<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
                 </ul>
                 <div class="tab">
