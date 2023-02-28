@@ -1027,15 +1027,15 @@
             <div class="tab-panel padding-0">
               <div id="tabs-container" class="row">
                 <ul class="tabs-menu">
-                  <li class="current"><a href="#tab-1" style="background:#001d70">14 Days<br/>
+                  <li class="current"><a href="#tab-1" style="background:#001d70;color:white;">14 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
-                    <li><a href="#tab-2" style="background:#001d70">30 Days<br/>
+                    <li><a href="#tab-2" style="background:#001d70;color:white;">30 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
-                  <li><a href="#tab-3" style="background:#001d70">30 Days<br/>
+                  <li><a href="#tab-3" style="background:#001d70;color:white;">30 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Multiple Entry)</span></a></li>
-                  <li><a href="#tab-4" style="background:#001d70">60 Days<br/>
+                  <li><a href="#tab-4" style="background:#001d70;color:white;">60 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
-                                    <li><a href="#tab-9">Transit Visa<br/>
+                                    <li><a href="#tab-9" style="background:#001d70;color:white;">Transit Visa<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
                 </ul>
                 <div class="tab">
