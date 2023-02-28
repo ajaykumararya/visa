@@ -5,11 +5,6 @@
 </head>
 <body>
 <div class="wrapper"> 
-
-<style>
-  a:hover
-  {background-color: white;color:black}
-</style>
 <?php include_once "include/header.php"; ?>
   
   <div class="row bannerPanel header-Panel">
@@ -1032,7 +1027,10 @@
             <div class="tab-panel padding-0">
               <div id="tabs-container" class="row">
                 <ul class="tabs-menu">
-                  <li class="current"><a href="#tab-1" style="background:#001d70;color:white;">14 Days<br/>
+                  <li class="current"><a href="#tab-1" style="background:#001d70;color:white;a:hover {
+  background-color: white;
+  color:black;
+}">14 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
                     <li><a href="#tab-2" style="background:#001d70;color:white;">30 Days<br/>
                     <span class="row" style="line-height:12px; font-size:10px;">(Single Entry)</span></a></li>
