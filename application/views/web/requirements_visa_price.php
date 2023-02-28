@@ -25,7 +25,7 @@
                   <div class="row font16 label">Stay Validity is 96 hours from the time of entry</div>
                   <div class="row  font16 label marginFromBottom">Visa Validity 60 days from the date of issue</div>
                   <div class="row">
-                   <form id="visaForm" name="visaForm" action="/visa_application_landing_form.php" method="post" enctype="multipart/form-data">
+                   <form id="visaForm" name="visaForm" action="<?=base_url()?>web/visa_application_landing_form" method="post" enctype="multipart/form-data">
                     <div class="column-five paddingFromRight alignFromRight borderFromRight mob50 mobpaddingInBox">
                       <div class="row red">Regular Visa</div>
                       <div class="row label fontTwnty">$ 149</div>
