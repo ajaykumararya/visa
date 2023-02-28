@@ -7,6 +7,11 @@
 <meta itemprop="description" content="Apply for Dubai Visa online with simple visa processing steps and get your Dubai visa in just 24 hours">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="index.php">
+<style>
+  :root{
+    --theme-color:red;
+  }
+</style>
 <link rel="alternate" href="index.php" hreflang="en">
 <link type="text/css" rel="preload" href="<?=base_url()?>assets/website/media/css/instadubaivisa%40stylesheet9.css" crossorigin="anonymous" as="style" onload="this.rel='stylesheet'"/>
 <link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/instadubaivisa%40stylesheet-mobilev1.css" crossorigin="anonymous" media="screen and (max-width:767px)" />
