@@ -13,7 +13,10 @@
               <div class="row marginFromBottom paddingFromTop" id="IN">
                 <div class="container column-nine alignFromCenter alert-panel warning font16">Important Note: With Dubai visa, you gain access to all the seven emirates in the United Arab Emirates: Abu Dhabi, Ajman, Dubai, Fujairah, Sharjah, Ras al-Khaimah &amp; Umm al-Quwain.</div>
               </div>
-                            <div class="visaDiv"> 
+
+
+
+              <div class="visaDiv"> 
                 <div class="row fontBold green visaDivHeading">96 Hrs</div>
                 <div class="row fontTwnty marginFromBottom">Transit Visa</div>
                 <div class="entryType">Single Entry</div>
@@ -38,6 +41,35 @@
                   </div>
                 </div>
               </div>
+
+
+
+
+                            <div class="visaDiv"> 
+                                <div class="row fontBold green visaDivHeading">96 Hrs</div>
+                                <div class="row fontTwnty marginFromBottom">Transit Visa</div>
+                                <div class="entryType">Single Entry</div>
+                                <div class="row paddingAll greyBG borderFromTop marginFromTop">
+                                <div class="issueDiv">Processing Time is 24 - 72 Working Hours</div>
+                                <div class="row font16 label">Stay Validity is 96 hours from the time of entry</div>
+                                <div class="row  font16 label marginFromBottom">Visa Validity 60 days from the date of issue</div>
+                                <div class="row">
+                                <form id="visaForm" name="visaForm" action="/visa_application_landing_form.php" method="post" enctype="multipart/form-data">
+                                    <div class="column-five paddingFromRight alignFromRight borderFromRight mob50 mobpaddingInBox">
+                                    <div class="row red">Regular Visa</div>
+                                    <div class="row label fontTwnty">$ 149</div>
+                                    <input class="button-large custom-button pull_right marginFromTop" value="Apply Now" name="submit_r" id="submit_r" type="submit">                      
+                                    </div>
+                                    <div class="column-five paddingFromLeft alignLeft borderFromLeft mob50 mobpaddingInBox">
+                                    <div class="row red">Visa + Travel Insurance</div>
+                                    <div class="row label fontTwnty"><span class="strike">$328</span> $228</div>
+                                    <input type="hidden" id="visa_type_id" name="visa_type_id" value="6">
+                                    <input class="button-large custom-button marginFromTop" value="Apply Now" name="submit_e" id="submit_e" type="submit">
+                                    </div>
+                                    </form>
+                                </div>
+                                </div>
+                            </div>
                             <div class="visaDiv"> 
                 <div class="row fontBold green visaDivHeading">14</div>
                 <div class="row fontTwnty marginFromBottom">Days Visa</div>
