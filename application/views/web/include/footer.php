@@ -8,7 +8,7 @@
 <div class="footerLogo">
     <div class="secure-box" style="left:-105px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/transaction.webp" width="100" height="79" title="Secure Transaction" alt="Secure Transaction" class="lazyload"/></div>
 <img  data-src="<?=base_url()?>assets/website/media/images/logo.png" width="140" height="140" class="circle lazy" alt="Insta Dubai Visa" title="Insta Dubai Visa"/>
-<div class="secure-box" style="right:-105px;"><img class="lazyload lazy" data-src="<?=base_url()?>assets/website/media/images/payment.jpg" width="100" height="79" title="Secure Payment" alt="Secure Payment"/></div>
+<div class="secure-box" style="right:-105px;"><img class="lazyload lazy" data-src="<?=base_url()?>assets/website/media/images/secure.webp" width="100" height="79" title="Secure Payment" alt="Secure Payment"/></div>
 </div>
 
 </div>
