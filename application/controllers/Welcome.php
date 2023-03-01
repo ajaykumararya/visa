@@ -14,6 +14,10 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('login'); 
 	}
+
+	function not_found(){
+		$this->load->view('errors/not_found');
+	}
 }
 
 
