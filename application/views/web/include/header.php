@@ -89,7 +89,7 @@
         
         
         
-                <div class="row alignFromCenter fontEleven">+91-971589667714</div>
+                <div class="row alignFromCenter fontEleven">+971589667714</div>
               </div>
       
 <div style="position:fixed; left:0px; bottom:0px; width:100%; z-index:10000; ">

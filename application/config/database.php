@@ -97,7 +97,7 @@ $db['default'] = array(
 
 // if($_SERVER['HTTP_HOST'] == 'localhost'){
 // 	$db['default']['username'] = 'root',
-// 	$db['default']['password'] = 'root',
+// 	$db['default']['password'] = '',
 // 	$db['default']['database'] = 'visa',
 // }
 
