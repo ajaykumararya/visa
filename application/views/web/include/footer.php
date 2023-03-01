@@ -80,7 +80,7 @@
 <a class="footerLinks" href="blog.php" title="Dubai Visa Blog">Blog</a>
 <a class="footerLinks" href="<?=base_url()?>web/requirements_visa_price" title="Price Requirement">Price Requirement</a>
 </div>
-<div class="social-<?=base_url()?>assets/website/media-icon marginFromTop">
+<div class="social-<?=base_url()?>assets/website/media-icon marginFromTop" style="color:white;">
 <p class="ptext4 row marginFromBottom white paddingFromTop">Follow us for news & offers.</p>
 <a class="fb" target="_blank" href="https://www.facebook.com/touristdubaivisa" style="padding:5px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/fb.png" width="20" height="20" alt="Facebook" title="Facebook" /></a>
 <a class="tw" target="_blank" href="https://twitter.com/touristdubaivisa" style="padding:5px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/tw.png" width="20" height="20" alt="Twitter" title="Twitter"/></a>
