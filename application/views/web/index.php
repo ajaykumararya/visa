@@ -1241,7 +1241,7 @@ But Maryam was too irresponsible.</span> </li>
       </div>
             <div class="homeblog">
         <div class="row">
-                    <div class="row"> <a class="post-img" href="blog/sunbath-and-winter-tan-in-uae-beach.php"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/blog/sunbath-and-winter-tan-in-uae-beach-instadubaivisa_1672404115.jpg" class="" alt="Sunbath And Winter Tan In UAE Beach" title="Sunbath And Winter Tan In UAE Beach" width="100%" height="200"/></a> </div>
+                    <div class="row"> <a class="post-img" href="blog/sunbath-and-winter-tan-in-uae-beach.php"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/blog/sunbathing-and-tanning-saadiyat-beach-abu-dhabi-uae.jpg" class="" alt="Sunbath And Winter Tan In UAE Beach" title="Sunbath And Winter Tan In UAE Beach" width="100%" height="200"/></a> </div>
                   </div>
         <div class="row paddingAllExtra">
           <div class="row font-Weight-Normal marginFromBottom borderFromBottom paddingFromBottom black"> <a href="blog/sunbath-and-winter-tan-in-uae-beach.php" class="row black fontTwnty height54">
