@@ -1257,7 +1257,7 @@ But Maryam was too irresponsible.</span> </li>
  
 <div class="row blueBG gapping borderFromTop borderFromBottom">   
 <div class="wrap paddingAll">
-<div class="column-three"><img class="lazy" data-src="images/uae_banner-sm.jpg" width="300" height="216" alt="Things to be done on arrival in Dubai" title="Things to be done on arrival in Dubai" class="float-Disabled"/></div>
+<div class="column-three"><img class="lazy" data-src="<?=base_url()?>assets/website/images/uae_banner-sm.jpg" width="300" height="216" alt="Things to be done on arrival in Dubai" title="Things to be done on arrival in Dubai" class="float-Disabled"/></div>
 <div class="column-seven content">
 <div class="row fontTwnty8 marginFromBottom green borderFromBottom paddingFromTop marginFromTop paddingFromBottom label upperCase">Things to be done on arrival in Dubai</div>
 <ul>
