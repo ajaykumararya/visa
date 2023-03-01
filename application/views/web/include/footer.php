@@ -80,9 +80,9 @@
 <a class="footerLinks" href="blog.php" title="Dubai Visa Blog">Blog</a>
 <a class="footerLinks" href="<?=base_url()?>web/requirements_visa_price" title="Price Requirement">Price Requirement</a>
 </div>
-<div class="social-<?=base_url()?>assets/website/media-icon marginFromTop">
+<div class="social-<?=base_url()?>assets/website/media-icon marginFromTop" style="background:white;border: 2px solid blue;padding: 10px;border-radius:0 50px 0 20px;">
 <p class="ptext4 row marginFromBottom white paddingFromTop">Follow us for news & offers.</p>
-<a class="fb" target="_blank" href="https://www.facebook.com/touristdubaivisa" style="padding:5px;"><img style="color:white" class="lazy" data-src="<?=base_url()?>assets/website/media/images/fb.png" width="20" height="20" alt="Facebook" title="Facebook" /></a>
+<a class="fb" target="_blank" href="https://www.facebook.com/touristdubaivisa" style="padding:5px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/fb.png" width="20" height="20" alt="Facebook" title="Facebook" /></a>
 <a class="tw" target="_blank" href="https://twitter.com/touristdubaivisa" style="padding:5px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/tw.png" width="20" height="20" alt="Twitter" title="Twitter"/></a>
 <a class="linkin" target="_blank" href="https://www.linkedin.com/company/touristdubaivisa/" style="padding:5px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/link.png" width="20" height="20" alt="LinkedIn" title="LinkedIn"/></a>
 <a class="instagram" target="_blank" href="https://www.instagram.com/touristdubaivisa/" style="padding:5px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/instagram-sm.png" width="20" height="20" alt="Instagram" title="Instagram"/></a>
