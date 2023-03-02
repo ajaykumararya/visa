@@ -13,8 +13,7 @@
             <div class="wrap pos-Reltv">
                 <div class="searchPanelBox mobRadius" id="applyNow">
                     <div class="searchPanelTitle">Apply Visa Now</div>
-                    <form action="<?=base_url()?>Web/response" method="post" name="viewVisaDetails"
-                        onSubmit="return ss_valid();">
+                    <form action="<?=base_url()?>Web/response" method="post">
                         <div class="searchPanel">
                             <div class=" marginFromBottom column-four">
                                 <p class=" ptext4 label font-Weight-Normal col-sm-5">I am a Citizen of</p>
@@ -42,7 +41,7 @@
                             </div>
                             <div class="column-one-four col-sm-1 mobContainer">
                                 <div class="row label mobDisplayNone">&nbsp;</div>
-                                <input type="button"
+                                <input type="submit"
                                     class="row button-large primary-button marginFromBottomNone alignFromCenter"
                                     value="GO" />
                             </div>
