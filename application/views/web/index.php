@@ -1086,7 +1086,7 @@
                   </div>
                 
                   <div class="tab-content" id="tab-9">
-                    <p><span class="blue marginFromRight"><a href="visa-online/transit-visa.php"
+                    <p><span class="blue marginFromRight"><a href="<?=base_url()?>Web/transit_visa"
                                         title="96 Hours Transit Dubai Visa Single Entry">96 Hours Transit Visa (Single Entry):</a></span> 96 Hours Transit Visa will make travel between U.A.E. and visiting nearby countries easier for travelers who need to make multiple stops for Long time whether by air, land or sea and return to Dubai on the same visa rather than having to incur additional time and expense obtaining two or three or more separate visas. Requirements for obtaining the 96 Hours Transit Visa varies depending on your nationality.<br>
                     </p>
                     <p>96 Hours Transit Visa is a Single entry visa, which entitles you to stay .for up to 96 Hours or less. The validity will be 60 days from the date of issue but stay should be no more than 96 Hours from the date of entry. You can travel multiple times to UAE in this span of 96 Hours.</p>
