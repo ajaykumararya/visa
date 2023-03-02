@@ -9,12 +9,13 @@
   
   <div class="row bannerPanel header-Panel">
     <div class="wrap pos-Reltv">
-      <div class="searchPanelBox mobRadius" id="applyNow">
-                <div class="searchPanelTitle">Apply Visa Now</div>
+     
+<div class="searchPanelBox mobRadius" style=" position:fixed; margin:auto; left:0px; right:0px; top:0px; bottom:0px;">
+        <div class="searchPanelTitle">Apply Now</div>
         <form action="<?=base_url()?>Web/response" method="post" name="viewVisaDetails" onSubmit="return ss_valid();">
           <div class="searchPanel">
             <div class=" marginFromBottom column-four">
-              <p class=" ptext4 label font-Weight-Normal col-sm-5">I am a Citizen of</p>
+              <p class=" ptext4 label font-Weight-Normal col-sm-5">Choose your Nationality</p>
               <select class="advance-search" name="nationality" id="nationality">
                 <option value="">Select</option>
                                 <option value="473#Albania">
@@ -434,7 +435,7 @@
                               </select>
             </div>
             <div class=" marginFromBottom column-four">
-              <p class="ptext4 label font-Weight-Normal col-sm-5">I am Travelling From </p>
+              <p class="ptext4 label font-Weight-Normal col-sm-5">I am living in </p>
               <select class="advance-search" id="living_in" name="living_in" >
                 <option value="">Select</option>
                                 <option value="209#Afghanistan">
@@ -928,6 +929,7 @@
             <div class="column-one-four col-sm-1 mobContainer">
               <div class="row label mobDisplayNone">&nbsp;</div>
               <input type="button" class="row button-large primary-button marginFromBottomNone alignFromCenter" value="GO" onClick="submitCheck();"/>
+                           <button type="button" onClick="showApplyNow('Close');" class="" style="position:absolute; right:-7px; top:-7px; background:url(../media.instadubaivisa.com/images/wrong.png); width:24px; height:24px; cursor:pointer; border:none;"></button>
             </div>
           </div>
         </form>
