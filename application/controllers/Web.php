@@ -7,9 +7,9 @@ class Web extends CI_Controller
 		parent::__construct();
 	}
 
-	public function index(){
-  		$this->load->view('web/index');
-		
+	public function index()
+	{
+  		$this->load->view('web/index');	
   	}
 	// public function track_application()
 	// {
@@ -182,7 +182,6 @@ class Web extends CI_Controller
 	}
 	function response()
 	{
-
 		$this->load->view('web/response');
 	}
 
