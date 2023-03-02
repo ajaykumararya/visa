@@ -8,13 +8,8 @@ class Web extends CI_Controller
 	}
 
 	public function index(){
-		if()
-
-		$search_term = $this->input->post('nationality','living_in');
-
-		else
-			$this->load->view('web/index');
-
+  		$this->load->view('web/index');
+		
   	}
 	// public function track_application()
 	// {
@@ -188,12 +183,7 @@ class Web extends CI_Controller
 	function response()
 	{
 
-		// $this->load->view('web/response');
-		$search_term = $this->input->post('search');
-		// Do something with the search term
-	
-		$data['search_term'] = $search_term;
-		$this->load->view('search_results', $data);
+		$this->load->view('web/response');
 	}
 
 }
