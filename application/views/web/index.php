@@ -34,7 +34,7 @@
                                 <select class="advance-search" id="living_in" name="living_in">
                                     <option value="">Select</option>
                                     <?php
-                                    foreach(config_item('traveling' as $row)){
+                                    foreach(config_item('traveling') as $row){
                                       echo '<option value="'.$row.'">'.$row.'</option>';
                                     }
                                     ?>
