@@ -42,9 +42,10 @@
                             </div>
                             <div class="column-one-four col-sm-1 mobContainer">
                                 <div class="row label mobDisplayNone">&nbsp;</div>
-                                <input type="button"
+                                <buttton type="submit" class="btn btn-primary btn-lg">Check</buttton>
+                                <!-- <input type="button"
                                     class="row button-large primary-button marginFromBottomNone alignFromCenter"
-                                    value="GO" onClick="submitCheck();" />
+                                    value="GO" onClick="submitCheck();" /> -->
                             </div>
                         </div>
                     </form>
