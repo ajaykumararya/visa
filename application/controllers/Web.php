@@ -14,6 +14,7 @@ class Web extends CI_Controller
 	// public function track_application()
 	// {
 	// 	$this->load->view('Web/track_application'); 
+	// $product_id = $this->uri->segment(3, 0);
 	// }
 	function track_application()
 	{
@@ -176,12 +177,13 @@ class Web extends CI_Controller
 		$this->load->view('web/visa_application_landing_form');
 	}
 
-	function search()
-	{
-		$this->load->view('web/search');
-	}
+	
 	function response()
 	{
+		if(!$this->input->post()){
+			redirect();
+		}
+		else
 		$this->load->view('web/response');
 	}
 
