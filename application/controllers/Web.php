@@ -175,7 +175,10 @@ class Web extends CI_Controller
 		$this->load->view('web/visa_application_landing_form');
 	}
 
-
+	function response()
+	{
+		$this->load->view('web/response');
+	}
 
 }
 ?>
