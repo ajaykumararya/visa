@@ -23,11 +23,11 @@
 <div class="row paddingFromRight box_Sizing">
 <a class="footerLinks" href="uae-tourism.php" title="Tourism in UAE" >Tourism in UAE</a>
 <a class="footerLinks" href="repeatcustomer.php" title="Repeat Customer">Repeat Customer</a>
-<a class="footerLinks" href="types-of-visa.php" title="Types of Visa">Types of Visa</a>
+<a class="footerLinks" href="<?=base_url()?>Web/types_of_visa" title="Types of Visa">Types of Visa</a>
 <a class="footerLinks" href="dubai-visa-online.php" title="Dubai Visa Online">Dubai Visa Online</a>
 <a class="footerLinks" href="dubai-visa-gcc-residents.php" title="Dubai Visa for GCC Residents">Dubai Visa for GCC Residents</a>
-<a class="footerLinks" href="dubai-visit-visa.php" title="Dubai Visit Visa">Dubai Visit Visa</a>
-<a class="footerLinks" href="dubai-tourist-visa.php" title="Dubai Tourist Visa">Dubai Tourist Visa</a>
+<a class="footerLinks" href="<?=base_url()?>Web/dubai_visit_visa" title="Dubai Visit Visa">Dubai Visit Visa</a>
+<a class="footerLinks" href="<?=base_url()?>Web/dubai_tourist_visa" title="Dubai Tourist Visa">Dubai Tourist Visa</a>
 
 
 <div class="row marginFromTop">
