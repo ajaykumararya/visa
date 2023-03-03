@@ -175,6 +175,7 @@ class Web extends CI_Controller
 	function visa_application_landing_form()
 	{
 		$this->load->view('web/visa_application_landing_form');
+		
 	}
 
 	function dubai_tourist_visa()
@@ -189,10 +190,10 @@ class Web extends CI_Controller
 	
 	function response()
 	{
-		if(!$this->input->post()){
-			redirect();
-		}
-		else
+		// if(!$this->input->post()){
+		// 	redirect();
+		// }
+		// else
 		$this->load->view('web/response');
 	}
 
