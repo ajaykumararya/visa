@@ -10,7 +10,7 @@
         <section class="row">
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Dubai Visit Visa</h1>
             <div class="row marginFromTop mobImgfull-width"><img
-                    src="<?=base_url()?>assets/website/media/images/visit-dubai-uae.webp" width="1170" height="200"
+                    src="<?=base_url()?>assets/website/media/images/Dubai-Extention-Visa.jpg" width="1170" height="200"
                     title="" alt="About Insta Dubai Visa for UAE Visa Application" class="borderFromAll box_Sizing" />
             </div>
             <div class="row">
