@@ -5,6 +5,9 @@ class User extends CI_Controller
 	{
 		parent::__construct();
 
+		if(!$this->session->has_userdata('user_login'))
+			redirect('login');
+
 	}
 	   
 	function index()
