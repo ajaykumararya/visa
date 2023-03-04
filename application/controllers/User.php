@@ -33,6 +33,20 @@ class User extends CI_Controller
 			$this->load->view(__FUNCTION__);
 	}
 
+	function add_image()
+	{
+		if($post = $this->input->post()){
+			$data = array(
+								'header_image'=>$post['header_image'],
+				);
+				$this->db->insert('setting',$data);
+				$this->session->set_flashdata('msg','<div class="alert alert-success">Image Added Successfully..</div>');
+				redirect(current_url());
+			}
+		else
+		$this->load->view(__FUNCTION__);
+	}
+
 	public function ajax()
 	{
 		$return = array();
