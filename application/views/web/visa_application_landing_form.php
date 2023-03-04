@@ -1,7 +1,7 @@
 <?php include_once "include/header.php";?>
 
 <div class="row body-panel">
-    <form id="visaForm" name="visaForm" action="visa_application_landing_form.php" method="post"
+    <form id="visaForm" name="visaForm" action="<?=base_url()?>Web/visa_application_form" method="post"
         onsubmit="return validateTravelDetails(this)&amp;&amp; ShowLoading();" enctype="multipart/form-data">
         <div id="loading2"
             style="display:none;position: fixed; top: 0px; left: 0px; z-index: 5000; width: 100%; height: 100%; text-align: center; background: rgba(255, 255, 255, 0.9);color: black;">
