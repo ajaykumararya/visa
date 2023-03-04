@@ -56,7 +56,7 @@
                         <li class="slide">
                             <!-- <img class="lazy img"
                                  width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /> -->
+                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online"/> -->
                                 <link rel="stylesheet" class="lazy img" width="100%";
                                 height="360"; style="background-repeat:no-repeat"  alt="allpy for Dubai, UAE visa online" href="<?php echo base_url(); ?>assets/website/media/images/banner2.jpg">
 </li>
