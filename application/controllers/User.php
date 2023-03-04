@@ -59,10 +59,10 @@ class User extends CI_Controller
 				);
 				$this->db->insert('setting',$data);
 				$this->session->set_flashdata('msg','<div class="alert alert-success">Image Add Successfully...</div>');
-				redirect(site_url('User/add_image'));
+				redirect(current_url());
 			}
 		else
-		$this->load->view('add_image');
+		$this->load->view(__FUNCTION__);
 	}
 
 	public function ajax()

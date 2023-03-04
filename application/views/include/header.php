@@ -348,7 +348,7 @@
         </li>
 
 
-        <li class="active treeview">
+        <li class="treeview">
           <a href="#">
             <i class="fa fa-file"></i> <span>Setting</span>
             <span class="pull-right-container">
