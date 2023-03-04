@@ -54,15 +54,15 @@ class User extends CI_Controller
 			$data = array(
 								
 								'image_title'=>$post['image_title'],
-								'header_image'=>$addi,
+								'header_image'=>$sau,
 								
 				);
 				$this->db->insert('setting',$data);
 				$this->session->set_flashdata('msg','<div class="alert alert-success">Image Add Successfully...</div>');
-				redirect(current_url());
+				redirect(site_url('User/add_image'));
 			}
 		else
-		$this->load->view(__FUNCTION__);
+		$this->load->view('add_image');
 	}
 
 	public function ajax()
