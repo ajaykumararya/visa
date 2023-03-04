@@ -853,9 +853,9 @@
 
         <script>
     var images = [
-        "<?php echo base_url(); ?>path/to/your/image1.jpg",
-        "<?php echo base_url(); ?>path/to/your/image2.jpg",
-        "<?php echo base_url(); ?>path/to/your/image3.jpg"
+        "<?php echo base_url(); ?>assets/website/media/images/umm.jpg",
+        "<?php echo base_url(); ?>assets/website/media/images/abt.jpg",
+        "<?php echo base_url(); ?>assets/website/media/images/abu-dhabi.jpg"
     ];
     var i = 0;
     setInterval(function() {
