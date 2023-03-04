@@ -343,6 +343,21 @@
           <ul class="treeview-menu">
             <li><a href="<?=base_url()?>User/add_page"><i class="fa fa-circle-o"></i>Add Page</a></li>
             <li><a href="<?=base_url()?>User/list_pages"><i class="fa fa-circle-o"></i>All Page</a></li>
+            
+          </ul>
+        </li>
+
+
+        <li class="active treeview">
+          <a href="#">
+            <i class="fa fa-file"></i> <span>Setting</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="<?=base_url()?>User/add_image"><i class="fa fa-circle-o"></i>Add Header Image</a></li>
+            
           </ul>
         </li>
 
