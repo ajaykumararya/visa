@@ -1017,7 +1017,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">14 Days Dubai Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="<?=base_url()?>Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="1">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">

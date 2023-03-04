@@ -53,6 +53,9 @@
                         <li class="slide"><img class="lazy"
                                 data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
+                                <img class="lazy"
+                                data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
+                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
                     </ul>
                 </div>
                 <div class="welcomeTextPanel" style="float:right">
