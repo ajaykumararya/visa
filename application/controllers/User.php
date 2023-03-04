@@ -110,7 +110,7 @@ class User extends CI_Controller
 
 
 
-						case 'get_page':
+						case 'get_image':
 							$return['html'] = '<table class="table table-striped table-bordered">
 							<thead>
 								<tr>
@@ -129,8 +129,6 @@ class User extends CI_Controller
 								<td>'.$r->id.'</td>
 								<td>'.$r->image_title.'</td>
 								<td>'.$r->header_image.'</td>
-								<td><span class="btn btn-primary">content</span></td>
-								<td><a href=""><i class="btn btn-success fa fa-edit"></i></a></td>
 								<td class="center"><a href="javascript:delete_page('.$r->id.')" onclick="return confirm(\'Are You Sure Want to Delete?\')"><i class="btn btn-danger fa fa-trash"></i></a>									
 								</td>
 								</tr>'; 
