@@ -35,41 +35,32 @@ class User extends CI_Controller
 
 	function add_image()
 	{
-		if($post = $this->input->post())
-		{
+		$config['upload_path'] = './upload';
+	    $config['allowed_types'] = 'gif|jpg|png|jpeg';
 
-			$image = '';
-			if(isset($_FILES['header_image']['name'])){
-
-
-                $this->load->library('upload', [
-                		'upload_path' => './upload/',
-                		'allowed_types' => 'gif|jpg|png'
-                ]);
-
-                if ( ! $this->upload->do_upload('header_image'))
-                {
-                        $error =  $this->upload->display_errors();
-                        $this->session->set_flashdata('msg','<div class="alert alert-danger">'.$error.'</div>');
-                        redirect(site_url());
-                }
-                else
-                {
-                        $image =  $this->upload->data('file_name');
-                }
-
-			}
-
-
+	    $this->load->library('upload', $config);
+		$this->upload->initialize($config);
+	     $sau = '';
+	    if (!$this->upload->do_upload('header_image')) {
+	        $error = array('error' => $this->upload->display_errors());
+			
+	    } 
+		else {
+	        $sau =  $this->upload->data('file_name');
+	       
+	    }
+	    
+  		if($post = $this->input->post()){
 			$data = array(
-							'image_title'=>$post['image_title'],
-							'header_image' => $image
-							
-			);
-			$this->db->insert('setting',$data);
-			$this->session->set_flashdata('msg','<div class="alert alert-success">Success</div>');
-			redirect(site_url());
-		}
+								
+								'image_title'=>$post['image_title'],
+								'header_image'=>$addi,
+								
+				);
+				$this->db->insert('setting',$data);
+				$this->session->set_flashdata('msg','<div class="alert alert-success">Image Add Successfully...</div>');
+				redirect(current_url());
+			}
 		else
 		$this->load->view(__FUNCTION__);
 	}
