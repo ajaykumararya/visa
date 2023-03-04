@@ -139,8 +139,8 @@ class User extends CI_Controller
 
 						case 'del_image':
 							$this->db->where('id',$post["id"])->delete("setting");
-							$return['status'] = '<div class="alert alert-danger"><h4>Delete Page Successfully..</h4></div>';
-							//redirect(site_url('User/all_employee'));
+							$return['status'] = '<div class="alert alert-danger"><h4>Delete Image Successfully..</h4></div>';
+							//redirect(site_url('User/add_image'));
 						break;
 
 
