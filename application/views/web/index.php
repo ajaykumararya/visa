@@ -58,7 +58,7 @@
                                  width="100%"
                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /> -->
                                 <link rel="stylesheet" class="lazy img" width="100%";
-                                height="360";  alt="allpy for Dubai, UAE visa online" href="<?php echo base_url(); ?>assets/website/media/images/banner2.jpg">
+                                height="360"; style="background-repeat:no-repeat"  alt="allpy for Dubai, UAE visa online" href="<?php echo base_url(); ?>assets/website/media/images/banner2.jpg">
 </li>
                                 
                     </ul>
@@ -864,7 +864,7 @@
             var i = 0;
             setInterval(function() {
                 i = (i + 1) % images.length;
-                document.body.style.backgroundImage = "url('" + images[i] + "')";
+                document.lazy img.style.backgroundImage = "url('" + images[i] + "')";
             }, 2000); // Change image every 5 seconds
         </script>
         <!-- END BODY PANEL -->
