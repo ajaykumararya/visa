@@ -15,7 +15,7 @@ include 'include/header.php';
               if($msg = $this->session->flashdata('msg'));
                 echo $msg;
             ?>
-            <form method="post" enctype="multipart/form-data" action="<?=base_url()?>User/add_image">
+            <form method="post" enctype="multipart/form-data" action="">
               <div class="box-body">
               <div class="form-group">
                   <label for="exampleInputEmail1">Image Title</label>
