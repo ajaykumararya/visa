@@ -51,43 +51,9 @@
                 <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                     <ul class="carousel">
                         <li class="slide"><img class="lazy"
-                                data-src="" width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
-                                <img class="lazy"
                                 data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
-
-
-                                <script>
-var images = ['<?=base_url()?>assets/website/media/images/banner2.jpg',
-'<?=base_url()?>assets/website/media/images/banner2.jpg',width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online"
-];
-var ix = 0;
-var autoplay = true;
-
-function loop(pause=1800) {
-      setTimeout(function () {
-          if (autoplay) {
-            document.body.style.backgroundImage = `url('${images[ix]}')`;
-            ix = (ix+1)%images.length;
-          }
-          loop();
-      }, pause);
-}
-
-document.addEventListener("mouseenter", function( event ) {
-  autoplay = false;
-  document.body.style.backgroundImage = `url('<?=base_url()?>assets/website/media/images/banner2.jpg')`;
-}, false);
-
-document.addEventListener("mouseleave", function( event ) {
-  autoplay = true;
-}, false);
-
-loop(0);
-
-</script>
+                                
                     </ul>
                 </div>
                 <div class="welcomeTextPanel" style="float:right">
