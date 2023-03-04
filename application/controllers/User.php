@@ -35,14 +35,41 @@ class User extends CI_Controller
 
 	function add_image()
 	{
-		if($post = $this->input->post()){
-			$data = array(
-								'header_image'=>$post['header_image'],
-				);
-				$this->db->insert('setting',$data);
-				$this->session->set_flashdata('msg','<div class="alert alert-success">Image Added Successfully..</div>');
-				redirect(current_url());
+		if($post = $this->input->post())
+		{
+
+			$image = '';
+			if(isset($_FILES['header_image']['name'])){
+
+
+                $this->load->library('upload', [
+                		'upload_path' => './upload/',
+                		'allowed_types' => 'gif|jpg|png'
+                ]);
+
+                if ( ! $this->upload->do_upload('header_image'))
+                {
+                        $error =  $this->upload->display_errors();
+                        $this->session->set_flashdata('msg','<div class="alert alert-danger">'.$error.'</div>');
+                        redirect(site_url());
+                }
+                else
+                {
+                        $image =  $this->upload->data('file_name');
+                }
+
 			}
+
+
+			$data = array(
+							'image_title'=>$post['image_title'],
+							'header_image' => $image
+							
+			);
+			$this->db->insert('setting',$data);
+			$this->session->set_flashdata('msg','<div class="alert alert-success">Success</div>');
+			redirect(site_url());
+		}
 		else
 		$this->load->view(__FUNCTION__);
 	}
