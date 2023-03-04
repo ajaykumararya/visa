@@ -3,7 +3,14 @@
 
 <head>
     <?php include_once "include/head.php"; ?>
+    <!-- <link rel="stylesheet" href="<?php echo base_url(); ?>path/to/your/css/file.css"> -->
+
 </head>
+<style>
+     .img{
+    background-image: url("<?php echo base_url(); ?>assets/website/media/images/abt.jpg");
+     }
+</style>
 
 <body>
     <div class="wrapper">
@@ -50,9 +57,11 @@
                 </div>
                 <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                     <ul class="carousel">
-                        <li class="slide"><img class="lazy"
+                        <li class="slide"><img class="lazy img"
                                 data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
+                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
+                                <!-- <link rel="stylesheet" href="<?php echo base_url(); ?>path/to/your/css/file.css"> -->
+</li>
                                 
                     </ul>
                 </div>
@@ -847,5 +856,18 @@
 
 
         </div>
+
+        <script>
+            var images = [
+                "<?php echo base_url(); ?>assets/website/media/images/abt.jpg",
+                "<?php echo base_url(); ?>assets/website/media/images/banner2.jpg",
+                "<?php echo base_url(); ?>assets/website/media/images/abt_bg.jpg"
+            ];
+            var i = 0;
+            setInterval(function() {
+                i = (i + 1) % images.length;
+                document.body.style.backgroundImage = "url('" + images[i] + "')";
+            }, 2000); // Change image every 5 seconds
+        </script>
         <!-- END BODY PANEL -->
         <?php include_once "include/footer.php"; ?>
