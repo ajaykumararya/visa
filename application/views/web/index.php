@@ -7,8 +7,10 @@
 
 </head>
 <style>
-     .img{
+     .lazy img{
     background-image: url("<?php echo base_url(); ?>assets/website/media/images/abt.jpg");
+    width="100%";
+                                height="360";
      }
 </style>
 
@@ -57,10 +59,11 @@
                 </div>
                 <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                     <ul class="carousel">
-                        <li class="slide"><img class="lazy img"
-                                data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
-                                <!-- <link rel="stylesheet" href="<?php echo base_url(); ?>path/to/your/css/file.css"> -->
+                        <li class="slide">
+                            <!-- <img class="lazy img"
+                                 width="100%"
+                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /> -->
+                                <link rel="stylesheet" class="lazy img" alt="allpy for Dubai, UAE visa online" href="<?php echo base_url(); ?>path/to/your/css/file.css">
 </li>
                                 
                     </ul>
