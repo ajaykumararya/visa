@@ -108,6 +108,47 @@ class User extends CI_Controller
 							//redirect(site_url('User/all_employee'));
 						break;
 
+
+
+						case 'get_page':
+							$return['html'] = '<table class="table table-striped table-bordered">
+							<thead>
+								<tr>
+									<th>id</th>
+									<th>Name</th>
+									<th>Image Name</th>
+									<th>Delete</th>
+								</tr>
+							</thead>
+							<tbody>';
+							$sau = $this->db->get('setting');
+							foreach($sau->result() as $r)
+							{
+
+								$return['html'] .= '<tr>
+								<td>'.$r->id.'</td>
+								<td>'.$r->image_title.'</td>
+								<td>'.$r->header_image.'</td>
+								<td><span class="btn btn-primary">content</span></td>
+								<td><a href=""><i class="btn btn-success fa fa-edit"></i></a></td>
+								<td class="center"><a href="javascript:delete_page('.$r->id.')" onclick="return confirm(\'Are You Sure Want to Delete?\')"><i class="btn btn-danger fa fa-trash"></i></a>									
+								</td>
+								</tr>'; 
+							}
+							$return['html'] .= '</tbody></table>';
+						break;
+
+
+						case 'del_image':
+							$this->db->where('id',$post["id"])->delete("setting");
+							$return['status'] = '<div class="alert alert-danger"><h4>Delete Page Successfully..</h4></div>';
+							//redirect(site_url('User/all_employee'));
+						break;
+
+
+
+
+
 			}
 			echo json_encode($return);
 		}
