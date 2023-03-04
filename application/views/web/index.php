@@ -6,13 +6,7 @@
     <!-- <link rel="stylesheet" href="<?php echo base_url(); ?>path/to/your/css/file.css"> -->
 
 </head>
-<style>
-     .lazy img{
-    background-image: url("<?php echo base_url(); ?>assets/website/media/images/abt.jpg");
-    width="100%";
-                                height="360";
-     }
-</style>
+
 
 <body>
     <div class="wrapper">
@@ -63,7 +57,8 @@
                             <!-- <img class="lazy img"
                                  width="100%"
                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /> -->
-                                <link rel="stylesheet" class="lazy img" alt="allpy for Dubai, UAE visa online" href="<?php echo base_url(); ?>path/to/your/css/file.css">
+                                <link rel="stylesheet" class="lazy img" width="100%";
+                                height="360";  alt="allpy for Dubai, UAE visa online" href="<?php echo base_url(); ?>assets/website/media/images/banner2.jpg">
 </li>
                                 
                     </ul>
