@@ -861,6 +861,6 @@
     setInterval(function() {
         i = (i + 1) % images.length;
         document.lazy aptimg.style.backgroundImage = "url('" + images[i] + "')";
-    }, 5000); // Change image every 5 seconds
+    }, 1000); // Change image every 5 seconds
 </script>
         <?php include_once "include/footer.php"; ?>
