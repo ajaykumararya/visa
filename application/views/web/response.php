@@ -1235,7 +1235,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">30 Days Dubai Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="2">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1454,7 +1454,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">60 Days Dubai Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="7">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1673,7 +1673,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai 14 Days Multiple Entry Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="21">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1730,9 +1730,9 @@
                                                             <label for="tif421" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="h<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -1764,9 +1764,9 @@
                                                             <label for="tif921" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -1893,7 +1893,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai 30 Days Multiple Entry Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="3">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1949,9 +1949,9 @@
                                                             <label for="tif43" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -1983,9 +1983,9 @@
                                                             <label for="tif93" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -2115,7 +2115,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai 60 Days Multiple Entry Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="22">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -2172,9 +2172,9 @@
                                                             <label for="tif422" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -2206,9 +2206,9 @@
                                                             <label for="tif922" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -2334,7 +2334,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai Transit Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form.php"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="6">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -2390,9 +2390,9 @@
                                                             <label for="tif46" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -2424,9 +2424,9 @@
                                                             <label for="tif96" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -2551,7 +2551,7 @@
                                         WhatsApp.</li>
                                     <li>Air Tickets and Hotel booking not required before dubai visa approval.</li>
                                     <li>Along with being your visa provider, we will also be your sponsor. So no
-                                        additional sponsor required for your <a href="https://www.instadubaivisa.com"
+                                        additional sponsor required for your <a href="<?=base_url()?>"
                                             title="Dubai Visa">Dubai Visa</a></li>
                                 </ul>
 
@@ -2570,7 +2570,7 @@
                             will require a UAE tourist visa that is valid for an entire UAE.</p>
                         <p>The Dubai visa in the form of an electronic authorization (EVisa) can be obtained by
                             submitting your Albanians passport copy online. We have simplified the Dubai <a
-                                href="https://www.instadubaivisa.com/dubai-visa-application-form.php"
+                                href="<?=base_url()?>Web/visa_application_form"
                                 title="Dubai Visa Application Form">visa application form </a>for Albanians nationals
                             travelling from Albania.</p>
                     </div>
@@ -2604,9 +2604,9 @@
                                 <a href="#" class="accordion_head submenuheader" headerindex="0h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>Do I need Dubai
                                     visa from Albania? <span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span><span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span></a>
                                 <div class="accordion_body" contentindex="0c" style="display: none;">Yes, all Albanians
                                     passport holders require a visa to visit Dubai. A Dubai tourist visa is most
@@ -2620,9 +2620,9 @@
                                 <a href="#" class="accordion_head submenuheader" headerindex="1h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>How do Albanians
                                     can get a Dubai Visa? <span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span><span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span></a>
                                 <div class="accordion_body" contentindex="1c" style="display: none;">If you are planning
                                     to visit Dubai or any emirates for a short period, you can easily obtain a Dubai
@@ -2637,9 +2637,9 @@
                                 <a href="#" class="accordion_head submenuheader" headerindex="2h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>What are the Dubai
                                     Visa requirements for Albanians? <span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span><span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span></a>
                                 <div class="accordion_body" contentindex="2c" style="display: none;">The following
                                     documents are required to get your Dubai Visa:
@@ -2655,9 +2655,9 @@
                                 <a href="#" class="accordion_head submenuheader" headerindex="3h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>How to apply for
                                     Dubai Visa online for Albanians?<span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span><span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/websiteimages/plus.png"
                                             class="statusicon lazy" alt="faq"></span></a>
                                 <div class="accordion_body" contentindex="3c" style="display: none;">Dubai visa for
                                     Albanians can be acquired by filling the simple online visa application form or only
@@ -2668,9 +2668,9 @@
                                 <a href="#" class="accordion_head submenuheader" headerindex="4h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>What is the photo
                                     size requirement to apply dubai visa?<span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span><span class="accordsuffix"><img
-                                            data-src="https://media.instadubaivisa.com/images/plus.png"
+                                            data-src="<?=base_url()?>assets/website/images/plus.png"
                                             class="statusicon lazy" alt="faq"></span></a>
                                 <div class="accordion_body" contentindex="4c" style="display: none;">A clear
                                     front-facing photograph (with any background colour) of the applicant.</div>
@@ -2707,9 +2707,9 @@
                         <div class="row marginFromTop">
                             <div class="row callArrangeBox1" id="IdRpopUp" style="" onclick="showRepeatYes('Yes')">
                                 <div class="marginFromRight callImg1" style="margin-bottom:0px;"><img class="lazy"
-                                        data-src="https://media.instadubaivisa.com/images/repeat-customer.png"
+                                        data-src="<?=base_url()?>assets/website/images/repeat-customer.png"
                                         width="24" height="24" alt="repeat customer" title="repeat customer"
-                                        src="https://media.instadubaivisa.com/images/repeat-customer.png"></div>
+                                        src="<?=base_url()?>assets/website/images/repeat-customer.png"></div>
                                 <div class="transForm1" style="line-height:25px;">Repeat Customer ?</div>
                             </div>
                             <div class="row paddingAll alignFromCenter mobpadding-0 mobDisplayNone">Kindly choose this
@@ -2718,10 +2718,10 @@
                         </div>
                         <div class="popup" id="IDRpopUpBody" style="height:132px;">
                             <div class="popupCloseIcon" id="popupCloseIcon"><img class="lazy"
-                                    data-src="https://media.instadubaivisa.com/images/wrong.png" alt="close"
-                                    title="close" src="https://media.instadubaivisa.com/images/wrong.png"></div>
+                                    data-src="<?=base_url()?>assets/website/images/wrong.png" alt="close"
+                                    title="close" src="<?=base_url()?>assets/website/images/wrong.png"></div>
                             <div class="formWrap">
-                                <form action="/visa_application_form.php" method="post" name="repeatcust"
+                                <form action="Web/visa_application_form" method="post" name="repeatcust"
                                     id="repeatcust">
                                     <div class="formBox">
                                         <h6 id="popuptitle">Enter Your Passport Number and Travel Date</h6>
@@ -2743,9 +2743,9 @@
                                             <div style="display:none;" class="row marginFromBottom" id="loader">
                                                 <div style="float:left;margin-right:7px;"><img width="20" height="20"
                                                         class="lazy"
-                                                        data-src="https://media.instadubaivisa.com/images/loading.gif"
+                                                        data-src="<?=base_url()?>assets/website/images/loading.gif"
                                                         alt="loading" title="loading"
-                                                        src="https://media.instadubaivisa.com/images/loading.gif"></div>
+                                                        src="<?=base_url()?>assets/website/images/loading.gif"></div>
                                                 <div style="float:left;margin-top:3px;">Please wait..</div>
                                             </div>
                                             <div class="row">
@@ -2785,14 +2785,14 @@
                         <!--Repeat End -->
                         <div class="row posRelative marginFromBottom" id="visaDummyBoximg">
                             <a href="#" class="container alignFromCenter visaDummyBox borderFromAll label"><img
-                                    data-src="https://www.instadubaivisa.com/images/eVisa.jpg" alt="Visa Sample"
+                                    data-src="<?=base_url()?>assets/website/images/eVisa.jpg" alt="Visa Sample"
                                     title="Visa Sample" width="150" height="200" class="marginFromBottom lazy"
-                                    src="https://www.instadubaivisa.com/images/eVisa.jpg"><br>VISA SAMPLE</a>
+                                    src="<?=base_url()?>assets/website/images/eVisa.jpg"><br>VISA SAMPLE</a>
                             <div class="row visaDummyBoxLarge">
                                 <div class="visaDummyBoximg"><img class="lazy"
-                                        data-src="https://www.instadubaivisa.com/images/eVisa.jpg" alt="Visa Sample"
+                                        data-src="<?=base_url()?>assets/website/images/eVisa.jpg" alt="Visa Sample"
                                         title="Visa Sample" height="600"
-                                        src="https://www.instadubaivisa.com/images/eVisa.jpg">
+                                        src="<?=base_url()?>assets/website/images/eVisa.jpg">
                                     <div class="visaDummyBoxClose"></div>
                                 </div>
                             </div>
