@@ -2601,7 +2601,7 @@
                         <div class="accordion_container">
 
                             <div class="row">
-                                <a href="#visaDummyBoximg" class="accordion_head submenuheader" headerindex="0h"><span
+                                <a href="#" class="accordion_head submenuheader" headerindex="0h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>Do I need Dubai
                                     visa from Albania? <span class="accordsuffix"><img
                                             data-src="<?=base_url()?>assets/website/images/plus.png"
@@ -2850,7 +2850,7 @@ function submitCheck() {
     var living_in_name = str[1];
     var living_in_id = str[0];
   document.viewVisaDetails.action = '/uaevisa/' + encodeURIComponent(living_in_name.toLowerCase()).replace(/%20/g, '-') + '/' + encodeURIComponent(nationality_name.toLowerCase()).replace(/%20/g, '-');
-    document.forms["viewVisaDetails"].submit();
+    document.forms["viewVisaDetails"].submit();ad
 }
 </script>
 

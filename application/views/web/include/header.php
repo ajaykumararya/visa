@@ -13,7 +13,7 @@
   }
 </style>
 <link rel="alternate" href="index.php" hreflang="en">
-<link type="text/css" rel="preload" href="<?=base_url()?>assets/website/media/css/instadubaivisa%40stylesheet9.css" crossorigin="anonymous" as="style" onload="this.rel='stylesheet'"/>
+<link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/instadubaivisa%40stylesheet9.css" crossorigin="anonymous" as="style"/>
 <link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/instadubaivisa%40stylesheet-mobilev1.css" crossorigin="anonymous" media="screen and (max-width:767px)" />
 <link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/instadubaivisa%40stylesheet-tabsv1.css" crossorigin="anonymous" media="screen and (min-width:550px) and (max-width:767px)"/>
 <!-- <link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/instadubaivisa@stylesheet-medv1.css" crossorigin="anonymous" media="screen and (min-width:768px) and (max-width:990px)"/> -->

@@ -195,7 +195,7 @@
 <!-- <script type="text/javascript" src="<?=base_url()?>assets/website/media/js/flexdropdown1.js?v=1"></script> -->
 
 <!-- <script type="text/javascript" src="/js/scrolltopcontrol.js"></script> -->
-<link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/flexdropdown3.css" onload="this.<?=base_url()?>assets/website/media='all'"/>
+<link type="text/css" rel="stylesheet" href="<?=base_url()?>assets/website/media/css/flexdropdown3.css" />
 <!--<script>$(document).ready(function(){if($(window).width()>480){$(".advance-search").select2();}});</script>-->
 <script type="text/javascript">
 function removeError(id){
@@ -318,7 +318,7 @@ function setCookie()
         }
     });	
 }
-</script><script type="text/javascript" src="js/ddaccordion.js">
+</script><script type="text/javascript" src="<?=base_url('assets/website/')?>js/ddaccordion.js">
 /***********************************************
 * Accordion Content script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
 * Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
