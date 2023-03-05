@@ -529,8 +529,8 @@ function ss_valid(){
 <script>
 
 $(document).on('click','#not-mobile a',function(){
-  $('#not-mobile a').removeClass('active').addClass('inactive');
-  $(this).removeClass('inactive').addClass('active');
+  $('#not-mobile div').removeClass('current');//.addClass('inactive');
+  $(this).parent().addClass('current');
   
 
 })
