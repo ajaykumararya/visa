@@ -531,7 +531,9 @@ function ss_valid(){
 $(document).on('click','#not-mobile a',function(){
   $('#not-mobile div').removeClass('current');//.addClass('inactive');
   $(this).parent().addClass('current');
-  
+  $('.tab-content').hide();
+  var id = $(this).attr('href');
+  $(id).show();
 
 })
 
