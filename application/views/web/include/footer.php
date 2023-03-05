@@ -528,7 +528,12 @@ function ss_valid(){
 
 <script>
 
+$(doucment).on('click','.not-mobile a',function(){
+  $('.not-mobile a').removeClass('active').addClass('inactive');
+  $(this).removeClass('inactive').addClass('active');
+  
 
+})
 
 
 // curl(['<?=base_url()?>assets/website/js/home-slideshow'], function(Module) {
