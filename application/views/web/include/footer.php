@@ -344,7 +344,7 @@ ddaccordion.init({ 	headerclass:"submenuheader",
 	}
 })
 </script> 
-<script type="text/javascript" src="js/curl.js"></script>
+<script type="text/javascript" src="<?=base_url()?>assets/website/js/curl.js"></script>
 
 <script type="application/ld+json">
 {
