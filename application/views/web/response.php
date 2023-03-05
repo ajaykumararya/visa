@@ -1017,7 +1017,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">14 Days Dubai Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="<?=base_url()?>/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="<?=base_url()?>Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="1">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1235,7 +1235,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">30 Days Dubai Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="2">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1454,7 +1454,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">60 Days Dubai Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="7">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1673,7 +1673,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai 14 Days Multiple Entry Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="21">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -1893,7 +1893,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai 30 Days Multiple Entry Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="3">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -2115,7 +2115,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai 60 Days Multiple Entry Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="22">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -2334,7 +2334,7 @@
                                     <h2 class="font-Weight-Normal row box_Sizing titleFont upperCase paddingAll darkBlueBG white mobpaddingAll"
                                         style="font-size: 20px;">Dubai Transit Visa</h2>
                                     <div class="row">
-                                        <form id="visaForm" name="visaForm" action="/visa_application_form"
+                                        <form id="visaForm" name="visaForm" action="Web/visa_application_form"
                                             method="post" enctype="multipart/form-data">
                                             <input type="hidden" id="visa_type_id" name="visa_type_id" value="6">
                                             <input type="hidden" id="nationality_id" name="nationality_id" value="473">
@@ -2570,7 +2570,7 @@
                             will require a UAE tourist visa that is valid for an entire UAE.</p>
                         <p>The Dubai visa in the form of an electronic authorization (EVisa) can be obtained by
                             submitting your Albanians passport copy online. We have simplified the Dubai <a
-                                href="<?=base_url()?>/visa_application_form"
+                                href="<?=base_url()?>Web/visa_application_form"
                                 title="Dubai Visa Application Form">visa application form </a>for Albanians nationals
                             travelling from Albania.</p>
                     </div>
@@ -2721,7 +2721,7 @@
                                     data-src="<?=base_url()?>assets/website/images/wrong.png" alt="close"
                                     title="close" src="<?=base_url()?>assets/website/images/wrong.png"></div>
                             <div class="formWrap">
-                                <form action="/visa_application_form" method="post" name="repeatcust"
+                                <form action="Web/visa_application_form" method="post" name="repeatcust"
                                     id="repeatcust">
                                     <div class="formBox">
                                         <h6 id="popuptitle">Enter Your Passport Number and Travel Date</h6>
