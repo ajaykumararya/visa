@@ -57,7 +57,7 @@ class User extends CI_Controller
 								'header_image'=>$sau,
 								
 				);
-				$this->db->insert('setting',$data);
+				$this->db->where('id',1)->update('setting',$data);
 				$this->session->set_flashdata('msg','<div class="alert alert-success">Image Add Successfully...</div>');
 				redirect(current_url());
 			}
