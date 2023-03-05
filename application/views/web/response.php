@@ -2827,4 +2827,31 @@
     </div>
 </div>
 
+
+
+
+<script>
+function hideSample(){
+    var visattype = $(".current").find("a").attr("href").replace("#tab-", "");
+	if(visattype==23 || visattype==8){
+		$("#visaDummyBoximg").hide()
+	}else{
+		$("#visaDummyBoximg").show()
+	}
+
+}
+function submitCheck() {
+    var nationality = document.getElementById('nationality').value;
+    var str = nationality.split('#');
+    var nationality_name = str[1];
+    var nationality_id = str[0];
+    var living_in = document.getElementById('living_in').value;
+    var str = living_in.split('#');
+    var living_in_name = str[1];
+    var living_in_id = str[0];
+  document.viewVisaDetails.action = '/uaevisa/' + encodeURIComponent(living_in_name.toLowerCase()).replace(/%20/g, '-') + '/' + encodeURIComponent(nationality_name.toLowerCase()).replace(/%20/g, '-');
+    document.forms["viewVisaDetails"].submit();
+}
+</script>
+
 <?php include_once "include/footer.php";?>
