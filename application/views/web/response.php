@@ -2601,7 +2601,7 @@
                         <div class="accordion_container">
 
                             <div class="row">
-                                <a href="#" class="accordion_head submenuheader" headerindex="0h"><span
+                                <a href="#visaDummyBoximg" class="accordion_head submenuheader" headerindex="0h"><span
                                         class="accordprefix"></span><span class="accordprefix"></span>Do I need Dubai
                                     visa from Albania? <span class="accordsuffix"><img
                                             data-src="<?=base_url()?>assets/website/images/plus.png"
