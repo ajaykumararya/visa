@@ -531,7 +531,7 @@ function ss_valid(){
 
 
 
-curl(['js/home-slideshow'], function(Module) {
+curl(['<?=base_url()?>assets/website/js/home-slideshow'], function(Module) {
 var $s = $('.slideshow').each(function(i, el) {
 $.data(el, 'slides', new Module(el));
 });
