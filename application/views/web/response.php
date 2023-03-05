@@ -1073,9 +1073,9 @@
                                                             <label for="tif41" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -1107,9 +1107,9 @@
                                                             <label for="tif91" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">

@@ -50,8 +50,7 @@
                 </div>
                 <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                     <ul class="carousel">
-                        <li class="slide">
-                        $sau =     
+                        <li class="slide">   
                         <img class="lazy"
                                 data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
