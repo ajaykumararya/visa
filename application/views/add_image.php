@@ -73,25 +73,25 @@ include 'include/footer.php';
 
 <script type="text/javascript"> 
         get_image();
-        delete_image();
+        // delete_image();
        
 
 
-        function delete_image(id)
-        {
-            $.ajax({
-                type:'post',
-                url:'<?=base_url('User/ajax')?>',
-                data:{status:"del_image",id:id},
-                dataType:"json",
-                success:function(res){
-                    $("#Load_status").html(res.status);
-                    $("#hide_"+id).hide(1000);
-                    location.reload(true);
-                }
+        // function delete_image(id)
+        // {
+        //     $.ajax({
+        //         type:'post',
+        //         url:'<?=base_url('User/ajax')?>',
+        //         data:{status:"del_image",id:id},
+        //         dataType:"json",
+        //         success:function(res){
+        //             $("#Load_status").html(res.status);
+        //             $("#hide_"+id).hide(1000);
+        //             location.reload(true);
+        //         }
 
-            }); 
-        }
+        //     }); 
+        // }
 
   function get_image()
   {

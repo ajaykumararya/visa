@@ -129,19 +129,17 @@ class User extends CI_Controller
 								<td>'.$r->id.'</td>
 								<td>'.$r->image_title.'</td>
 								<td>'.$r->header_image.'</td>
-								<td class="center"><a href="javascript:delete_page('.$r->id.')" onclick="return confirm(\'Are You Sure Want to Delete?\')"><i class="btn btn-danger fa fa-trash"></i></a>									
-								</td>
 								</tr>'; 
 							}
 							$return['html'] .= '</tbody></table>';
 						break;
 
 
-						case 'del_image':
-							$this->db->where('id',$post["id"])->delete("setting");
-							$return['status'] = '<div class="alert alert-danger"><h4>Delete Image Successfully..</h4></div>';
-							//redirect(site_url('User/add_image'));
-						break;
+						// case 'del_image':
+						// 	$this->db->where('id',$post["id"])->delete("setting");
+						// 	$return['status'] = '<div class="alert alert-danger"><h4>Delete Image Successfully..</h4></div>';
+						// 	//redirect(site_url('User/add_image'));
+						// break;
 
 
 
