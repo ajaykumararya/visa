@@ -58,8 +58,8 @@
                                     foreach($sau->result() as $row){
                                         ?>
                                       
-                                            <img class="lazy" 
-                                            data-src="'.base_url.'upload/'.$row['header_image'].'" width="100%"
+                                            <img class="lazy" <?php echo $row->header_image?>
+                                            data-src="" width="100%"
                                             height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
 
                                    <?php         
