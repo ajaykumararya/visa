@@ -4,10 +4,7 @@
     <div class="row">
         <div class="wrap">
             <a class="button primary-button" id="researchBtn">Re-Search</a>
-            <?php
-                                print_r($_POST);
-                                die;
-                                ?>
+            
             <form method="post" action="<?=base_url()?>Web/response">
                 <div class="searchInnerPanel">
                     <div class="row blackTransBG">
