@@ -52,9 +52,9 @@ class Web extends CI_Controller
 	        $addi =  $this->upload->data('file_name');
 	    }
   		if($post = $this->input->post()){
-			$data = array(
+			$data = array( 
 								'visa_type_id'=>$post['visa_type_id'],
-								'insurance'=>$post['insurance'],
+								'insurance'=>$_post['insurance'],
 								'first_name'=>$post['first_name'],
 								'last_name'=>$post['last_name'],
 								'address1'=>$post['address1'],
