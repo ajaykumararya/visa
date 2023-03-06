@@ -1001,7 +1001,7 @@
                                     <h2 class="font-Weight-Normal">Transit Visa</h2>
                                 </a> </div>
                         </div>
-                        <div id="tab-1" class="tab-content" style="display: none;">
+                        <div id="tab-1" class="tab-content" style="display: block;">
                             <div class="row daysVisaInfo" id="formBody">
                                 <div id="stage11" class="row"> <strong>14 Days Dubai Visa:</strong> This is recommended
                                     for visitors planning for a short stay in Dubai for Trips, Meetings, Conferences or
@@ -2325,7 +2325,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div id="tab-6" class="tab-content" style="display: block;">
+                        <div id="tab-6" class="tab-content" style="display: none;">
                             <div class="row daysVisaInfo" id="formBody">
                                 <div id="stage11" class="row"> <strong>96 Hours Transit Visa:</strong> This is a
                                     temporary short period visa and is recommended for visitors transiting from UAE to
