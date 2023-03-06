@@ -55,13 +55,11 @@
                             
                                 <?php
                                 $sau = $this->db->get('setting');
-                                // print_r($sau);
-                                // exit;
-                                    foreach($sau->result() as $row){
+                                    foreach(c$sau->result() as $row){
                                       echo 
-                                            '<li class="lazy" value="'.$row.'"
+                                            '<img class="lazy" value="'.$row->header_image.'"
                                             data-src="" width="100%"
-                                            height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />'.$header_image.'</li>';
+                                            height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />';
                                     }
                                     ?>
                         </li>
