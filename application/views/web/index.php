@@ -55,7 +55,7 @@
                             
                                 <?php
                                 $sau = $this->db->get('setting');
-                                    foreach(c$sau->result() as $row){
+                                    foreach($sau->result() as $row){
                                       echo 
                                             '<img class="lazy" value="'.$row->header_image.'"
                                             data-src="" width="100%"
