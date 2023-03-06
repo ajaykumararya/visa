@@ -10,36 +10,58 @@
                         <div
                             class="column-two label alignfromRight paddingFromRight box_Sizing mobpadding-0 mobAlignLeft">
                             Choose your Nationality</div>
-                        
-
-
-                            <select class="advance-search" name="nationality" id="nationality">
-                                    <option value="">Select</option>
-                                    <?php
-                                    foreach(config_item('citizen') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
-                                    }
-                                    ?>
-                                   
-                                </select>
-
-
-
-                        <div
-                            class="column-oneForth label alignfromRight padding-left-right box_Sizing mobpadding-0 mobAlignLeft">
-                            You are Travelling From</div>
-                        
-
-                            <select class="advance-search" id="living_in" name="living_in">
+                        <div class="column-oneForth paddingFromRight box_Sizing mobpadding-0">
+                            <div class="select2-container advance-search" id="s2id_nationality">
+                                <a href="javascript:void(0)" onclick="return false;" class="select2-choice"
+                                    tabindex="-1">
+                                    <span class="select2-chosen" id="select2-chosen-1">
+                                        Algeria
+                                    </span>
+                                    <abbr class="select2-search-choice-close"></abbr> <span class="select2-arrow"
+                                        role="presentation"><b role="presentation"></b></span></a><label
+                                    for="s2id_autogen1" class="select2-offscreen"></label><input
+                                    class="select2-focusser select2-offscreen" type="text" aria-haspopup="true"
+                                    role="button" aria-labelledby="select2-chosen-1" id="s2id_autogen1">
+                            </div>
+                            <select class="advance-search select2-offscreen" id="nationality" name="nationality"
+                                required="" tabindex="-1" title="">
+                                
                                     <option value="">Select</option>
                                     <?php
                                     foreach(config_item('traveling') as $row){
                                       echo '<option value="'.$row.'">'.$row.'</option>';
                                     }
                                     ?>
-                                </select>
+                                
+                            </select>
+                        </div>
+                        <div
+                            class="column-oneForth label alignfromRight padding-left-right box_Sizing mobpadding-0 mobAlignLeft">
+                            You are Travelling From</div>
+                        <div class="column-two paddingFromRight box_Sizing mobpadding-0">
+                            <div class="select2-container advance-search" id="s2id_living_in"><a
+                                    href="javascript:void(0)" onclick="return false;" class="select2-choice"
+                                    tabindex="-1"> <span class="select2-chosen" id="select2-chosen-2">
+                                        Algeria </span><abbr class="select2-search-choice-close"></abbr> <span
+                                        class="select2-arrow" role="presentation"><b
+                                            role="presentation"></b></span></a><label for="s2id_autogen2"
+                                    class="select2-offscreen"></label><input class="select2-focusser select2-offscreen"
+                                    type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-2"
+                                    id="s2id_autogen2"></div><select class="advance-search select2-offscreen"
+                                id="living_in" name="living_in" required="" tabindex="-1" title="">
+                                
+                                
+                                    <option value="">Select</option>
+                                    <?php
+                                    foreach(config_item('traveling') as $row){
+                                      echo '<option value="'.$row.'">'.$row.'</option>';
+                                    }
+                                    ?>
+                                
 
-
+                            </select>
+                            <input type="hidden" name="gdrfa" value="N">
+                        </div>
                         <div class="column-one paddingFromLeft box_Sizing mobmarginFromTop mobpadding-0">
                             <!--<input class="row button primary-button marginFromBottomNone alignFromCenter line-height-regExtra" value="Search" type="submit">-->
                             <input type="button" value="Search"
