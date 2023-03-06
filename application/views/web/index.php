@@ -212,7 +212,7 @@
                                     <div class="tab">
                                         <div class="tab-content" id="tab-1">
                                             <p><span class="blue marginFromRight"><a
-                                                        href="visa-online/14-days-dubai-visa.php"
+                                                        href="<?=base_url()?>Web/dubai_visa_14_days"
                                                         title="14 Days Dubai Visa Single Entry">14 Days Visa:</a></span>
                                                 This is recommended for visitors planning for a short stay in Dubai for
                                                 Trips, Meetings, Conferences or Transit stay etc. Requirements for
@@ -228,7 +228,7 @@
                                         </div>
                                         <div class="tab-content" id="tab-2">
                                             <p><span class="blue marginFromRight"><a
-                                                        href="visa-online/30-days-dubai-visa.php"
+                                                        href="<?=base_url()?>Web/dubai_visa_30_days"
                                                         title="30 Days Dubai Visa Single Entry">30 Days Visa:</a></span>
                                                 If you want to take a short trip to UAE to catch up with your family or
                                                 friends, then this is valid for 30 days will be the ideal option for
@@ -245,7 +245,7 @@
                                         </div>
                                         <div class="tab-content" id="tab-3">
                                             <p><span class="blue marginFromRight"><a
-                                                        href="visa-online/30-days-dubai-visa-multiple-entry.php"
+                                                        href="<?=base_url()?>Web/dubai_visa_30_days_multiple_entry"
                                                         title="30 Days Dubai Visa Multiple Entry">30 Days Visa (Multiple
                                                         Entry):</a></span> Its perfect for people who want to take
                                                 frequent / multiple visits to UAE in a span of 30 days. Make as many
@@ -263,7 +263,7 @@
                                         </div>
                                         <div class="tab-content" id="tab-4">
                                             <p><span class="blue marginFromRight"><a
-                                                        href="visa-online/60-days-dubai-visa.php"
+                                                        href="<?=base_url()?>Web/dubai_visa_60_days"
                                                         title="60 Days Dubai Visa Single Entry">60 Days Visa (Single
                                                         Entry):</a></span> This is recommended for visitors planning for
                                                 a medium term stay (less than 2 months) in UAE to visit their family or
@@ -283,7 +283,7 @@
                                         </div>
                                         <div class="tab-content" id="tab-5">
                                             <p><span class="blue marginFromRight"><a
-                                                        href="visa-online/90-days-dubai-visa.php"
+                                                        href="<?=base_url()?>Web/dubai_visa_90_days"
                                                         title="90 Days Dubai Visa Single Entry">90 Days Visa:</a></span>
                                                 This is recommended for visitors planning for a long term stay in UAE to
                                                 visit their family or friends. This is a Single Entry Visa and once the
@@ -303,7 +303,7 @@
                                         </div>
                                         <div class="tab-content" id="tab-6">
                                             <p><span class="blue marginFromRight"><a
-                                                        href="visa-online/90-days-dubai-visa-multiple-entry.php"
+                                                        href="<?=base_url()?>Web/dubai_visa_90_days_multiple_entry"
                                                         title="90 Days Dubai Visa Multiple Entry">90 Days Visa (Multiple
                                                         Entry):</a></span> 90 Days Multiple Entry Visa will make travel
                                                 between U.A.E. and visiting nearby countries easier for travelers who
@@ -542,7 +542,7 @@
                                     data-src="<?=base_url()?>assets/website/media/images/plus.png"
                                     alt="Expand"></span></a>
                         <div class="accordion_body" contentindex="1c" style="display: none;">If you require a visa to
-                            enter the UAE, you can apply via from instadubaivisa easily. As Instadubaivisa will be the
+                            enter the UAE, you can apply via from touristdubaivisa easily. As Touristdubaivisa will be the
                             sponsor of you so you don’t have to worry at all.</div>
                     </div>
                     <div class="row"> <a href="#" class="accordion_head submenuheader" headerindex="2h"><span
@@ -631,7 +631,7 @@
                     <div class="row">
                         <div class="row"> <a class="post-img"
                                 href="blog/adventurous-activities-things-to-do-in-dubai-uae.php"><img class="lazy"
-                                    data-src="<?=base_url()?>assets/website/media/images/blog/adventure-activities-in-uae-instadubaivisa_1673684957.jpg"
+                                    data-src="<?=base_url()?>assets/website/media/images/blog/adventure-activities-in-uae-touristdubaivisa_1673684957.jpg"
                                     class="" alt="Adventure Activities in UAE: Experience Something Extraordinary"
                                     title="Adventure Activities in UAE: Experience Something Extraordinary" width="100%"
                                     height="200" /></a> </div>
