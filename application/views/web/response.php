@@ -12,7 +12,7 @@
                             class="column-two label alignfromRight paddingFromRight box_Sizing mobpadding-0 mobAlignLeft">
                             Choose your Nationality</div>
                         <div class="column-oneForth paddingFromRight box_Sizing mobpadding-0">
-                            <div class="select2-container advance-search" id="s2id_nationality">
+                            <!-- <div class="select2-container advance-search" id="s2id_nationality">
                                 <a href="javascript:void(0)" onclick="return false;" class="select2-choice"
                                     tabindex="-1">
                                     <span class="select2-chosen" id="select2-chosen-1">
@@ -23,7 +23,7 @@
                                     for="s2id_autogen1" class="select2-offscreen"></label><input
                                     class="select2-focusser select2-offscreen" type="text" aria-haspopup="true"
                                     role="button" aria-labelledby="select2-chosen-1" id="s2id_autogen1">
-                            </div>
+                            </div> -->
                             <select class="advance-search select2-offscreen" id="nationality" name="nationality"
                                 required="" tabindex="-1" title="">
 
