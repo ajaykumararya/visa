@@ -29,14 +29,15 @@
                             </div>
                             <select class="advance-search select2-offscreen" id="nationality" name="nationality"
                                 required="" tabindex="-1" title="">
-                                
-                                    <option value="">Select</option>
-                                    <?php
+
+                                <option value="">Select</option>
+                                <?php
                                     foreach(config_item('traveling') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
+                                        $sel = $row==$_POST['nationality']?"selected":"";
+                                      echo '<option value="'.$row.'" '.$sel.'>'.$row.'</option>';
                                     }
                                     ?>
-                                
+
                             </select>
                         </div>
                         <div
@@ -53,12 +54,13 @@
                                     type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-2"
                                     id="s2id_autogen2"></div><select class="advance-search select2-offscreen"
                                 id="living_in" name="living_in" required="" tabindex="-1" title="">
-                                
-                                
-                                    <option value="">Select</option>
-                                    <?php
+
+
+                                <option value="">Select</option>
+                                <?php
                                     foreach(config_item('traveling') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
+                                        $sel = $row==$_POST['living_in']?"selected":"";
+                                      echo '<option value="'.$row.'" '.$sel.'>'.$row.'</option>';
                                     }
                                     ?>
 
