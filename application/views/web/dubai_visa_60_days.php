@@ -5,7 +5,7 @@
         <section class="row">
             <h1 class="row font-Weight-Normal titleFont upperCase alignFromCenter">60 DaysDubai Visa</h1>
             <div class="row marginFromTop mobImgfull-width"><img alt="60 DaysDubai Visa"
-                    src="https://media.instadubaivisa.com/images/visab.jpg" class="box_Sizing borderFromAll"
+                    src="<?=base_url()?>assets/website/media/images/visab.jpg" class="box_Sizing borderFromAll"
                     height="200" title="60 DaysDubai Visa" width="1170"></div>
             <div class="row visaTypeContent">
                 <div class="container column-eight">
@@ -118,11 +118,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 What is the time taken to gain my 60 days UAE visa?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="0c" style="display: none;">
                                 The standard time is 24-72 business hours. Eligibility and other factors decide the time
@@ -135,11 +135,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 I need Dubai visa the same day I have applied. Can I get it?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="1c" style="display: none;">
                                 Yes, you can gain your online Dubai visa through express service.
@@ -151,11 +151,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 Can I extend my online Dubai visa?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="2c" style="display: none;">
                                 The valid time period for a 60 day online Dubai visa is 60 days. However, you can extend
@@ -169,11 +169,11 @@
                                     class="accordprefix"></span>
                                 I have to spend over a month time in Dubai for my personal commitments. Is 60 days Dubai
                                 Visa the right choice?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="3c" style="display: none;">
                                 Instead of buying another visa and spending more money on the fee, we advise you to go
@@ -186,11 +186,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 Can I revisit Dubai on the same visa?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="4c" style="display: none;">
                                 If the visa validity expires, you have to get a new Dubai visa.
@@ -253,7 +253,7 @@
                                                         style="display:none;margin:5px"> <label class="checkbox-label"
                                                         for="tif41"></label> <span>Travel Insurance</span> <a
                                                         class="meetInfobtn" href="javascript:void(0)"><img alt="Info"
-                                                            src="https://media.instadubaivisa.com/images/info1.png">
+                                                            src="<?=base_url()?>assets/website/media/images/info1.png">
                                                         <div class="meetInfoBox">
                                                             <h4
                                                                 class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -277,7 +277,7 @@
                                                         style="display:none;margin:5px"> <label class="checkbox-label"
                                                         for="tif91"></label> <span>Airport Transfer</span> <a
                                                         class="meetInfobtn" href="javascript:void(0)"><img alt="Info"
-                                                            src="https://media.instadubaivisa.com/images/info1.png">
+                                                            src="<?=base_url()?>assets/website/media/images/info1.png">
                                                         <div class="meetInfoBox">
                                                             <h4
                                                                 class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -488,7 +488,7 @@ table.innerTable tr td {
 .checkbox-label {
     width: 24px;
     height: 24px;
-    background: url(https://media.instadubaivisa.com/images/checkbox.png) 0 0/24px 24px no-repeat;
+    background: url(<?=base_url()?>assets/website/media/images/checkbox.png) 0 0/24px 24px no-repeat;
     margin-right: 5px;
     float: left
 }
@@ -496,7 +496,7 @@ table.innerTable tr td {
 .checkbox-label.checked {
     width: 24px;
     height: 24px;
-    background: url(https://media.instadubaivisa.com/images/checkbox-checked.png) 0 0/24px 24px no-repeat;
+    background: url(<?=base_url()?>assets/website/media/images/checkbox-checked.png) 0 0/24px 24px no-repeat;
     margin-right: 5px;
     float: left
 }
@@ -846,7 +846,7 @@ table.innerTable tr td {
                             <h2 class="row font-Weight-Normal titleFont upperCase box_Sizing darkBlueBG mobpaddingAll paddingAll white"
                                 style="font-size:20px">60 daysDubai Visa</h2>
                             <div class="row" itemscope itemtype="https://schema.org/Table">
-                                <form action="https://www.instadubaivisa.com/dubai-visa-application-form.php"
+                                <form action="<?=base_url()?>Web/visa_application_form"
                                     enctype="multipart/form-data" id="visaForm" method="post" name="visaForm"><input
                                         id="visa_type_id" type="hidden" value="7" name="visa_type_id"> <input
                                         id="nationality_id" type="hidden" value="209" name="nationality_id"> <input

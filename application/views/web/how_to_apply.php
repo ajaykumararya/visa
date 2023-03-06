@@ -18,8 +18,8 @@
                     </div>
                     <div class="applyGuideCircle">Step 1</div>
                     <div class="applyGuideImgBox"><img
-                            src="https://media.instadubaivisa.com/images/how-to-apply-first-stage.webp"
-                            title="Insta Dubai Visa" alt="Insta Dubai Visa" width="100%"></div>
+                            src="<?=base_url()?>assets/website/images/how-to-apply-first-stage.webp"
+                            title="Tourist Dubai Visa" alt="Tourist Dubai Visa" width="100%"></div>
                 </div>
                 <div class="row applyGuidePanel">
                     <div class="applyGuideContentBox">
@@ -32,9 +32,9 @@
                     </div>
                     <div class="applyGuideCircle">Step 2</div>
                     <div class="applyGuideImgBox"><img class="lazy ls-is-cached lazyloaded"
-                            data-src="https://media.instadubaivisa.com/images/how-to-apply-second-stage.webp"
-                            title="Insta Dubai Visa" alt="Insta Dubai Visa" width="100%"
-                            src="https://media.instadubaivisa.com/images/how-to-apply-second-stage.webp"></div>
+                            data-src="<?=base_url()?>assets/website/images/how-to-apply-second-stage.webp"
+                            title="Tourist Dubai Visa" alt="Tourist Dubai Visa" width="100%"
+                            src="<?=base_url()?>assets/website/images/how-to-apply-second-stage.webp"></div>
                 </div>
                 <div class="row applyGuidePanel">
                     <div class="applyGuideContentBox">
@@ -49,9 +49,9 @@
                     </div>
                     <div class="applyGuideCircle">Step 3</div>
                     <div class="applyGuideImgBox"><img class="lazy ls-is-cached lazyloaded"
-                            data-src="https://media.instadubaivisa.com/images/how-to-apply-third-stage.webp"
-                            title="Insta Dubai Visa" alt="Insta Dubai Visa" width="100%"
-                            src="https://media.instadubaivisa.com/images/how-to-apply-third-stage.webp"></div>
+                            data-src="<?=base_url()?>assets/website/images/how-to-apply-third-stage.webp"
+                            title="Tourist Dubai Visa" alt="Tourist Dubai Visa" width="100%"
+                            src="<?=base_url()?>assets/website/images/how-to-apply-third-stage.webp"></div>
                 </div>
                 <div class="row applyGuidePanel">
                     <div class="applyGuideContentBox">
@@ -65,9 +65,9 @@
                     </div>
                     <div class="applyGuideCircle">Step 4</div>
                     <div class="applyGuideImgBox"><img class="lazy lazyloaded"
-                            data-src="https://media.instadubaivisa.com/images/how-to-apply-forth-stage.webp"
-                            title="Insta Dubai Visa" alt="Insta Dubai Visa" width="100%"
-                            src="https://media.instadubaivisa.com/images/how-to-apply-forth-stage.webp"></div>
+                            data-src="<?=base_url()?>assets/website/images/how-to-apply-forth-stage.webp"
+                            title="Tourist Dubai Visa" alt="Tourist Dubai Visa" width="100%"
+                            src="<?=base_url()?>assets/website/images/how-to-apply-forth-stage.webp"></div>
                 </div>
                 <div class="container paddingAllExtra"><a href="index.php"
                         class="button-large-extra primary-button">Apply Now</a></div>

@@ -3,10 +3,10 @@
 
 <div class="row body-panel">
   
-    <div class="wrap pos-Reltv"> <a href="index.php" class="pageClosebutton"><img src="https://media.instadubaivisa.com/images/delete-icon.png" width="32" height="32" alt="delete" title="delete"></a>
+    <div class="wrap pos-Reltv"> <a href="index.php" class="pageClosebutton"><img src="<?=base_url()?>assets/website/images/delete-icon.png" width="32" height="32" alt="delete" title="delete"></a>
       <section class="row">
         <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Track Visa Application</h1>
-        <div class="row marginFromTop mobImgfull-width"><img data-src="https://media.instadubaivisa.com/images/track_app.webp" width="1170" height="200" title="Track Your Dubai Application Form" alt="Track Your Dubai Application Form" class="borderFromAll box_Sizing lazy" src="https://media.instadubaivisa.com/images/track_app.webp"></div>
+        <div class="row marginFromTop mobImgfull-width"><img data-src="<?=base_url()?>assets/website/images/track_app.jpg" width="1170" height="200" title="Track Your Dubai Application Form" alt="Track Your Dubai Application Form" class="borderFromAll box_Sizing lazy" src="<?=base_url()?>assets/website/images/track_app.jpg"></div>
         <div class="column-eight container">
           <h2 class="row alignFromCenter font-Weight-Normal titleFont paddingAll black borderFromBottom marginFromBottom">Fill your reference number in the field below to track status.</h2>
           <div class="row marginFromBottom">

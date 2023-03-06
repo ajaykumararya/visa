@@ -7,22 +7,22 @@
 
 </style>
 <div class="row body-panel">
-    <div class="wrap pos-Reltv"> <a href="https://www.instadubaivisa.com" class="pageClosebutton"><img
-                src="https://media.instadubaivisa.com/images/delete-icon.png" title="Insta Dubai Visa"
-                alt="Insta Dubai Visa" width="32" height="32"></a>
+    <div class="wrap pos-Reltv"> <a href="<?=base_url()?>" class="pageClosebutton"><img
+                src="<?=base_url()?>assets/website/media/images/delete-icon.png" title="Tourist Dubai Visa"
+                alt="Tourist Dubai Visa" width="32" height="32"></a>
         <section class="row">
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Types of Dubai Visa</h1>
             <h2
                 class="row alignFromCenter font-Weight-Normal titleFont paddingAll black borderFromBottom marginFromBottom">
-                Instadubaivisa offers various types of UAE visa which are as follows</h2>
+                Touristdubaivisa offers various types of UAE visa which are as follows</h2>
             <div class="row">
                 <div
                     class="row marginFromBottom paddingAllExtra paddingFromLeftNone paddingFromRightNone paddingFromTopNone">
 
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/14-days-visa-single-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/14-days-visa-single-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">14 Days Visa</h2>
@@ -49,9 +49,9 @@
                         </div>
                     </div>
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/30-days-visa-single-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/30-days-visa-single-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">14 Days Visa</h2>
@@ -79,9 +79,9 @@
                         </div>
                     </div>
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/90-days-visa-multiple-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/90-days-visa-multiple-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">30 Days Visa</h2>
@@ -109,9 +109,9 @@
                         </div>
                     </div>
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/30-days-visa-multiple-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/30-days-visa-multiple-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">30 Days Visa</h2>
@@ -139,9 +139,9 @@
                         </div>
                     </div>
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/60-days-visa-single-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/60-days-visa-single-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">60 Days Visa</h2>
@@ -169,9 +169,9 @@
                         </div>
                     </div>
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/90-days-visa-single-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/90-days-visa-single-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">60 Days Visa</h2>
@@ -201,9 +201,9 @@
 
 
                     <div class="visaBox">
-                        <div class="visaimg"><img alt="Insta Dubai Visa" height=""
-                                src="https://media.instadubaivisa.com/images/14-days-visa-single-entry.jpg"
-                                title="Insta Dubai Visa" width=""></div>
+                        <div class="visaimg"><img alt="Tourist Dubai Visa" height=""
+                                src="<?=base_url()?>assets/website/media/images/14-days-visa-single-entry.jpg"
+                                title="Tourist Dubai Visa" width=""></div>
                         <div class="visatextBox">
                             <div class="column-seven mob70">
                                 <h2 class="visaTitleNew">Transit Visa</h2>

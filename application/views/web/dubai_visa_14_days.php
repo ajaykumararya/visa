@@ -4,7 +4,7 @@
         <section class="row">
             <h1 class="row font-Weight-Normal titleFont upperCase alignFromCenter">14 DaysDubai Visa</h1>
             <div class="row marginFromTop mobImgfull-width"><img alt="14 DaysDubai Visa"
-                    src="https://media.instadubaivisa.com/images/visab.jpg" class="box_Sizing borderFromAll"
+                    src="<?=base_url()?>assets/website/media/images/visab.jpg" class="box_Sizing borderFromAll"
                     height="200" title="14 DaysDubai Visa" width="1170"></div>
             <div class="row visaTypeContent">
                 <div class="container column-eight">
@@ -98,11 +98,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 What is the validity period of a 14 days Single Entry Visa?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="0c" style="display: none;">
                                 The visa validity is 60 days, but the stay is restricted to 14 days.
@@ -114,11 +114,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 Is extension allowed over a 14 days Single Entry Visa?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="1c" style="display: none;">Y
                                 es, extension is available for 30 days and 90 days.
@@ -130,11 +130,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 Can I go to Sharjah on this visa?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="2c" style="display: none;">
                                 Yes, you can visit any emirate over Dubai Visa, including Sharjah.
@@ -147,9 +147,9 @@
                                     class="accordprefix"></span>Can I avail a visa at the earliest?
                                 <span class="accordsuffix"><img src="<?=base_url()?>assets/website/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="3c" style="display: none;">
                                 Yes, the option of Express Service is there to serve you.
@@ -161,11 +161,11 @@
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
                                 How can check the status of my visa application?
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
-                                <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
+                                <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="4c" style="display: none;">
                                 Once you submit the application form, you will get a reference number on your registered
@@ -231,7 +231,7 @@
                                                         style="display:none;margin:5px"> <label class="checkbox-label"
                                                         for="tif41"></label> <span>Travel Insurance</span> <a
                                                         class="meetInfobtn" href="javascript:void(0)"><img alt="Info"
-                                                            src="https://media.instadubaivisa.com/images/info1.png">
+                                                            src="<?=base_url()?>assets/website/media/images/info1.png">
                                                         <div class="meetInfoBox">
                                                             <h4
                                                                 class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -255,7 +255,7 @@
                                                         style="display:none;margin:5px"> <label class="checkbox-label"
                                                         for="tif91"></label> <span>Airport Transfer</span> <a
                                                         class="meetInfobtn" href="javascript:void(0)"><img alt="Info"
-                                                            src="https://media.instadubaivisa.com/images/info1.png">
+                                                            src="<?=base_url()?>assets/website/media/images/info1.png">
                                                         <div class="meetInfoBox">
                                                             <h4
                                                                 class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -470,7 +470,7 @@ table.innerTable tr td {
 .checkbox-label {
     width: 24px;
     height: 24px;
-    background: url(https://media.instadubaivisa.com/images/checkbox.png) 0 0/24px 24px no-repeat;
+    background: url(<?=base_url()?>assets/website/media/images/checkbox.png) 0 0/24px 24px no-repeat;
     margin-right: 5px;
     float: left
 }
@@ -478,7 +478,7 @@ table.innerTable tr td {
 .checkbox-label.checked {
     width: 24px;
     height: 24px;
-    background: url(https://media.instadubaivisa.com/images/checkbox-checked.png) 0 0/24px 24px no-repeat;
+    background: url(<?=base_url()?>assets/website/media/images/checkbox-checked.png) 0 0/24px 24px no-repeat;
     margin-right: 5px;
     float: left
 }
@@ -807,7 +807,7 @@ table.innerTable tr td {
                             <h2 class="row font-Weight-Normal titleFont upperCase box_Sizing darkBlueBG mobpaddingAll paddingAll white"
                                 style="font-size:20px">14 daysDubai Visa</h2>
                             <div class="row" itemscope itemtype="https://schema.org/Table">
-                                <form action="https://www.instadubaivisa.com/dubai-visa-application-form.php"
+                                <form action="<?=base_url()?>Web/visa_application_form"
                                     enctype="multipart/form-data" id="visaForm" method="post" name="visaForm"><input
                                         id="visa_type_id" type="hidden" value="1" name="visa_type_id"> <input
                                         id="nationality_id" type="hidden" value="209" name="nationality_id"> <input

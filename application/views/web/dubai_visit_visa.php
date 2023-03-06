@@ -92,7 +92,7 @@
                     <p>A visit visa is recommended for people traveling for business meetings, short conferences, or any
                         medical emergency. With this, applicants staying in different parts of the world can get a
                         travel permit. You can also have complete information about the types of visas through our
-                        portal instadubaivisa.com.</p>
+                        portal touristdubaivisa.com.</p>
 
                     <p>Along with this, they can also go in for a visa extension. Visa extensions must be requested
                         prior to the expiration date of the <strong>UAE visit visa</strong>. The facility of tracking
@@ -149,8 +149,8 @@
                             visit visa application after I've paid?</a>
                         <div class="accordion_body" contentindex="1c" style="display: none;">Yes, you may change your
                             information. Kindly reach our 24x7 chat support team or send an email to <a
-                                href="mailto:contact@instadubaivisa.com"
-                                class="float-Disabled blue">contact@instadubaivisa.com</a>. </div>
+                                href="mailto:contact@touristdubaivisa.com"
+                                class="float-Disabled blue">contact@touristdubaivisa.com</a>. </div>
 
                         <a href="#" class="accordion_head submenuheader" headerindex="2h">What are the advantages of
                             applying for a visa through Insta Dubai Visa?</a>
