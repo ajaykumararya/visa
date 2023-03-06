@@ -55,15 +55,16 @@
                             
                                 <?php
                                 $sau = $this->db->get('setting');
-                                print_r($sau);
-                                exit;
-                                    foreach(config_item('citizen') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
+                                // print_r($sau);
+                                // exit;
+                                    foreach($sau->result() as $row){
+                                      echo 
+                                            '<li class="lazy" value="'.$row.'"
+                                            data-src="" width="100%"
+                                            height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />'.$header_image.'</li>';
                                     }
                                     ?>
-                        <img class="lazy"
-                                data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
+                        </li>
                                 
                     </ul>
                 </div>
