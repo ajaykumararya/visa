@@ -67,9 +67,9 @@
                         </div>
                         <div class="column-one paddingFromLeft box_Sizing mobmarginFromTop mobpadding-0">
                             <!--<input class="row button primary-button marginFromBottomNone alignFromCenter line-height-regExtra" value="Search" type="submit">-->
-                            <input type="button" value="Search"
+                            <input type="submit" value="Search"
                                 class="row button primary-button marginFromBottomNone alignFromCenter line-height-regExtra"
-                                onclick="submitCheck();">
+                                >
                         </div>
                     </div>
                 </div>
