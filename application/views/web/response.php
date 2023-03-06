@@ -979,7 +979,7 @@
                             </select>
                         </div>
                         <div class="column-five paddingFromTop tab" id="not-mobile">
-                            <div class="" onclick="hideSample();"> <a href="#tab-1" class="inactive">
+                            <div class="current" onclick="hideSample();"> <a href="#tab-1" class="inactive">
                                     <h2 class="font-Weight-Normal">14 Days Visa</h2>
                                 </a> </div>
                             <div onclick="hideSample();" class=""> <a href="#tab-2" class="inactive">
@@ -997,7 +997,7 @@
                             <div onclick="hideSample();" class=""> <a href="#tab-22" class="inactive">
                                     <h2 class="font-Weight-Normal">60 Days Visa Multiple Entry</h2>
                                 </a> </div>
-                            <div onclick="hideSample();" class="current"> <a href="#tab-6" class="inactive">
+                            <div onclick="hideSample();" class=""> <a href="#tab-6" class="inactive">
                                     <h2 class="font-Weight-Normal">Transit Visa</h2>
                                 </a> </div>
                         </div>
