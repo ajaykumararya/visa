@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
-    <?php include_once "include/head.php"; ?>
+    <?php include_once "include/head.php"; 
+    $sau = $this->db->get('setting');
+    ?>
 </head>
 
 <body>
@@ -50,11 +52,26 @@
                 </div>
                 <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                     <ul class="carousel">
-                        <li class="slide">   
+
+                    <?php
+                        foreach($sau->result() as $row){
+                        ?>
+                        <li class="slide"> 
+                            
+                       
                         <img class="lazy"
-                                data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
-                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
+                                data-src="<?php echo $row->header_image?>" width="100%"
+                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
+                            
+                            
+                            
+                            </li>
+                            
+                            <?php
+                            }
+                            ?>
                                 
+
                     </ul>
                 </div>
                 <div class="welcomeTextPanel" style="float:right">
