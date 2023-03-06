@@ -30,6 +30,8 @@ class Web extends CI_Controller
   	}
   	function visa_application_form()
   	{
+
+	if($post = $this->input->post() AND isset($_POST['first_name'])){
 		$config['upload_path'] = './upload';
 	    $config['allowed_types'] = 'gif|jpg|png|jpeg';
 
@@ -51,7 +53,7 @@ class Web extends CI_Controller
 		else {
 	        $addi =  $this->upload->data('file_name');
 	    }
-  		if($post = $this->input->post()){
+  		
 			$data = array(
 								'visa_type_id'=>$post['visa_type_id'],
 								'insurance'=>$post['insurance'],
