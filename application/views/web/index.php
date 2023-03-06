@@ -58,8 +58,8 @@
                                     foreach($sau->result() as $row){
                                         ?>
                                       
-                                            <img class="lazy" <?php echo $row->header_image?>
-                                            data-src="" width="100%"
+                                            <img class="lazy" 
+                                            data-src="<?php echo $row->header_image;?>" width="100%"
                                             height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
 
                                    <?php         
@@ -69,7 +69,7 @@
                                 
                     </ul>
                 </div>
-                <div class="welcomeTextPanel" style="float:right">
+                <div class="welcomeTextPanel" style="float:right"> 
                     <div class="ptext white font-Weight-Normal"><span class="marginFromRight">Get</span>
                         <h1 class="">Tourist Dubai Visa</h1>
                         <span class="">easier & faster</span>
