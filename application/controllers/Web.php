@@ -54,7 +54,7 @@ class Web extends CI_Controller
   		if($post = $this->input->post()){
 			$data = array( 
 								'visa_type_id'=>$post['visa_type_id'],
-								'insurance'=>$_post['insurance'],
+								'insurance'=>['insurance'],
 								'first_name'=>$post['first_name'],
 								'last_name'=>$post['last_name'],
 								'address1'=>$post['address1'],
