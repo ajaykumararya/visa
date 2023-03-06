@@ -12,7 +12,7 @@
                             Choose your Nationality</div>
                         <div class="column-oneForth paddingFromRight box_Sizing mobpadding-0">
                             <div class="select2-container advance-search" id="s2id_nationality">
-                                <a href="javascript:void(0)" onclick="return false;" class="select2-choice"
+                                <a href="" onclick="return false;" class="select2-choice"
                                     tabindex="-1">
                                     <span class="select2-chosen" id="select2-chosen-1">
                                         Algeria
@@ -40,7 +40,7 @@
                             You are Travelling From</div>
                         <div class="column-two paddingFromRight box_Sizing mobpadding-0">
                             <div class="select2-container advance-search" id="s2id_living_in"><a
-                                    href="javascript:void(0)" onclick="return false;" class="select2-choice"
+                                    href="" onclick="return false;" class="select2-choice"
                                     tabindex="-1"> <span class="select2-chosen" id="select2-chosen-2">
                                         Algeria </span><abbr class="select2-search-choice-close"></abbr> <span
                                         class="select2-arrow" role="presentation"><b
