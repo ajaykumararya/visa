@@ -79,12 +79,13 @@
 
             <div class="row marginFromTop paddingFromTop">
                 <div class="breadcrumb"><a href="<?=base_url()?>">Home</a><a
-                        href="<?=base_url()?>Web/response">response</a>
+                        href="">response</a>
                 </div>
                 <div class="column-eight">
                     <div class="row">
                         <div class="row borderFromBottom">
-                            <h1 class="formTitle font-Weight-Normal titleFont upperCase">Dubai Visa For <?php $sel = $row==$_POST['living_in']?"selected":""; $sel = $row==$_POST['nationality']?"selected":"";?></h1>
+                            <h1 class="formTitle font-Weight-Normal titleFont upperCase">Dubai Visa for Albanians
+                                nationals from Albania</h1>
                         </div>
                         <div class="row mobGap mobmarginFromTop" id="mobile" style="display: none;">
                             <select class="form-control-input marginFromBottomNone visaType">
