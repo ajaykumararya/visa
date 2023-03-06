@@ -12,7 +12,7 @@
                             Choose your Nationality</div>
                         <div class="column-oneForth paddingFromRight box_Sizing mobpadding-0">
                             <div class="select2-container advance-search" id="s2id_nationality">
-                                <a href="javascript:void(0)" onclick="return false;" class="select2-choice"
+                                <a href="" onclick="return false;" class="select2-choice"
                                     tabindex="-1">
                                     <span class="select2-chosen" id="select2-chosen-1">
                                         Algeria
@@ -2402,3 +2402,105 @@ function submitCheck() {
 </script> -->
 
 <?php include_once "include/footer.php";?>
+
+
+
+</script>
+
+</div>
+<script type="text/javascript">
+$(document).ready(function(){if($(window).width()>480){$(".advance-search").select2();}});
+$(document).ready(function(){
+	if($(window).width() <= 480){ 
+		$("#nationality").addClass('form-control-input');
+		$("#living_in").addClass('form-control-input');
+	}else{ 
+		$("#nationality").addClass('advance-search');
+		$("#living_in").addClass('advance-search'); 
+	} 
+});	
+
+var xmlHttp;
+function nl2br (str, is_xhtml) {
+    var breakTag = (is_xhtml || typeof is_xhtml === 'undefined') ? '' : '<br>';
+    return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1' + breakTag + '$2');
+}
+function GetXmlHttpObject() {
+	var xmlHttp=null;
+        try {
+		xmlHttp=new XMLHttpRequest();
+	}
+        catch (e) {
+		try {
+			xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+		}
+		catch (e) {
+			xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+	}
+        return xmlHttp;
+}
+function submitCheck() {
+	var nationality  = document.getElementById('nationality').value;
+	var split = nationality.split('#');
+    var nationality_name = split[1];
+    var nationality_id = split[0];
+	//document.viewVisaDetails.action = encodeURIComponent(nationality_name).replace(/%20/g, '-');
+	
+	var living_in  = document.getElementById('living_in').value;
+	var split = living_in.split('#');
+    var living_in_name = split[1];
+    var living_in_id = split[0];
+	document.viewVisaDetails.action = 'uaevisa/'+encodeURIComponent(living_in_name.toLowerCase()).replace(/%20/g, '-')+'/'+encodeURIComponent(nationality_name.toLowerCase()).replace(/%20/g, '-');
+	if(nationality=="" && living_in=="") {
+		alert("Kindly Choose your citizenship & living in country");
+		document.getElementById("nationality").focus();
+		return false; 
+	}else if(nationality==""){
+		alert("Kindly Choose your citizenship");
+		document.getElementById("nationality").focus();
+		return false; 
+	}else if(living_in==""){
+		alert("Kindly Choose your living in country");
+		document.getElementById("living_in").focus();
+		return false; 
+	}else{
+		//return true;
+		document.forms["viewVisaDetails"].submit();
+	}
+}
+
+$(document).ready(function() {
+$(".tabs-menu a").click(function(event) {
+event.preventDefault();
+$(this).parent().addClass("current");
+$(this).parent().siblings().removeClass("current");
+var tab = $(this).attr("href");
+$(".tab-content").not(tab).css("display", "none");
+$(tab).fadeIn();
+});
+});
+function ss_valid(){
+	var nt=document.getElementById('nationality').value;
+  console.log(nt);
+	var ln=document.getElementById('living_in').value
+	if(nt=="" && ln=="") {
+		alert("Kindly Choose your citizenship & living in country");
+		document.getElementById("nationality").focus();
+		return false; 
+	}else if(nt==""){
+		alert("Kindly Choose your citizenship");
+		document.getElementById("nationality").focus();
+		return false; 
+	}else if(ln==""){
+		alert("Kindly Choose your living in country");
+		document.getElementById("living_in").focus();
+		return false; 
+	}else{
+		return true; 
+	}
+	
+}
+
+
+</script>

@@ -51,7 +51,16 @@
                 </div>
                 <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                     <ul class="carousel">
-                        <li class="slide">   
+                        <li class="slide">
+                            
+                                <?php
+                                $sau = $this->db->get('setting');
+                                print_r($sau)
+                                exit;
+                                    foreach(config_item('citizen') as $row){
+                                      echo '<option value="'.$row.'">'.$row.'</option>';
+                                    }
+                                    ?>
                         <img class="lazy"
                                 data-src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" /></li>
