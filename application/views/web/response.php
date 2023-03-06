@@ -2374,7 +2374,7 @@
 
 
 
-<script>
+<!-- <script>
 function hideSample() {
     var visattype = $(".current").find("a").attr("href").replace("#tab-", "");
     if (visattype == 23 || visattype == 8) {
@@ -2399,6 +2399,6 @@ function submitCheck() {
     document.forms["viewVisaDetails"].submit();
     ad
 }
-</script>
+</script> -->
 
 <?php include_once "include/footer.php";?>
