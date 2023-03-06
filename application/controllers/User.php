@@ -117,7 +117,6 @@ class User extends CI_Controller
 									<th>id</th>
 									<th>Name</th>
 									<th>Image Name</th>
-									<th>Delete</th>
 								</tr>
 							</thead>
 							<tbody>';
