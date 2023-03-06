@@ -84,8 +84,7 @@
                 <div class="column-eight">
                     <div class="row">
                         <div class="row borderFromBottom">
-                            <h1 class="formTitle font-Weight-Normal titleFont upperCase">Dubai Visa for Albanians
-                                nationals from Albania</h1>
+                            <h1 class="formTitle font-Weight-Normal titleFont upperCase">Dubai Visa For <?php $sel = $row==$_POST['living_in']?"selected":""; $sel = $row==$_POST['nationality']?"selected":"";?></h1>
                         </div>
                         <div class="row mobGap mobmarginFromTop" id="mobile" style="display: none;">
                             <select class="form-control-input marginFromBottomNone visaType">
