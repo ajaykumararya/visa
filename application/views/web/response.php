@@ -80,7 +80,6 @@
             <div class="row marginFromTop paddingFromTop">
                 <div class="breadcrumb"><a href="<?=base_url()?>">Home</a><a
                         href="<?=base_url()?>Web/response">response</a>
-                    <p style="margin-top: 2px;margin-left: 10px;">Visa for Albanians</p>
                 </div>
                 <div class="column-eight">
                     <div class="row">
