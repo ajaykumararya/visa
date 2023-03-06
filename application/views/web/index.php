@@ -55,7 +55,7 @@
                             
                                 <?php
                                 $sau = $this->db->get('setting');
-                                print_r($sau)
+                                print_r($sau);
                                 exit;
                                     foreach(config_item('citizen') as $row){
                                       echo '<option value="'.$row.'">'.$row.'</option>';
