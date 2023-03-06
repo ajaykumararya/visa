@@ -41,7 +41,7 @@
                             class="column-oneForth label alignfromRight padding-left-right box_Sizing mobpadding-0 mobAlignLeft">
                             You are Travelling From</div>
                         <div class="column-two paddingFromRight box_Sizing mobpadding-0">
-                            <div class="select2-container advance-search" id="s2id_living_in"><a
+                            <!-- <div class="select2-container advance-search" id="s2id_living_in"><a
                                     href="javascript:void(0)" onclick="return false;" class="select2-choice"
                                     tabindex="-1"> <span class="select2-chosen" id="select2-chosen-2">
                                         Algeria </span><abbr class="select2-search-choice-close"></abbr> <span
@@ -49,7 +49,8 @@
                                             role="presentation"></b></span></a><label for="s2id_autogen2"
                                     class="select2-offscreen"></label><input class="select2-focusser select2-offscreen"
                                     type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-2"
-                                    id="s2id_autogen2"></div><select class="advance-search select2-offscreen"
+                                    id="s2id_autogen2"></div> -->
+                                    <select class="advance-search select2-offscreen"
                                 id="living_in" name="living_in" required="" tabindex="-1" title="">
 
 
