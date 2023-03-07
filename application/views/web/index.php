@@ -443,7 +443,7 @@
                                             height="22" class="pull_left" alt="Star" /></span> <span
                                         class="column-four alignfromRight mob40 date">August 03, 2022</span> </span>
                                 <span class="row paddingFromTop reviewsubTitle">Dont go by Reviews, trust your instinct.
-                                    Insta..</span> <span class="row paddingFromTop">I was skeptical after reading so
+                                    Tourist..</span> <span class="row paddingFromTop">I was skeptical after reading so
                                     many mixed reviews all over the internet. Oh! How i have been proven wrong. This is
                                     one of the most legit, quick acti..</span> </li>
                             <li class="slide"> <span class="row"> <span class="column-six mob60"> <img class="lazy"

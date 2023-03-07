@@ -2,11 +2,11 @@
 
 <div class="row body-panel">
     <div class="wrap pos-Reltv">
-        <a href="index.php" class="pageClosebutton"><img src="https://media.instadubaivisa.com/images/delete-icon.png"
+        <a href="index.php" class="pageClosebutton"><img src="<?=base_url()?>assets/website/media/images/delete-icon.png"
                 width="32" height="32" alt="delete" title="delete"></a>
         <section class="row">
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Our Terms and Conditions</h1>
-            <div class="row marginFromTop"><img src="https://media.instadubaivisa.com/images/faq.jpg" width="100%"
+            <div class="row marginFromTop"><img src="<?=base_url()?>assets/website/media/images/faq.jpg" width="100%"
                     height="" title="Terms and Conditions" alt="Terms and Conditions" class="borderFromAll box_Sizing">
             </div>
             <div class="row">

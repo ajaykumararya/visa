@@ -279,7 +279,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -287,7 +287,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -417,9 +417,9 @@
                                                             <label for="tif42" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/media/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/media/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -451,9 +451,9 @@
                                                             <label for="tif92" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/media/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/media/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -498,7 +498,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -506,7 +506,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -637,9 +637,9 @@
                                                             <label for="tif47" class="checkbox-label"></label>
                                                             <span>Travel Insurance</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/media/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/media/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -671,9 +671,9 @@
                                                             <label for="tif97" class="checkbox-label"></label>
                                                             <span>Airport Transfer</span>
                                                             <a href="#" class="meetInfobtn"><img class="lazy"
-                                                                    data-src="https://media.instadubaivisa.com/images/info1.png"
+                                                                    data-src="<?=base_url()?>assets/website/media/images/info1.png"
                                                                     alt="Info" style="height:20px; width:20px"
-                                                                    src="https://media.instadubaivisa.com/images/info1.png">
+                                                                    src="<?=base_url()?>assets/website/media/images/info1.png">
                                                                 <div class="meetInfoBox">
                                                                     <h4
                                                                         class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -718,7 +718,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -726,7 +726,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -939,7 +939,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -947,7 +947,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -1159,7 +1159,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -1167,7 +1167,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -1383,7 +1383,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -1391,7 +1391,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -1602,7 +1602,7 @@
                                                             <table class="innerTable" width="100%" cellspacing="5"
                                                                 cellpadding="0" border="0">
                                                                 <!--<tr>
-                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                            <td valign="top"><input type="radio" id="smas" style="display:none;margin:5px;"/><label for="smas" class="checkbox-label"></label><span>Silver Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Silver Meet & Assist Service</h4>
 <span class="row">
 </span>
@@ -1610,7 +1610,7 @@
                             <td valign="top" align="right"><span class="float-Disabled fontArial">$</span> 86</td>
                           </tr>-->
                                                                 <!--<tr>
-                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="https://media.instadubaivisa.com/images/info1.png" alt="Info"><div class="meetInfoBox">
+                          <td valign="top" class="greyBG"><input type="radio" id="gmas" style="display:none;margin:5px;"/><label for="gmas" class="checkbox-label"></label><span>Gold Meet & Assist Service</span> <a href="javascript:void(0)" class="meetInfobtn"><img src="<?=base_url()?>assets/website/media/images/info1.png" alt="Info"><div class="meetInfoBox">
 <h4 class="row marginFromBottom blue borderFromBottom paddingFromBottom">Gold Meet & Assist Service</h4>
 <span class="row">
 </span>

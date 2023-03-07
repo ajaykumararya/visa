@@ -964,13 +964,13 @@
         <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
             <ul class="carousel">
                 <li class="slide"><img src="https://media.instadubaivisa.com/images/banner2.webp" width="100%"
-                        height="360" title="Insta Fujairah Visa" alt="apply for Fujairah, Fujairah visa online"></li>
+                        height="360" title="Tourist Fujairah Visa" alt="apply for Fujairah, Fujairah visa online"></li>
             </ul>
         </div>
         <div class="welcomeTextPanel" style="float:right">
             <h1 class="ptext white font-Weight-Normal">Get Fujairah Visa fast and easy</h1>
             <div class="row alignFromCenter line-height-reg white">Now Online Fujairah visa is possible in a matter of
-                moments with Insta Dubai Visa. Discover new lands with easy visa procedures operating within secured
+                moments with Tourist Dubai Visa. Discover new lands with easy visa procedures operating within secured
                 online systems. Allow technology to ease Fujairah trips as you save time and money. Superfast visa
                 processing and effortless visa procedures have unravelled human lives. Fujairah tourism is now
                 accessible with promising 24x7 services. </div>
@@ -1047,9 +1047,9 @@
             <div class="whyUsBoxPanel">
                 <div class="column-four whyUsPanel">
                     <div class="column-two mob20"><img src="https://media.instadubaivisa.com/images/idv-logo.png"
-                            width="70" height="70" alt="Insta Fujairah Visa" title="" class="mobIMG pull_left"></div>
+                            width="70" height="70" alt="Tourist Fujairah Visa" title="" class="mobIMG pull_left"></div>
                     <div class="column-eight mob80">
-                        <p class="ptext1 black paddingFromBottom marginFromTop marginFromBottom mobpadding-0">Why Insta
+                        <p class="ptext1 black paddingFromBottom marginFromTop marginFromBottom mobpadding-0">Why Tourist
                             Fujairah Visa?</p>
                         <div class="row points padding-All-sm whyIDV">
                             <ul>

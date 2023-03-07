@@ -5,7 +5,7 @@
         <section class="row">
             <h1 class="row font-Weight-Normal titleFont upperCase alignFromCenter">TransitDubai Visa</h1>
             <div class="row marginFromTop mobImgfull-width"><img alt="TransitDubai Visa"
-                    src="https://media.instadubaivisa.com/images/visab.jpg" class="box_Sizing borderFromAll"
+                    src="<?=base_url()?>assets/website/media/images/visab.jpg" class="box_Sizing borderFromAll"
                     height="200" title="TransitDubai Visa" width="1170"></div>
             <div class="row visaTypeContent">
                 <div class="container column-eight">
@@ -107,7 +107,7 @@
                                                         style="display:none;margin:5px"> <label class="checkbox-label"
                                                         for="tif41"></label> <span>Travel Insurance</span> <a
                                                         class="meetInfobtn" href="javascript:void(0)"><img alt="Info"
-                                                            src="https://media.instadubaivisa.com/images/info1.png">
+                                                            src="<?=base_url()?>assets/website/media/images/info1.png">
                                                         <div class="meetInfoBox">
                                                             <h4
                                                                 class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -131,7 +131,7 @@
                                                         style="display:none;margin:5px"> <label class="checkbox-label"
                                                         for="tif91"></label> <span>Airport Transfer</span> <a
                                                         class="meetInfobtn" href="javascript:void(0)"><img alt="Info"
-                                                            src="https://media.instadubaivisa.com/images/info1.png">
+                                                            src="<?=base_url()?>assets/website/media/images/info1.png">
                                                         <div class="meetInfoBox">
                                                             <h4
                                                                 class="row marginFromBottom blue borderFromBottom paddingFromBottom">
@@ -342,7 +342,7 @@ table.innerTable tr td {
 .checkbox-label {
     width: 24px;
     height: 24px;
-    background: url(https://media.instadubaivisa.com/images/checkbox.png) 0 0/24px 24px no-repeat;
+    background: url(<?=base_url()?>assets/website/media/images/checkbox.png) 0 0/24px 24px no-repeat;
     margin-right: 5px;
     float: left
 }
@@ -350,7 +350,7 @@ table.innerTable tr td {
 .checkbox-label.checked {
     width: 24px;
     height: 24px;
-    background: url(https://media.instadubaivisa.com/images/checkbox-checked.png) 0 0/24px 24px no-repeat;
+    background: url(<?=base_url()?>assets/website/media/images/checkbox-checked.png) 0 0/24px 24px no-repeat;
     margin-right: 5px;
     float: left
 }

@@ -3,11 +3,11 @@
 <div class="row body-panel">
 
     <div class="wrap pos-Reltv">
-        <a href="index.php" class="pageClosebutton"><img src="https://media.instadubaivisa.com/images/delete-icon.png"
+        <a href="index.php" class="pageClosebutton"><img src="<?=base_url()?>assets/website/media/images/delete-icon.png"
                 width="32" height="32" alt="delete" title="delete"></a>
         <section class="row">
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Privacy Statement</h1>
-            <div class="row marginFromTop mobImgfull-width"><img src="https://media.instadubaivisa.com/images/faq.jpg"
+            <div class="row marginFromTop mobImgfull-width"><img src="<?=base_url()?>assets/website/media/images/faq.jpg"
                     width="1170" height="200" title="Privacy Statement" alt="Privacy Statement"
                     class="borderFromAll box_Sizing"></div>
             <div class="column-eight container">
@@ -25,23 +25,23 @@
                         privacy. All the information you share on this website is encrypted. These privacy policies will
                         be updated on regular basis and we urge to visit this page regularly for updated privacy policy.
                         By using our site, you agree to the terms of the Terms and Conditions and our Privacy Statement.
-                        Insta Dubai Visa.com reserves the right to expand and/or modify this statement at any time.</p>
+                        Tourist Dubai Visa.com reserves the right to expand and/or modify this statement at any time.</p>
 
                     <h3
                         class="row borderFromBottom paddingFromBottom marginFromBottom font-Weight-Normal padding-All-sm-top">
                         Information Collected</h3>
 
-                    <p class="row">InstaDubaiVisa.com will be collecting data when a user visits InstaDubaiVisa.com. Our
+                    <p class="row">TouristDubaiVisa.com will be collecting data when a user visits TouristDubaiVisa.com. Our
                         usage of data fetched through contact us page will be restricted to contact the user and
                         entertain his/her queries and Subject to the provisions of applicable law and for a small fee
-                        you may obtain a copy of the User Data (if any) InstaDubaiVisa.com hold about you by contacting
+                        you may obtain a copy of the User Data (if any) TouristDubaiVisa.com hold about you by contacting
                         us via the sites "contact us" facility. Additionally, if you wish to delete, deactivate or amend
-                        the User Data, or find out what User Data (if any) InstaDubaiVisa.com are holding about you,
+                        the User Data, or find out what User Data (if any) TouristDubaiVisa.com are holding about you,
                         please contact us. User details data will not be sold to any third party. Details shared will
-                        not be disclosed outside InstaDubaiVisa.com besides sharing the information with service related
+                        not be disclosed outside TouristDubaiVisa.com besides sharing the information with service related
                         matters.</p>
 
-                    <p class="row">Your Consent: by using InstaDubaiVisa.com you agree with InstaDubaiVisa.com to
+                    <p class="row">Your Consent: by using TouristDubaiVisa.com you agree with TouristDubaiVisa.com to
                         process and transfer the User Data as necessary, to provide you with and enable you to use the
                         site and for the purposes referred to above.</p>
 

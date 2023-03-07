@@ -46,7 +46,7 @@
                     </ul>
 
                     <h4>How do I apply for a 60 days UAE visa?</h4>
-                    <p>The visa application process at Insta Dubai Visa is simple. Read the following steps:</p>
+                    <p>The visa application process at Tourist Dubai Visa is simple. Read the following steps:</p>
                     <ul>
                         <li>Choose the 'Visa Application Form' tab in the top menu.</li>
                         <li>You will open up an online application form that must be carefully filled with information
@@ -60,7 +60,7 @@
                         documents. Once the team gives a clearance, we send your application for visa processing.</p>
 
                     <h4>How much time does it take for online visa processing?</h4>
-                    <p>At Insta Dubai Visa, you can choose between the visa service according to your purpose of travel
+                    <p>At Tourist Dubai Visa, you can choose between the visa service according to your purpose of travel
                         plan.</p>
                     <ul>
                         <li>Regular Service- The standard time to process a visa under this service is 24- 72 business
@@ -77,7 +77,7 @@
                         <li>Entry is onetime for an applicant entering the country.</li>
                     </ul>
 
-                    <h4>Why Insta Dubai Visa?</h4>
+                    <h4>Why Tourist Dubai Visa?</h4>
                     <p>Enjoy the following benefits with us:</p>
                     <ul>
                         <li>We made traveling peaceful and quick.</li>
@@ -689,7 +689,7 @@ table.innerTable tr td {
                     </ul>
 
                     <h4>How do I apply for a 60 days UAE visa?</h4>
-                    <p>The visa application process at Insta Dubai Visa is simple. Read the following steps:</p>
+                    <p>The visa application process at Tourist Dubai Visa is simple. Read the following steps:</p>
                     <ul>
                         <li>Choose the &apos;Visa Application Form&apos; tab in the top menu.</li>
                         <li>You will open up an online application form that must be carefully filled with information
@@ -703,7 +703,7 @@ table.innerTable tr td {
                         documents. Once the team gives a clearance, we send your application for visa processing.</p>
 
                     <h4>How much time does it take for online visa processing?</h4>
-                    <p>At Insta Dubai Visa, you can choose between the visa service according to your purpose of travel
+                    <p>At Tourist Dubai Visa, you can choose between the visa service according to your purpose of travel
                         plan.</p>
                     <ul>
                         <li>Regular Service- The standard time to process a visa under this service is 24- 72 business
@@ -720,7 +720,7 @@ table.innerTable tr td {
                         <li>Entry is onetime for an applicant entering the country.</li>
                     </ul>
 
-                    <h4>Why Insta Dubai Visa?</h4>
+                    <h4>Why Tourist Dubai Visa?</h4>
                     <p>Enjoy the following benefits with us:</p>
                     <ul>
                         <li>We made traveling peaceful and quick.</li>

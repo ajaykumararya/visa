@@ -962,7 +962,7 @@
         </div>
         <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
             <ul class="carousel">
-                <li class="slide"><img src="https://media.instadubaivisa.com/images/banner2.jpg" width="100%"
+                <li class="slide"><img src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
                         height="360" title="Insta Ras Al-Khaimah Visa"
                         alt="apply for Ras Al-Khaimah, Ras Al-Khaimah visa online"></li>
             </ul>
@@ -984,7 +984,7 @@
         <div class="wrap">
             <h2 class="title1">Ras Al-Khaimah VISA PROCESSING Steps</h2>
             <div class="stepPanel" id="aplyonlineBtn">
-                <div class="column-three mobRow"><img src="https://media.instadubaivisa.com/images/step-1.png"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-1.png"
                         width="45" height="45" alt="Ras Al-Khaimah Visa Process"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -997,7 +997,7 @@
                 <p class="ptext5 row alignFromCenter mobRow moblineheight mobFont-md">Apply online</p>
             </div>
             <div class="stepPanel" id="makepaymntBtn">
-                <div class="column-three mobRow"><img src="https://media.instadubaivisa.com/images/step-2.png"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-2.png"
                         width="45" height="45" alt="Pay Ras Al-Khaimah Visa Fees Online"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -1009,7 +1009,7 @@
                 <p class="ptext5 row alignFromCenter mobRow moblineheight mobFont-md">Pay visa fee online</p>
             </div>
             <div class="stepPanel" id="visaProcessBtn">
-                <div class="column-three mobRow"><img src="https://media.instadubaivisa.com/images/step-3.png"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-3.png"
                         width="45" height="45" alt="Ras Al-Khaimah visa is sent for processing"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -1021,7 +1021,7 @@
                 <p class="ptext5 row alignFromCenter mobRow moblineheight mobFont-md">Visa is sent for processing</p>
             </div>
             <div class="stepPanel" id="downloadBtn">
-                <div class="column-three mobRow"><img src="https://media.instadubaivisa.com/images/step-4.png"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-4.png"
                         width="45" height="45" alt="Print Ras Al-Khaimah Visa and Fly to Ras Al-Khaimah"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -1043,7 +1043,7 @@
         <section class="row flagBG">
             <div class="whyUsBoxPanel">
                 <div class="column-four whyUsPanel">
-                    <div class="column-two mob20"><img src="https://media.instadubaivisa.com/images/idv-logo.png"
+                    <div class="column-two mob20"><img src="<?=base_url()?>assets/website/media/images/idv-logo.png"
                             width="70" height="70" alt="Insta Ras Al-Khaimah Visa" title="" class="mobIMG pull_left">
                     </div>
                     <div class="column-eight mob80">
@@ -1298,7 +1298,7 @@
                             panoramic views of the Hajar mountains.</p>
                     </div>
                     <div class="column-four mobImgfull-width marginFromBottom paddingFromBottom"><img
-                            src="https://media.instadubaivisa.com/images/ras.jpg" title="Ras Al-Khaimah"
+                            src="<?=base_url()?>assets/website/media/images/ras.jpg" title="Ras Al-Khaimah"
                             alt="Ras Al-Khaimah" class="" width="100%" height=""></div>
                 </div>
 

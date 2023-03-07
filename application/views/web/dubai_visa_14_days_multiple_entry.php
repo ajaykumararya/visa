@@ -54,7 +54,7 @@
                     <p>Normal Service takes 24 to 72 working hours, while Express Service is for those who look for a
                         visa as early as possible. </p>
 
-                    <h4>What preferences hold an Insta Dubai Visa? </h4>
+                    <h4>What preferences hold an Tourist Dubai Visa? </h4>
 
                     <ul>
                         <li>Secured process with industry-leading 256 SSL Encryption </li>
@@ -69,8 +69,8 @@
                     <h4>What should be kept in mind?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa has nothing to do with work/job/employment in UAE.</li>
-                        <li>Insta Dubai Visa has nothing to do with work/job/employment in UAE.</li>
+                        <li>Tourist Dubai Visa has nothing to do with work/job/employment in UAE.</li>
+                        <li>Tourist Dubai Visa has nothing to do with work/job/employment in UAE.</li>
                         <li>A printout of an approved visa should be with you while travelling in Dubai.</li>
                         <li>GCC nationals are only required to present their passport at the immigration counter to go
                             from one emirate to another. </li>
@@ -666,7 +666,7 @@ table.innerTable tr td {
                     <p>Normal Service takes 24 to 72 working hours, while Express Service is for those who look for a
                         visa as early as possible. </p>
 
-                    <h4>What preferences hold an Insta Dubai Visa? </h4>
+                    <h4>What preferences hold an Tourist Dubai Visa? </h4>
 
                     <ul>
                         <li>Secured process with industry-leading 256 SSL Encryption </li>
@@ -681,8 +681,8 @@ table.innerTable tr td {
                     <h4>What should be kept in mind?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa has nothing to do with work/job/employment in UAE.</li>
-                        <li>Insta Dubai Visa has nothing to do with work/job/employment in UAE.</li>
+                        <li>Tourist Dubai Visa has nothing to do with work/job/employment in UAE.</li>
+                        <li>Tourist Dubai Visa has nothing to do with work/job/employment in UAE.</li>
                         <li>A printout of an approved visa should be with you while travelling in Dubai.</li>
                         <li>GCC nationals are only required to present their passport at the immigration counter to go
                             from one emirate to another. </li>

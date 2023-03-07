@@ -58,7 +58,7 @@
                     <p>Normal Service provides approved visas in 2 to 3 working days, while early visa seekers can opt
                         for Express Service.</p>
 
-                    <h4>What charm lies in Insta Dubai Visa?</h4>
+                    <h4>What charm lies in Tourist Dubai Visa?</h4>
 
 
                     <ul>
@@ -76,7 +76,7 @@
                     <h4>What are the main points?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa does not provide any visas concerning work/job/employment for Dubai or
+                        <li>Tourist Dubai Visa does not provide any visas concerning work/job/employment for Dubai or
                             other emirates.</li>
                         <li>Keeping a printout of a permit/visa is a must.</li>
                         <li>You will get an approved visa in pdf format at your registered email address.</li>
@@ -678,7 +678,7 @@ table.innerTable tr td {
                     <p>Normal Service provides approved visas in 2 to 3 working days, while early visa seekers can opt
                         for Express Service.</p>
 
-                    <h4>What charm lies in Insta Dubai Visa?</h4>
+                    <h4>What charm lies in Tourist Dubai Visa?</h4>
 
 
                     <ul>
@@ -696,7 +696,7 @@ table.innerTable tr td {
                     <h4>What are the main points?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa does not provide any visas concerning work/job/employment for Dubai or
+                        <li>Tourist Dubai Visa does not provide any visas concerning work/job/employment for Dubai or
                             other emirates.</li>
                         <li>Keeping a printout of a permit/visa is a must.</li>
                         <li>You will get an approved visa in pdf format at your registered email address.</li>

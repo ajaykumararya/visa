@@ -65,7 +65,7 @@
                         Avail visa in 2 to 3 working days via Normal Service. If you require a visa in a couple of
                         hours, go in for our Express Service.</p>
 
-                    <h4>Why is Insta Dubai Visa better?</h4>
+                    <h4>Why is Tourist Dubai Visa better?</h4>
 
                     <ul>
                         <li>All-around security with the industry-leading 256-SSL Encryption</li>
@@ -82,7 +82,7 @@
                     <h4>What are the salient features?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa does not entertain any work/job/employment visas for Dubai or other
+                        <li>Tourist Dubai Visa does not entertain any work/job/employment visas for Dubai or other
                             emirates.</li>
                         <li>It must be in your mind to provide clear information.</li>
                         <li>Do not forget to keep a printout copy of the approved permit while travelling to Dubai or
@@ -135,7 +135,7 @@
                             <a href="#" class="accordion_head submenuheader" headerindex="2h"><span
                                     class="accordprefix"></span><span class="accordprefix"></span><span
                                     class="accordprefix"></span>
-                                What type of permit does Insta Dubai Visa offer?
+                                What type of permit does Tourist Dubai Visa offer?
                                 <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
                                         alt="Expand" class="statusicon"></span>
                                 <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
@@ -143,7 +143,7 @@
                                 <span class="accordsuffix"><img src="https://media.instadubaivisa.com/images/plus.png"
                                         alt="Expand" class="statusicon"></span></a>
                             <div class="accordion_body" contentindex="2c" style="display: none;">
-                                Insta Dubai Visa sends E-visa in PDF format over the registered email address.
+                                Tourist Dubai Visa sends E-visa in PDF format over the registered email address.
                             </div>
                         </div>
 
@@ -367,7 +367,7 @@
 
 <p>We have two services on the pretext of processing visas - Normal Service and Express Service. Avail visa in 2 to 3 working days via Normal Service. If you require a visa in a couple of hours, go in for our Express Service.</p>
 
-<h4>Why is Insta Dubai Visa better?</h4>
+<h4>Why is Tourist Dubai Visa better?</h4>
 
 <ul>
 <li>All-around security with the industry-leading 256-SSL Encryption</li>
@@ -384,7 +384,7 @@
 <h4>What are the salient features?</h4>
 
 <ul>
-<li>Insta Dubai Visa does not entertain any work/job/employment visas for Dubai or other emirates.</li>
+<li>Tourist Dubai Visa does not entertain any work/job/employment visas for Dubai or other emirates.</li>
 <li>It must be in your mind to provide clear information.</li>
 <li>Do not forget to keep a printout copy of the approved permit while travelling to Dubai or other emirates.</li>
 <li>People hailing from GCC (only nationals) can travel to Dubai or other emirates only by producing their valid passport at the immigration counter.</li>
@@ -419,12 +419,12 @@ The visa validity stands at 60 days from the issue date. However, your stay can&
 
 <div class="row">
 <a href="#" class="accordion_head submenuheader" headerindex="2h"><span class="accordprefix"></span><span class="accordprefix"></span>
-What type of permit does Insta Dubai Visa offer?
+What type of permit does Tourist Dubai Visa offer?
 <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/minus.png" alt="Close" class="statusicon"></span>
 <span class="accordsuffix"><img src="<?=base_url()?>assets/website/media/images/minus.png" alt="Close" class="statusicon"></span>
 </a>
 <div class="accordion_body" contentindex="2c" style="display: block;">
-Insta Dubai Visa sends E-visa in PDF format over the registered email address. 
+Tourist Dubai Visa sends E-visa in PDF format over the registered email address. 
 </div>
 </div>
 

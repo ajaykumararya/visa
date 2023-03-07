@@ -57,7 +57,7 @@
                     <p>Normal Service takes 2 to 3 working days, while Express Service is also available if an early
                         visa is desired.</p>
 
-                    <h4>Why should I not miss Insta Dubai Visa?</h4>
+                    <h4>Why should I not miss Tourist Dubai Visa?</h4>
 
                     <ul>
                         <li>Guaranteed secrecy of the documents with 256-SSL Encryption</li>
@@ -73,7 +73,7 @@
                     <h4>What are the notable points?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa does not offer any work/job/employment opportunity in Dubai.</li>
+                        <li>Tourist Dubai Visa does not offer any work/job/employment opportunity in Dubai.</li>
                         <li>You can enjoy a free and easy process by providing precise information.</li>
                         <li>Possessing a printout of a visa is a must.</li>
                         <li>Nationals of GCC countries only have to present their passport at the immigration counter to
@@ -682,7 +682,7 @@ table.innerTable tr td {
                     <p>Normal Service takes 2 to 3 working days, while Express Service is also available if an early
                         visa is desired.</p>
 
-                    <h4>Why should I not miss Insta Dubai Visa?</h4>
+                    <h4>Why should I not miss Tourist Dubai Visa?</h4>
 
                     <ul>
                         <li>Guaranteed secrecy of the documents with 256-SSL Encryption</li>
@@ -698,7 +698,7 @@ table.innerTable tr td {
                     <h4>What are the notable points?</h4>
 
                     <ul>
-                        <li>Insta Dubai Visa does not offer any work/job/employment opportunity in Dubai.</li>
+                        <li>Tourist Dubai Visa does not offer any work/job/employment opportunity in Dubai.</li>
                         <li>You can enjoy a free and easy process by providing precise information.</li>
                         <li>Possessing a printout of a visa is a must.</li>
                         <li>Nationals of GCC countries only have to present their passport at the immigration counter to

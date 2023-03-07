@@ -11,7 +11,7 @@
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Dubai Visit Visa</h1>
             <div class="row marginFromTop mobImgfull-width"><img
                     src="<?=base_url()?>assets/website/media/images/Dubai-Extention-Visa.jpg" width="1170" height="200"
-                    title="" alt="About Insta Dubai Visa for UAE Visa Application" class="borderFromAll box_Sizing" />
+                    title="" alt="About Tourist Dubai Visa for UAE Visa Application" class="borderFromAll box_Sizing" />
             </div>
             <div class="row">
                 <div class="row alignFromjustify marginFromBottom line-height-reg content marginFromTop">
@@ -80,13 +80,13 @@
                     </ol>
 
                     <p class="row marginFromBottom"><strong>Dubai Visit visa</strong> is quick and easy to apply at
-                        InstaDubaVisa.com. For further guidance, reach our 24x7 chat support team. </p>
+                        TouristDubaVisa.com. For further guidance, reach our 24x7 chat support team. </p>
 
                 </div>
 
                 <div class="row alignFromjustify line-height-reg content marginFromTop">
                     <div class="row fontTwnty marginFromBottom green borderFromBottom paddingFromBottom label"> Designed
-                        with present-day technology, the Insta Dubai Visa is famous for <strong>Dubai Visit
+                        with present-day technology, the Tourist Dubai Visa is famous for <strong>Dubai Visit
                             Visa</strong> services.</div>
 
                     <p>A visit visa is recommended for people traveling for business meetings, short conferences, or any
@@ -96,7 +96,7 @@
 
                     <p>Along with this, they can also go in for a visa extension. Visa extensions must be requested
                         prior to the expiration date of the <strong>UAE visit visa</strong>. The facility of tracking
-                        applications adds to the agility of this platform. Insta Dubai Visa can now plan your trip
+                        applications adds to the agility of this platform. Tourist Dubai Visa can now plan your trip
                         according to your schedule. </p>
 
                     <p>Contact our 24X7 support team for any further queries.</p>
@@ -139,10 +139,10 @@
                     <div class="accordion_container">
                         <a href="#" class="accordion_head submenuheader" headerindex="0h">Why choose our visa
                             services?</a>
-                        <div class="accordion_body" contentindex="0c" style="display: none;">Insta Dubai Visa has the
-                            most significant level of security and data protection. Insta Dubai Visa provides an
+                        <div class="accordion_body" contentindex="0c" style="display: none;">Tourist Dubai Visa has the
+                            most significant level of security and data protection. Tourist Dubai Visa provides an
                             unrivaled success rate in Dubai visa approvals. Most of our visas are approved in the
-                            shortest possible time. Insta Dubai Visa has a highly competent team of professionals with
+                            shortest possible time. Tourist Dubai Visa has a highly competent team of professionals with
                             years of experience in visa processing and customer service.</div>
 
                         <a href="#" class="accordion_head submenuheader" headerindex="1h">Can I make changes to my UAE
@@ -153,7 +153,7 @@
                                 class="float-Disabled blue">contact@touristdubaivisa.com</a>. </div>
 
                         <a href="#" class="accordion_head submenuheader" headerindex="2h">What are the advantages of
-                            applying for a visa through Insta Dubai Visa?</a>
+                            applying for a visa through Tourist Dubai Visa?</a>
                         <div class="accordion_body" contentindex="2c" style="display: none;">When you <strong>apply for
                                 a Dubai visit visa</strong> through IDV, we ensure you get the visa in the least
                             possible time, even in an emergency, making the procedure more straightforward and
