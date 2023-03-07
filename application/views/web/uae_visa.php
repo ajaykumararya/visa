@@ -46,7 +46,7 @@
                             <li class="slide">
                                         
                                                 <img class="lazy" 
-                                                data-src="<?=base_url()?>assets/website/mdeia/images/umm.jpg" width="100%"
+                                                data-src="<?=base_url()?>assets/website/media/images/umm.jpg" width="100%"
                                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
 
                         
