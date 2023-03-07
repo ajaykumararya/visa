@@ -34,7 +34,7 @@
                         <ul>
                             <li>By making payment towards your flight bookings, hotel bookings, e-visa, tour packages or
                                 any other service you choose from <a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a>, you give us consent to
+                                    class="float-Disabled blue"><?=base_url()?></a>, you give us consent to
                                 proceed further to process and deliver your required services.</li>
                             <li>By making a reservation with us, you accept and agree to the relevant cancellation and
                                 no-show policy of the Trip Provider, and to any additional (delivery) terms and
@@ -48,15 +48,15 @@
                                 hotel is not available then we shall ensure to get you a booking in the similar category
                                 basis availability.</li>
                             <li><a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a> reserves the right to cancel
+                                    class="float-Disabled blue"><?=base_url()?></a> reserves the right to cancel
                                 payments or orders prior to the commencement of the delivery, without stating any
                                 reasons for the same.</li>
                             <li>You may cancel an order within a statutory period of 7 working days if your application
                                 is not processed or forwarded to the immigration department. Time period will begin
                                 after you receive an email confirmation from <a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a>.</li>
+                                    class="float-Disabled blue"><?=base_url()?></a>.</li>
                             <li>As soon as you make the payment at <a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a>, we will commence the
+                                    class="float-Disabled blue"><?=base_url()?></a>, we will commence the
                                 processing of an order immediately. (NOTE: Refund can be possible in the case wherein
                                 your application is not processed or not submitted to the immigration for further
                                 approval.)</li>
@@ -130,7 +130,7 @@
                             <li>You may cancel an order within a statutory period of 7 working days if your application
                                 is not processed or forwarded to the immigration department. Time period will begin
                                 after you receive an email confirmation from <a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a>. </li>
+                                    class="float-Disabled blue"><?=base_url()?></a>. </li>
                             <li>InstaDubaiVisa.com offers the timeline to process the UAE Visa as anywhere between 24-72
                                 business working hours of the immigration department. There are booking categories basis
                                 which visa is processed and the approved visa is sent to the client accordingly/timely.
@@ -166,7 +166,7 @@
                         Policy</h3>
                     <div class="row content paddingFromBottom marginFromBottom">
                         <ul>
-                            <li>As soon as you make the payment at www.instadubaivisa.com, we will commence the
+                            <li>As soon as you make the payment at <?=base_url()?>, we will commence the
                                 processing of an order immediately. (NOTE: Refund can be possible in the case wherein
                                 your application is not processed or not submitted to the immigration for further
                                 approval.)</li>
@@ -222,7 +222,7 @@
                     <div class="row content marginFromBottom">
                         <ul>
                             <li><a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a> is not responsible in the
+                                    class="float-Disabled blue"><?=base_url()?></a> is not responsible in the
                                 event you fail to receive your Visa, or any other service requested by you.
                                 InstaDubaiVisa.com does not guarantee in any way that your application will be approved
                                 by the UAE Visa issuing authority. Our service is deemed fulfilled once Tourist Dubai
@@ -247,7 +247,7 @@
                             <li>As soon as the application is processed to the immigration, fee for the visa is
                                 applicable and debited from the merchant account.</li>
                             <li><a href="<?=base_url()?>"
-                                    class="float-Disabled blue">www.instadubaivisa.com</a> does not issue Travel
+                                    class="float-Disabled blue"><?=base_url()?></a> does not issue Travel
                                 Insurance and is dependent on a third party for the fulfilment of Travel related
                                 insurance which covers Covid-19.</li>
                             <li>Once customer gives a consent for us to proceed with the insurance purchase, price
