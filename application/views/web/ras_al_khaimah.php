@@ -1035,7 +1035,7 @@
         </div>
     </section>
 
-    <div class="wrap">
+    <!-- <div class="wrap">
         <h4 class="row paddingAllExtra greyBG green border-Dashed marginFromTop alignFromCenter line-height-regExtra"
             style="font-weight:normal;">World’s largest supplier of online Ras Al-Khaimah visas, successfully processing
             more than 1,00,000 Ras Al-Khaimah visas per month. We are proud of the fact that our visa rejection rate is
@@ -1105,7 +1105,7 @@
                                             Entry)</span></a></li>
                             </ul>
                             <div class="tab">
-                                <div class="tab-content" id="tab-1">
+                                 <div class="tab-content" id="tab-1">
                                     <p><span class="blue marginFromRight">14 Days Visa:</span> This is recommended for
                                         visitors planning for a short stay in Ras Al-Khaimah or Ras Al-Khaimah for
                                         Trips, Meetings, Conferences or Transit stay etc. Requirements for obtaining the
@@ -1274,7 +1274,196 @@
             </div>
         </section>
 
-    </div>
+    </div> -->
+
+    <div class="wrap">
+                <p class="row paddingAllExtra greyBG green border-Dashed marginFromTop alignFromCenter line-height-regExtra" style="font-weight:normal;font-size:16px">We have become the world’s largest supplier of online
+                    Dubai visas, successfully processing more than 1,00,000 Visa of Dubai per month. We are proud of the
+                    fact that our rejection rate is less than 0.02%, the absolute lowest in the industry. For a limited
+                    time only, we are offering a 100% refund guarantee*, in the slim case your visa application is not
+                    approved by the UAE immigration department. We are the only company in the world offering such a
+                    guarantee!
+                </p>
+                <section class="row flagBG">
+                    <div class="whyUsBoxPanel">
+                        <div class="column-four whyUsPanel">
+                            <div class="column-two mob20"><img data-src="https://sndigitalhub.co.in/assets/website/media/images/logo.png" width="80" height="70" alt="Dubai Visa" title="Dubai Visa" class="mobIMG pull_left circle lazy" src="https://sndigitalhub.co.in/assets/website/media/images/logo.png"></div>
+                            <div class="column-eight mob80">
+                                <p class="ptext1 black paddingFromBottom marginFromTop marginFromBottom mobpadding-0">
+                                    Why Tourist Dubai Visa?</p>
+                                <div class="row points padding-All-sm whyTDV">
+                                    <ul>
+                                        <li>More than 8 million visas issued and counting</li>
+                                        <li>Quick processing &amp; turnaround time</li>
+                                        <li>Apply dubai visa online from the comfort of your home and workplace</li>
+                                        <li>Easy dubai online visa application form</li>
+                                        <li>Application handling by trained specialists</li>
+                                        <li>Entire website secured &amp; protected with Industry-Leading 256-bit SSL</li>
+                                        <li>Convenient Payment Options - Credit and Debit Cards accepted</li>
+                                        <li>Notification via email on each and every stage of processing</li>
+                                        <li>24X7 chat support from experts.</li>
+                                        <li>we are offering a 100% refund assurance</li>
+                                        <li>The processing time may take anytime between 24 to 72 working hours.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column-six box_Sizing borderFromLeft visaTypePanel">
+                            <div class="row">
+                                <h3 class="headingtext1 upperCase paddingFromBottom black marginFromTop mobpadding-0">
+                                    Types of dubai Visa</h3>
+                            </div>
+                            <div class="tab-panel padding-0">
+                                <div id="tabs-container" class="row">
+                                    <ul class="tabs-menu">
+                                        <li class="current"><a href="#tab-1">14 Days<br>
+                                                <span class="row" style="line-height:12px; font-size:10px;">(Single
+                                                    Entry)</span></a></li>
+                                        <li class=""><a href="#tab-2">30 Days<br>
+                                                <span class="row" style="line-height:12px; font-size:10px;">(Single
+                                                    Entry)</span></a></li>
+                                        <li class=""><a href="#tab-3">30 Days<br>
+                                                <span class="row" style="line-height:12px; font-size:10px;">(Multiple
+                                                    Entry)</span></a></li>
+                                        <li class=""><a href="#tab-4">60 Days<br>
+                                                <span class="row" style="line-height:12px; font-size:10px;">(Single
+                                                    Entry)</span></a></li>
+                                        <li class=""><a href="#tab-9">Transit Visa<br>
+                                                <span class="row" style="line-height:12px; font-size:10px;">(Single
+                                                    Entry)</span></a></li>
+                                    </ul>
+                                    <div class="tab">
+                                        <div class="tab-content" id="tab-1" style="">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/dubai_visa_14_days" title="14 Days Dubai Visa Single Entry">14 Days Visa:</a></span>
+                                                This is recommended for visitors planning for a short stay in Dubai for
+                                                Trips, Meetings, Conferences or Transit stay etc. Requirements for
+                                                obtaining the 14 Days Duabi Visa varies depending on your nationality.
+                                            </p>
+                                            <p>14 Days Dubai Visa is a single entry visa, which entitles you to stay for
+                                                up to 14 days. The validity will be 60 days from the date of issue but
+                                                stay should be no more than 14 days from the date of entry. </p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time may take anytime between 24 to 72 working hours.</p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+                                        <div class="tab-content" id="tab-2" style="display: none;">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/dubai_visa_30_days" title="30 Days Dubai Visa Single Entry">30 Days Visa:</a></span>
+                                                If you want to take a short trip to UAE to catch up with your family or
+                                                friends, then this is valid for 30 days will be the ideal option for
+                                                you. Requirements for obtaining the 30 Days Dubai eVisa varies depending
+                                                on your nationality. </p>
+                                            <p>30 Days Visa is a single entry visa, which entitles you to stay for up to
+                                                30 days. The validity will be 60 days from the date of issue but stay
+                                                should be no more than 30 days from the date of entry </p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time for the 30 Days Dubai Visa may take anytime between 24 to 72
+                                                working hours.</p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+                                        <div class="tab-content" id="tab-3" style="display: none;">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/dubai_visa_30_days_multiple_entry" title="30 Days Dubai Visa Multiple Entry">30 Days Visa (Multiple
+                                                        Entry):</a></span> Its perfect for people who want to take
+                                                frequent / multiple visits to UAE in a span of 30 days. Make as many
+                                                visits for 30 days from first date of entry into UAE.</p>
+                                            <p>30 Days Visa (Multiple Entry) is a multiple entry visa, which entitles
+                                                you to stay .for up to 30 days or less. The validity will be 60 days
+                                                from the date of issue but stay should be no more than 30 days from the
+                                                date of entry. You can travel multiple times to UAE in this span of 30
+                                                days.</p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time for the 30 Days (Multiple Entry) Dubai Visa may take anytime
+                                                between 24 to 72 working hours. </p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+                                        <div class="tab-content" id="tab-4" style="display: none;">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/dubai_visa_60_days" title="60 Days Dubai Visa Single Entry">60 Days Visa (Single
+                                                        Entry):</a></span> This is recommended for visitors planning for
+                                                a medium term stay (less than 2 months) in UAE to visit their family or
+                                                friends. This is a Single Entry Visa and once the visitor exits UAE
+                                                (within a span of 60 days), the visa expires. Requirements for obtaining
+                                                the 60 Days UAE Visa varies depending on your nationality.<br>
+                                            </p>
+                                            <p>60 Days Visa (Single Entry) is a single entry visa, which entitles you to
+                                                stay .for up to 60 days or less. The validity will be 60 days from the
+                                                date of issue and your stay should also be no more than 60 days from the
+                                                date of entry.</p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time for the 60 Days (Single Entry) Dubai Visa may take anytime between
+                                                24 to 72 working hours. </p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+                                        <div class="tab-content" id="tab-5" style="display: none;">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/dubai_visa_90_days" title="90 Days Dubai Visa Single Entry">90 Days Visa:</a></span>
+                                                This is recommended for visitors planning for a long term stay in UAE to
+                                                visit their family or friends. This is a Single Entry Visa and once the
+                                                visitor exits UAE (within a span of 90 days), the visa expires.
+                                                Requirements for obtaining the 90 Days UAE Visa varies depending on your
+                                                nationality.<br>
+                                            </p>
+                                            <p>90 Days Visa (Single Entry) is a single entry visa, which entitles you to
+                                                stay .for up to 90 days or less. The validity will be 60 days from the
+                                                date of issue but stay should be no more than 90 days from the date of
+                                                entry.</p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time for the 90 Days (Single Entry) Dubai Visa may take anytime between
+                                                24 to 72 working hours.</p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+                                        <div class="tab-content" id="tab-6" style="display: none;">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/dubai_visa_90_days_multiple_entry" title="90 Days Dubai Visa Multiple Entry">90 Days Visa (Multiple
+                                                        Entry):</a></span> 90 Days Multiple Entry Visa will make travel
+                                                between U.A.E. and visiting nearby countries easier for travelers who
+                                                need to make multiple stops for Long time whether by air, land or sea
+                                                and return to UAE on the same visa rather than having to incur
+                                                additional time and expense obtaining two or three or more separate
+                                                visas. Requirements for obtaining the 90 Days UAE Visa varies depending
+                                                on your nationality.<br>
+                                            </p>
+                                            <p>90 Days Visa (Multiple Entry) is a multiple entry visa, which entitles
+                                                you to stay .for up to 90 days or less. The validity will be 60 days
+                                                from the date of issue but stay should be no more than 90 days from the
+                                                date of entry. You can travel multiple times to UAE in this span of 90
+                                                days.</p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time for the 90 Days (Multiple Entry) Dubai Visa may take anytime
+                                                between 24 to 72 working hours. </p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+
+                                        <div class="tab-content" id="tab-9" style="display: none;">
+                                            <p><span class="blue marginFromRight"><a href="https://sndigitalhub.co.in/Web/transit_visa" title="96 Hours Transit Dubai Visa Single Entry">96 Hours
+                                                        Transit Visa (Single Entry):</a></span> 96 Hours Transit Visa
+                                                will make travel between U.A.E. and visiting nearby countries easier for
+                                                travelers who need to make multiple stops for Long time whether by air,
+                                                land or sea and return to Dubai on the same visa rather than having to
+                                                incur additional time and expense obtaining two or three or more
+                                                separate visas. Requirements for obtaining the 96 Hours Transit Visa
+                                                varies depending on your nationality.<br>
+                                            </p>
+                                            <p>96 Hours Transit Visa is a Single entry visa, which entitles you to stay
+                                                .for up to 96 Hours or less. The validity will be 60 days from the date
+                                                of issue but stay should be no more than 96 Hours from the date of
+                                                entry. You can travel multiple times to UAE in this span of 96 Hours.
+                                            </p>
+                                            <p><span class="blue marginFromRight">Processing Time:</span> The processing
+                                                time may take anytime between 24 to 72 working hours. </p>
+                                            <p><strong>Note:</strong> Valid across all UAE emirates, namely Dubai, Abu
+                                                Dhabi, Ajman, Sharjah, Fujairah, Ras Al Khaimah and Umm Al Quwain.</p>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
 
     <div class="wrap pos-Reltv marginFromTop">
         <section class="row">
