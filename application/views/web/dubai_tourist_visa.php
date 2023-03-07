@@ -8,7 +8,7 @@
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Dubai Tourist Visa</h1>
             <div class="row marginFromTop mobImgfull-width"><img
                     src="<?=base_url()?>assets/website/media/images/abt.jpg" width="1170" height="200" title=""
-                    alt="About Insta Dubai Visa for UAE Visa Application" class="borderFromAll box_Sizing" /></div>
+                    alt="About Tourist Dubai Visa for UAE Visa Application" class="borderFromAll box_Sizing" /></div>
             <div class="row">
                 <div class="row alignFromjustify marginFromBottom line-height-reg content marginFromTop">
 
@@ -74,11 +74,11 @@
 
         <div class="row content">
             <p>Dubai has inspired millions of people worldwide to come and see the nation by developing many more unique
-                destinations to explore. Insta Dubai Visa, the master of enabling the best <strong>Dubai tourist
+                destinations to explore. Tourist Dubai Visa, the master of enabling the best <strong>Dubai tourist
                     visa</strong> services, provides everything for visitors of all ages. It accommodates all visa
                 needs, speedy visa services, instant visa approval, and 24X7 chat support.</p>
 
-            <p>Insta Dubai Visa comes with an advanced technology powered platform that enables smart travelling. Insta
+            <p>Tourist Dubai Visa comes with an advanced technology powered platform that enables smart travelling. Tourist
                 Dubai Visa caters to all demands of the clients; whether you need an emergency visa or a multiple-entry
                 visa. We process the visa in the least possible time and make sure you travel stress-free on your
                 journey. </p>
@@ -90,7 +90,7 @@
                 <strong>simple</strong> steps to follow to apply for a <strong>Dubai tourist visa</strong> are as
                 follows;</h3>
             <ul class="row marginFromBottom">
-                <li>Through our website, instadubaivisa.com, mention your nationality and the country you are coming
+                <li>Through our website, <?=base_url()?>, mention your nationality and the country you are coming
                     from.</li>
                 <li>Do Mention all the genuine details asked in the application form.</li>
                 <li>Submit the form and pay the visa fee with your credit or debit card.</li>
@@ -121,7 +121,7 @@
 
                 <a href="#" class="accordion_head submenuheader" headerindex="1h">Is it safe to get a visa from an
                     online portal?</a>
-                <div class="accordion_body" contentindex="0c" style="display: none;">Yes, Insta Dubai Visa is a reliable
+                <div class="accordion_body" contentindex="0c" style="display: none;">Yes, Tourist Dubai Visa is a reliable
                     online portal. It is well-protected by the industry's strongest security standards. The website is
                     256-bit SSL encrypted, making it highly safe. Your personal information and documents are encrypted
                     and protected against unwanted access. InstaDubaiVisa.com also complies with GDPR.</div>
@@ -156,7 +156,7 @@
                 <a href="#" class="accordion_head submenuheader" headerindex="6h">Is there a visa for a child aged three
                     years?</a>
                 <div class="accordion_body" contentindex="0c" style="display: none;">Yes. Children can travel with the
-                    same type of visa as their parents do. Insta Dubai visa offers services for short-term access to the
+                    same type of visa as their parents do. Tourist Dubai visa offers services for short-term access to the
                     UAE (tourism/business/visit / etc.). Every person traveling should carry a passport valid for six
                     months and a valid visa while entering Dubai.</div>
 

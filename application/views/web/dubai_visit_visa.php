@@ -4,7 +4,7 @@
 
 
 <div class="row body-panel">
-    <div class="wrap pos-Reltv"> <a href="index.html" class="pageClosebutton"><img
+    <div class="wrap pos-Reltv"> <a href="<?=base_url()?>" class="pageClosebutton"><img
                 src="<?=base_url()?>assets/website/media/images/delete-icon.png" width="32" height="32" alt="delete icon"
                 title="delete icon" /></a>
         <section class="row">

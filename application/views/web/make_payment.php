@@ -3,8 +3,8 @@
 
 <div class="row body-panel">
 
-    <div class="wrap pos-Reltv"> <a href="index.php" class="pageClosebutton"><img
-                src="https://media.instadubaivisa.com/images/delete-icon.png" width="32" height="" alt="delete"
+    <div class="wrap pos-Reltv"> <a href="<?=base_url()?>" class="pageClosebutton"><img
+                src="<?=base_url()?>assets/website/media/images/delete-icon.png" width="32" height="" alt="delete"
                 title="delete"></a>
         <section class="row">
             <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Visa Application Payment</h1>
@@ -303,7 +303,7 @@
         </section>
     </div>
 
-
+    
     <span class="container paddingFromTop column-two ">
         <button class="row button-large primary-button" onclick="showApplyNow('Open');" style="padding:10px 20px;">Apply
             Fresh Application</button>

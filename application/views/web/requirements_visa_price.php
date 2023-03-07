@@ -359,7 +359,7 @@ h4 {
 <p class="row marginFromBottom">The above-cited are <strong>Dubai Visa requirements</strong> for any applicant planning to travel to the United Arab Emirates from anywhere in the world. </p>  
 
 
-<p class="row marginFromBottom">At Insta Dubai Visa, applicants carry easy online visa applications and quick visa processing privileges. Repeated applicants have higher leverage for travel when they seek online visa services at Insta Dubai Visa. </p>  
+<p class="row marginFromBottom">At Tourist Dubai Visa, applicants carry easy online visa applications and quick visa processing privileges. Repeated applicants have higher leverage for travel when they seek online visa services at Tourist Dubai Visa. </p>  
 
 <p class="row marginFromBottom">The portal practices an ever-evolving process of persistent technology integration to facilitate the travel segment. A team of visa specialists, 24X7 help and connectivity across various platforms enable travellers to carry out their commitments. The online Dubai visa application form allows applicants to choose from menus, facilitating easy and quick information submission. </p>  
 

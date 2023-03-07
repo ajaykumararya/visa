@@ -33,7 +33,7 @@
                     <div class="row content paddingFromBottom marginFromBottom">
                         <ul>
                             <li>By making payment towards your flight bookings, hotel bookings, e-visa, tour packages or
-                                any other service you choose from <a href="https://www.instadubaivisa.com"
+                                any other service you choose from <a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a>, you give us consent to
                                 proceed further to process and deliver your required services.</li>
                             <li>By making a reservation with us, you accept and agree to the relevant cancellation and
@@ -44,18 +44,18 @@
                                 Provider.</li>
                             <li>Hotel bookings are subject to availability and room prices may vary or change without
                                 prior notice.</li>
-                            <li>Insta Dubai Visa.com reserves the right in an unforeseen event if the originally booked
+                            <li>Tourist Dubai Visa.com reserves the right in an unforeseen event if the originally booked
                                 hotel is not available then we shall ensure to get you a booking in the similar category
                                 basis availability.</li>
-                            <li><a href="https://www.instadubaivisa.com"
+                            <li><a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a> reserves the right to cancel
                                 payments or orders prior to the commencement of the delivery, without stating any
                                 reasons for the same.</li>
                             <li>You may cancel an order within a statutory period of 7 working days if your application
                                 is not processed or forwarded to the immigration department. Time period will begin
-                                after you receive an email confirmation from <a href="https://www.instadubaivisa.com"
+                                after you receive an email confirmation from <a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a>.</li>
-                            <li>As soon as you make the payment at <a href="https://www.instadubaivisa.com"
+                            <li>As soon as you make the payment at <a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a>, we will commence the
                                 processing of an order immediately. (NOTE: Refund can be possible in the case wherein
                                 your application is not processed or not submitted to the immigration for further
@@ -101,7 +101,7 @@
                                 documents. If the immigration asks for additional documents, applicant needs to full
                                 fill the requirement, Instadubaivisa.com will not take any responsibility for the
                                 rejection if it occurs due to non-fulfilment of requirement.</li>
-                            <li>Insta Dubai Visa is only responsible for the services we have mutually agreed upon
+                            <li>Tourist Dubai Visa is only responsible for the services we have mutually agreed upon
                                 (Which is getting your e-visa application processed). Once the service is rendered, we
                                 are no longer responsible, if due to any reason an applicant is not able to travel.</li>
                             <li>After we process your application and you wish to withdraw it, refund shall be processed
@@ -129,7 +129,7 @@
                         <ul>
                             <li>You may cancel an order within a statutory period of 7 working days if your application
                                 is not processed or forwarded to the immigration department. Time period will begin
-                                after you receive an email confirmation from <a href="https://www.instadubaivisa.com"
+                                after you receive an email confirmation from <a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a>. </li>
                             <li>InstaDubaiVisa.com offers the timeline to process the UAE Visa as anywhere between 24-72
                                 business working hours of the immigration department. There are booking categories basis
@@ -152,7 +152,7 @@
                         Policy</h3>
                     <div class="row content marginFromBottom">
                         <ul>
-                            <li>Insta Dubai Visa uses standard digitally managed email platform to deliver
+                            <li>Tourist Dubai Visa uses standard digitally managed email platform to deliver
                                 services/packages/visa/flights etc client opts for. We can complete the service delivery
                                 of the requested service by other digitally managed platforms like WhatsApp.</li>
                             <li>We strongly encourage and recommend our clients to provide accurate contact details and
@@ -221,11 +221,11 @@
                         Availability &amp; Pricing</h3>
                     <div class="row content marginFromBottom">
                         <ul>
-                            <li><a href="https://www.instadubaivisa.com"
+                            <li><a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a> is not responsible in the
                                 event you fail to receive your Visa, or any other service requested by you.
                                 InstaDubaiVisa.com does not guarantee in any way that your application will be approved
-                                by the UAE Visa issuing authority. Our service is deemed fulfilled once Insta Dubai
+                                by the UAE Visa issuing authority. Our service is deemed fulfilled once Tourist Dubai
                                 Visa.com has checked your online submission and submitted your application to the UAE
                                 Visa issuing authority.</li>
                             <li>Every applicant is responsible for fulfilling any requirements stated by the UAE
@@ -246,7 +246,7 @@
                             </li>
                             <li>As soon as the application is processed to the immigration, fee for the visa is
                                 applicable and debited from the merchant account.</li>
-                            <li><a href="https://www.instadubaivisa.com"
+                            <li><a href="<?=base_url()?>"
                                     class="float-Disabled blue">www.instadubaivisa.com</a> does not issue Travel
                                 Insurance and is dependent on a third party for the fulfilment of Travel related
                                 insurance which covers Covid-19.</li>
@@ -255,7 +255,7 @@
                                 applicant.</li>
                             <li>As soon as we receive this payment towards Travel insurance, we commence your order and
                                 the information is passed to the insurance supplier (third party).</li>
-                            <li>Insta Dubai Visa shall ensure that your insurance is ready and dispatched along with the
+                            <li>Tourist Dubai Visa shall ensure that your insurance is ready and dispatched along with the
                                 visa copy before your travel date.</li>
                             <li>Applicant must ensure that before applying for the visa with us, they should not have
                                 applied somewhere else. Otherwise, immigration shall stop the processing and the fees
@@ -283,7 +283,7 @@
                             <li>In case if you do not reach the venue for the specified event/activity, in the scheduled
                                 time, your booking stands cancelled. And we reserve the right to deny any refund
                                 requests in such cases.</li>
-                            <li>Our service is deemed fulfilled once Insta Dubai Visa.com has checked your online
+                            <li>Our service is deemed fulfilled once Tourist Dubai Visa.com has checked your online
                                 submission, submitted your application and booked your stay.</li>
                             <li>Every applicant is responsible for conforming with and fulfilling any requirements
                                 stated by the UAE Government.</li>

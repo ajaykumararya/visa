@@ -7,7 +7,7 @@
 
 <div class="footerLogo">
     <div class="secure-box" style="left:-105px;"><img class="lazy" data-src="<?=base_url()?>assets/website/media/images/transaction.webp" width="100" height="79" title="Secure Transaction" alt="Secure Transaction" class="lazyload"/></div>
-<img  data-src="<?=base_url()?>assets/website/media/images/logo.png" width="140" height="140" class="circle lazy" alt="Insta Dubai Visa" title="Insta Dubai Visa"/>
+<img  data-src="<?=base_url()?>assets/website/media/images/logo.png" width="140" height="140" class="circle lazy" alt="Tourist Dubai Visa" title="Tourist Dubai Visa"/>
 <div class="secure-box" style="right:-105px;"><img class="lazyload lazy" data-src="<?=base_url()?>assets/website/media/images/secure.webp" width="100" height="79" title="Secure Payment" alt="Secure Payment"/></div>
 </div>
 
@@ -47,7 +47,7 @@
 <p class="container column-eight font-Weight-Normal">We are dubai visa request facilitation service with vast experience and technical know-how, that helps worldwide travellers process for dubai visa online. Our experts scrutinize your visa request and make sure that it is approved by Dubai authorities within the shortest possible time.</p>
 
 </div>
-<div class="row padding-top-bottom"><a href="<?=base_url()?>web/about_us" class="button-large secondry-button container mobRow alignFromCenter" title="About Insta Dubai Visa">MORE INFORMATION ABOUT US</a></div>
+<div class="row padding-top-bottom"><a href="<?=base_url()?>web/about_us" class="button-large secondry-button container mobRow alignFromCenter" title="About Tourist Dubai Visa">MORE INFORMATION ABOUT US</a></div>
 
 <div class="row">
 <div class="column-five paddingAllExtra mobpadding-0">
@@ -423,7 +423,7 @@ ddaccordion.init({ 	headerclass:"submenuheader",
   "@context": "https://schema.org/",
   "@type": "WebSite",
   "name": "touristdubaivisa",
-  "alternateName": "Insta Dubai Visa",
+  "alternateName": "Tourist Dubai Visa",
   "url": "https://www.touristdubaivisa.com"
 }
 </script>

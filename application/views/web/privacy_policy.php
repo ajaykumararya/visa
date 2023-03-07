@@ -17,7 +17,7 @@
                     UAE travel &amp; visa processing</h2>
 
                 <div class="row alignFromJustify container line-height-reg paddingAllExtra box_Sizing black content">
-                    <p class="row">The Privacy Policy of www.instadubaivisa.com as mentioned below is intended to
+                    <p class="row">The Privacy Policy of <?=base_url()?> as mentioned below is intended to
                         provide privacy related information to the users of the website and how the information is used
                         and processed.</p>
 
@@ -104,10 +104,10 @@
                     <p class="row">"All credit/debit cards’ details and personally identifiable information will NOT be
                         stored, sold, shared, rented or leased to any third parties"
                     </p>
-                    <p class="row">"www.instadubaivisa.com will not pass any debit/credit card details to third parties"
+                    <p class="row">"<?=base_url()?> will not pass any debit/credit card details to third parties"
                     </p>
-                    <p class="row">"www.instadubaivisa.com takes appropriate steps to ensure data privacy and security
-                        including through various hardware and software methodologies. However, (www.instadubaivisa.com
+                    <p class="row">"<?=base_url()?> takes appropriate steps to ensure data privacy and security
+                        including through various hardware and software methodologies. However, (<?=base_url()?>
                         ) cannot guarantee the security of any information that is disclosed online"</p>
 
 

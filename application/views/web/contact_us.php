@@ -1,14 +1,14 @@
 <?php include_once "include/header.php";?>
 
 
-<div class="wrap pos-Reltv"> <a href="index.php" class="pageClosebutton"><img class="lazy"
-            data-src="https://media.instadubaivisa.com/images/delete-icon.png" width="32" height="32" alt="delete"
-            title="delete" src="https://media.instadubaivisa.com/images/delete-icon.png"></a>
+<div class="wrap pos-Reltv"> <a href="<?=base_url()?>" class="pageClosebutton"><img class="lazy"
+            data-src="<?=base_url()?>assets/website/media/images/delete-icon.png" width="32" height="32" alt="delete"
+            title="delete" src="<?=base_url()?>assets/website/media/images/delete-icon.png"></a>
     <section class="row">
         <h1 class="row alignFromCenter font-Weight-Normal titleFont upperCase">Contact Us</h1>
         <div class="row marginFromTop mobImgfull-width"><img class="lazy"
-                data-src="https://www.instadubaivisa.com/images/contact.webp" width="1170" height="200" title=""
-                alt="Contact Insta Dubai Visa Online" src="https://www.instadubaivisa.com/images/contact.webp"></div>
+                data-src="https://<?=base_url()?>assets/website/media/images/contact.webp" width="1170" height="200" title=""
+                alt="Contact Insta Dubai Visa Online" src="https://<?=base_url()?>assets/website/media/images/contact.webp"></div>
         <div class="column-eight container">
             <h2 class="row alignFromCenter font-Weight-Normal titleFont paddingAll black borderFromBottom">We are here
                 to answer any questions you may have about our instadubaivisa.com. Reach out to us and we will respond
@@ -17,28 +17,28 @@
                 <div class="row borderFromBottom marginFromBottom paddingAllExtra">
                     <div class="column-oneThird borderFromRight box_Sizing mobBorderNone">
                         <div class="container greyBG paddingAll borderFromAll circle"><img class="lazy"
-                                data-src="https://media.instadubaivisa.com/images/group-family.png" width="50"
+                                data-src="<?=base_url()?>assets/website/media/images/group-family.png" width="50"
                                 height="50" title="For Group / Family Applications"
                                 alt="For Group / Family Applications"
-                                src="https://media.instadubaivisa.com/images/group-family.png"></div>
+                                src="<?=base_url()?>assets/website/media/images/group-family.png"></div>
                         <h5 class="row titleFont marginFromTop">For Group / Family Applications</h5>
                         <div class="row">email us at : <a href="mailto:Dubaivisajpr@gmail.com"
                                 class="float-Disabled green">Dubaivisajpr@gmail.com</a></div>
                     </div>
                     <div class="column-oneThird borderFromRight box_Sizing mobBorderNone">
                         <div class="container greyBG paddingAll borderFromAll circle"><img class="lazy"
-                                data-src="https://media.instadubaivisa.com/images/corporate.png" width="50" height="50"
+                                data-src="<?=base_url()?>assets/website/media/images/corporate.png" width="50" height="50"
                                 alt="For Corporate Related Inquiries" title="For Corporate Related Inquiries"
-                                src="https://media.instadubaivisa.com/images/corporate.png"></div>
+                                src="<?=base_url()?>assets/website/media/images/corporate.png"></div>
                         <h5 class="row titleFont marginFromTop">For Corporate Related Inquiries</h5>
                         <div class="row">email us at : <a href="mailto:Dubaivisajpr@gmail.com"
                                 class="float-Disabled green">Dubaivisajpr@gmail.com</a></div>
                     </div>
                     <div class="column-oneThird box_Sizing">
                         <div class="container greyBG paddingAll borderFromAll circle"><img class="lazy"
-                                data-src="https://media.instadubaivisa.com/images/travel-agency.png" width="50"
+                                data-src="<?=base_url()?>assets/website/media/images/travel-agency.png" width="50"
                                 height="50" title="Travel Agencies" alt="Travel Agencies"
-                                src="https://media.instadubaivisa.com/images/travel-agency.png"></div>
+                                src="<?=base_url()?>assets/website/media/images/travel-agency.png"></div>
                         <h5 class="row titleFont marginFromTop">Travel Agencies</h5>
                         <div class="row">email us at : <a href="mailto:Dubaivisajpr@gmail.com"
                                 class="float-Disabled green">Dubaivisajpr@gmail.com</a></div>
@@ -52,34 +52,34 @@
                         <div class="column-five">Dubaivisajpr@gmail.com</div>
                         <div class="column-three"><a href="mailto:Dubaivisajpr@gmail.com?Subject=Visa Email Support"
                                 target="_blank"><img class="lazy"
-                                    data-src="https://media.instadubaivisa.com/images/mail-icon-sm.png" width="24"
+                                    data-src="<?=base_url()?>assets/website/media/images/mail-icon-sm.png" width="24"
                                     height="24" alt="Send Mail" title="Send Mail"
-                                    src="https://media.instadubaivisa.com/images/mail-icon-sm.png"></a></div>
+                                    src="<?=base_url()?>assets/website/media/images/mail-icon-sm.png"></a></div>
                     </div>
                     <div class="row borderFromBottom">
                         <div class="column-two">Skype ID</div>
                         <div class="column-five">contact_80517</div>
                         <div class="column-three"><a href="skype:contact_80517?call" target="_blank"><img class="lazy"
-                                    data-src="https://media.instadubaivisa.com/images/skype-sm.png" width="24"
+                                    data-src="<?=base_url()?>assets/website/media/images/skype-sm.png" width="24"
                                     height="24" alt="Call Us on Skype" title="Call Us on Skype"
-                                    src="https://media.instadubaivisa.com/images/skype-sm.png"></a></div>
+                                    src="<?=base_url()?>assets/website/media/images/skype-sm.png"></a></div>
                     </div>
                     <div class="row borderFromBottom">
                         <div class="column-two">Online Chat Support</div>
                         <div class="column-five">Our Visa Procesing team is available 24x7 to support you Online</div>
                         <div class="column-three"><a href="javascript:void(Tawk_API.toggle())"><img class="lazy"
-                                    data-src="https://media.instadubaivisa.com/images/testimonials-sm.png" width="24"
+                                    data-src="<?=base_url()?>assets/website/media/images/testimonials-sm.png" width="24"
                                     height="24" alt="Click to Chat" title="Click to Chat"
-                                    src="https://media.instadubaivisa.com/images/testimonials-sm.png"></a></div>
+                                    src="<?=base_url()?>assets/website/media/images/testimonials-sm.png"></a></div>
                     </div>
                     <div class="row">
                         <div class="column-two">WhatsApp</div>
                         <div class="column-five">+91-971589667714</div>
                         <div class="column-three"><a href="https://api.whatsapp.com/send?phone=971589667714"
                                 target="_blank"><img class="lazy"
-                                    data-src="https://media.instadubaivisa.com/images/whatsapp-sm.png" width="24"
+                                    data-src="<?=base_url()?>assets/website/media/images/whatsapp-sm.png" width="24"
                                     height="24" alt="WhatsappTour" title="WhatsappTour"
-                                    src="https://media.instadubaivisa.com/images/whatsapp-sm.png"></a></div>
+                                    src="<?=base_url()?>assets/website/media/images/whatsapp-sm.png"></a></div>
                     </div>
                 </div>
                 <div class="row marginFromTop">
