@@ -43,7 +43,7 @@
                     </div>
                     <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                         <ul class="carousel" style="width:100%;">
-                            <li class="slide">
+                            <li class="slide" style="width:100%">
                                         
                                                 <img class="lazy" 
                                                 data-src="<?=base_url()?>assets/website/media/images/umm.jpg" width="100%"
