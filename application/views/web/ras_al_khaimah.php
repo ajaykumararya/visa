@@ -121,7 +121,7 @@
         <section class="row flagBG">
             <div class="whyUsBoxPanel">
                 <div class="column-four whyUsPanel">
-                    <div class="column-two mob20"><img src="<?=base_url()?>assets/website/media/images/idv-logo.png"
+                    <div class="column-two mob20"><img src="<?=base_url()?>assets/website/media/images/logo.png"
                             width="70" height="70" alt="Insta Ras Al-Khaimah Visa" title="" class="mobIMG pull_left">
                     </div>
                     <div class="column-eight mob80">
