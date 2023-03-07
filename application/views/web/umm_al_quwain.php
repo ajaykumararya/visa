@@ -3,61 +3,43 @@
     <div class="wrap pos-Reltv">
         <div class="searchPanelBox mobRadius" id="applyNow">
             <div class="searchPanelTitle">Apply Visa Now</div>
-            <div class="row bannerPanel header-Panel">
-            <div class="wrap pos-Reltv">
-                <div class="searchPanelBox mobRadius" id="applyNow">
-                    <div class="searchPanelTitle">Apply Visa Now</div>
-                    <form action="<?=base_url()?>Web/response" method="post">
-                        <div class="searchPanel">
-                            <div class=" marginFromBottom column-four">
-                                <p class=" ptext4 label font-Weight-Normal col-sm-5">I am a Citizen of</p>
+            <form action="<?=base_url()?>Web/response" method="post">
+                <div class="searchPanel">
+                    <div class=" marginFromBottom column-four">
+                        <p class=" ptext4 label font-Weight-Normal col-sm-5">I am a Citizen of</p>
 
-                                <select class="advance-search" name="nationality" id="nationality">
-                                    <option value="">Select</option>
-                                    <?php
-                                    foreach(config_item('citizen') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
-                                    }
-                                    ?>
-                                   
-                                </select>
-                            </div>
-                            <div class=" marginFromBottom column-four">
-                                <p class="ptext4 label font-Weight-Normal col-sm-5">I am Travelling From </p>
-                                <select class="advance-search" id="living_in" name="living_in">
-                                    <option value="">Select</option>
-                                    <?php
-                                    foreach(config_item('traveling') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
-                                    }
-                                    ?>
-                                </select>
-                            </div>
-                            <div class="column-one-four col-sm-1 mobContainer">
-                                <div class="row label mobDisplayNone">&nbsp;</div>
-                                <input type="submit"
-                                    class="row button-large primary-button marginFromBottomNone alignFromCenter"
-                                    value="GO" />
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
-                    <ul class="carousel">
-                        <li class="slide">
-                                      
-                                            <img class="lazy" 
-                                            data-src="<?=base_url()?>assets/website/media/images/umm.jpg" width="100%"
-                                            height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
+                        <select class="advance-search" name="nationality" id="nationality">
+                            <option value="">Select</option>
+                            <?php
+                                        foreach(config_item('citizen') as $row){
+                                        echo '<option value="'.$row.'">'.$row.'</option>';
+                                        }
+                                        ?>
 
-                        </li>
-                                
-                    </ul>
+                        </select>
+                    </div>
+                    <div class=" marginFromBottom column-four">
+                        <p class="ptext4 label font-Weight-Normal col-sm-5">I am Travelling From </p>
+                        <select class="advance-search" id="living_in" name="living_in">
+                            <option value="">Select</option>
+                            <?php
+                                        foreach(config_item('traveling') as $row){
+                                        echo '<option value="'.$row.'">'.$row.'</option>';
+                                        }
+                                        ?>
+                        </select>
+                    </div>
+                    <div class="column-one-four col-sm-1 mobContainer">
+                        <div class="row label mobDisplayNone">&nbsp;</div>
+                        <input type="submit"
+                            class="row button-large primary-button marginFromBottomNone alignFromCenter" value="GO" />
+                    </div>
                 </div>
+            </form>
         </div>
         <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
-            <ul class="carousel">
-                <li class="slide"><img src="<?=base_url()?>assets/website/media/images/banner2.jpg" width="100%"
+            <ul class="carousel" style="width:100%">
+                <li class="slide" style="width:100%"><img src="<?=base_url()?>assets/website/media/images/umm.jpg" width="100%"
                         height="360" title="Tourist Umm Al-Quwain Visa"
                         alt="apply for Umm Al-Quwain, Umm Al-Quwain visa online"></li>
             </ul>
@@ -140,7 +122,7 @@
         <section class="row flagBG">
             <div class="whyUsBoxPanel">
                 <div class="column-four whyUsPanel">
-                    <div class="column-two mob20"><img src="<?=base_url()?>assets/website/media/images/idv-logo.png"
+                    <div class="column-two mob20"><img src="<?=base_url()?>assets/website/media/images/logo.png"
                             width="70" height="70" alt="Tourist Umm Al-Quwain Visa" title="" class="mobIMG pull_left">
                     </div>
                     <div class="column-eight mob80">
