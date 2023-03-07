@@ -39,8 +39,8 @@
                         </form>
         </div>
         <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
-            <ul class="carousel">
-                <li class="slide"><img src="<?=base_url()?>assets/website/media/images/umm.jpg" width="100%"
+            <ul class="carousel"  style="width:100%">
+                <li class="slide" style="width:100%"><img src="<?=base_url()?>assets/website/media/images/umm.jpg" width="100%"
                         height="360" title="Insta Ras Al-Khaimah Visa"
                         alt="apply for Ras Al-Khaimah, Ras Al-Khaimah visa online"></li>
             </ul>
