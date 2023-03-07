@@ -10,65 +10,65 @@
     <div class="wrapper">
         <?php include_once "include/header.php"; ?>
 
-        <div class="row bannerPanel header-Panel">
-            <div class="wrap pos-Reltv">
-                <div class="searchPanelBox mobRadius" id="applyNow">
-                    <div class="searchPanelTitle">Apply Visa Now</div>
-                    <form action="<?=base_url()?>Web/response" method="post">
-                        <div class="searchPanel">
-                            <div class=" marginFromBottom column-four">
-                                <p class=" ptext4 label font-Weight-Normal col-sm-5">I am a Citizen of</p>
+            <div class="row bannerPanel header-Panel">
+                <div class="wrap pos-Reltv">
+                    <div class="searchPanelBox mobRadius" id="applyNow">
+                        <div class="searchPanelTitle">Apply Visa Now</div>
+                        <form action="<?=base_url()?>Web/response" method="post">
+                            <div class="searchPanel">
+                                <div class=" marginFromBottom column-four">
+                                    <p class=" ptext4 label font-Weight-Normal col-sm-5">I am a Citizen of</p>
 
-                                <select class="advance-search" name="nationality" id="nationality">
-                                    <option value="">Select</option>
-                                    <?php
-                                    foreach(config_item('citizen') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
-                                    }
-                                    ?>
-                                   
-                                </select>
-                            </div>
-                            <div class=" marginFromBottom column-four">
-                                <p class="ptext4 label font-Weight-Normal col-sm-5">I am Travelling From </p>
-                                <select class="advance-search" id="living_in" name="living_in">
-                                    <option value="">Select</option>
-                                    <?php
-                                    foreach(config_item('traveling') as $row){
-                                      echo '<option value="'.$row.'">'.$row.'</option>';
-                                    }
-                                    ?>
-                                </select>
-                            </div>
-                            <div class="column-one-four col-sm-1 mobContainer">
-                                <div class="row label mobDisplayNone">&nbsp;</div>
-                                <input type="submit"
-                                    class="row button-large primary-button marginFromBottomNone alignFromCenter"
-                                    value="GO" />
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
-                    <ul class="carousel">
-                        <li class="slide">
-                            
-                                <?php
-                                $sau = $this->db->get('setting');
-                                    foreach($sau->result() as $row){
+                                    <select class="advance-search" name="nationality" id="nationality">
+                                        <option value="">Select</option>
+                                        <?php
+                                        foreach(config_item('citizen') as $row){
+                                        echo '<option value="'.$row.'">'.$row.'</option>';
+                                        }
                                         ?>
-                                      
-                                            <img class="lazy" 
-                                            data-src="<?php echo $row->header_image;?>" width="100%"
-                                            height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
-
-                                   <?php         
-                                    }
-                                    ?>
-                        </li>
+                                    
+                                    </select>
+                                </div>
+                                <div class=" marginFromBottom column-four">
+                                    <p class="ptext4 label font-Weight-Normal col-sm-5">I am Travelling From </p>
+                                    <select class="advance-search" id="living_in" name="living_in">
+                                        <option value="">Select</option>
+                                        <?php
+                                        foreach(config_item('traveling') as $row){
+                                        echo '<option value="'.$row.'">'.$row.'</option>';
+                                        }
+                                        ?>
+                                    </select>
+                                </div>
+                                <div class="column-one-four col-sm-1 mobContainer">
+                                    <div class="row label mobDisplayNone">&nbsp;</div>
+                                    <input type="submit"
+                                        class="row button-large primary-button marginFromBottomNone alignFromCenter"
+                                        value="GO" />
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
+                        <ul class="carousel">
+                            <li class="slide">
                                 
-                    </ul>
-                </div>
+                                    <?php
+                                    $sau = $this->db->get('setting');
+                                        foreach($sau->result() as $row){
+                                            ?>
+                                        
+                                                <img class="lazy" 
+                                                data-src="<?php echo $row->header_image;?>" width="100%"
+                                                height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
+
+                                    <?php         
+                                        }
+                                        ?>
+                            </li>
+                                    
+                        </ul>
+                    </div>
                 <div class="welcomeTextPanel" style="float:right"> 
                     <div class="ptext white font-Weight-Normal"><span class="marginFromRight">Get</span>
                         <h1 class="">Tourist Dubai Visa</h1>

@@ -42,7 +42,7 @@
                         </form>
                     </div>
                     <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
-                        <ul class="carousel">
+                        <ul class="carousel" style="width:100%;">
                             <li class="slide">
                                         
                                                 <img class="lazy" 
