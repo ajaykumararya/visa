@@ -470,25 +470,25 @@
                                         Applying for Dubai Visa through us in 2 Minutes.</h4>
                                     <div class="wrap paddingFromTop">
                                         <div class="container column-eight">
-                                            <div class="stepDivBox"> <img src="images/st1.png" width=""
+                                            <div class="stepDivBox"> <img src="<?=base_url()?>assets/webite/images/st1.png" width=""
                                                     class="container" alt="Apply Visa Online"
                                                     title="Apply Visa Online" />
                                                 <div class="row alignFromCenter white marginFromTop label">Apply Visa
                                                     Online</div>
                                             </div>
-                                            <div class="stepDivBox"> <img src="images/st2.png" width=""
+                                            <div class="stepDivBox"> <img src="<?=base_url()?>assets/webite/images/st2.png" width=""
                                                     class="container" alt="Pay Visa Fee Online"
                                                     title="Pay Visa Fee Online" />
                                                 <div class="row alignFromCenter white marginFromTop label">Pay Visa Fee
                                                     Online</div>
                                             </div>
-                                            <div class="stepDivBox"> <img src="images/st3.png" width=""
+                                            <div class="stepDivBox"> <img src="<?=base_url()?>assets/webite/images/st3.png" width=""
                                                     class="container" alt="Visa Sent for Processing"
                                                     title="Visa Sent for Processing" />
                                                 <div class="row alignFromCenter white marginFromTop label">Visa Sent for
                                                     Processing</div>
                                             </div>
-                                            <div class="stepDivBox"> <img src="images/st4.png" width=""
+                                            <div class="stepDivBox"> <img src="<?=base_url()?>assets/webite/images/st4.png" width=""
                                                     class="container" alt="Receive your Dubai Tourist Visa via Email"
                                                     title="Receive your Dubai Tourist Visa via Email" />
                                                 <div class="row alignFromCenter white marginFromTop label">Receive your
@@ -500,7 +500,7 @@
                             </section>
                             <section class="row pageGapping paddingFromBottomNone" id="DR">
                                 <div class="row reqBox marginFromBottom">
-                                    <div class="column-two"><img src="images/document-icon.png" width="160"
+                                    <div class="column-two"><img src="<?=base_url()?>assets/webite/images/document-icon.png" width="160"
                                             class="reqImg mobContainer" alt="Required Documents"
                                             title="Required Documents" /></div>
                                     <div class="column-eight mobPaddingTop">
@@ -512,11 +512,11 @@
                                                 application form online</a> & upload (soft) copies of the following
                                             documents:</div>
                                         <div class="row line-height-reg padding-All-sm font16"><img
-                                                src="images/plus.png" class="marginFromRight" alt="Passport"
+                                                src="<?=base_url()?>assets/webite/images/plus.png" class="marginFromRight" alt="Passport"
                                                 title="Passport" /> <strong>Passport</strong>: A clear copy of your
                                             valid passport with at least 6 months remaining validity.</div>
                                         <div class="row line-height-reg padding-All-sm font16"><img
-                                                src="images/plus.png" class="marginFromRight" alt="Photograph"
+                                                src="<?=base_url()?>assets/webite/images/plus.png" class="marginFromRight" alt="Photograph"
                                                 title="Photograph" /> <strong>Photograph</strong>: A clear front-facing
                                             photograph (with any background colour) of the applicant.</div>
                                     </div>
@@ -524,7 +524,7 @@
                             </section>
                             <section class="row pageGapping paddingFromBottomNone" id="QF">
                                 <div class="row borderFromAll paddingAllExtra mobmarginBtm30">
-                                    <div class="column-three"><img src="images/qf.png" class="container"
+                                    <div class="column-three"><img src="<?=base_url()?>assets/webite/images/qf.png" class="container"
                                             alt="Quick Facts" title="Quick Facts" /></div>
                                     <div class="column-seven content">
                                         <h2 class="row titleFont green label"> <span class="row blue"
