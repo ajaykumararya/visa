@@ -600,7 +600,7 @@
                                 <div class="row alignFromCenter fontTwnty8 font-Weight-Normal titleFont upperCase">
                                     Frequently Asked Questions (FAQs)</div>
                                 <div class="row marginFromTop mobImgfull-width"><img
-                                        src="../media.instadubaivisa.com/images/faq_banner.jpg" width="1170"
+                                        src="<?=base_url()?>assets/website/images/faq_banner.jpg" width="1170"
                                         height="200" title="Frequently Asked Questions" alt="Frequently Asked Questions"
                                         class="borderFromAll box_Sizing" /></div>
                                 <div class="column-eight container">
@@ -612,7 +612,7 @@
                                                 headerindex="0h"><span class="accordprefix"></span>Is my information
                                                 safe with the Tourist Dubai website?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="0c" style="display: none;">Tourist
                                                 Dubai Visa is equipped with 256-bit SSL encryption, which maintains
@@ -623,7 +623,7 @@
                                                 headerindex="1h"><span class="accordprefix"></span>How can I know
                                                 whether my Dubai visa is approved or not?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="1c" style="display: none;">All the
                                                 updates regarding the approval of the visa are provided over the given
@@ -632,7 +632,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="2h"><span class="accordprefix"></span>Is e-Visa or online
                                                 visa authentic?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="2c" style="display: none;">Many
                                                 countries accept e-Visa or online visa. However, you can also check the
@@ -642,7 +642,7 @@
                                                 headerindex="3h"><span class="accordprefix"></span>What should I do if
                                                 my payment is not updated on the website despite the deduction?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="3c" style="display: none;">Since
                                                 our payment gateway is well protected and safe, you need not worry about
@@ -653,7 +653,7 @@
                                                 headerindex="4h"><span class="accordprefix"></span>What is the maximum
                                                 time for processing Dubai Visa?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="4c" style="display: none;">Visa
                                                 processing may take 2 to 3 working days in Normal Service. If you wish
@@ -664,7 +664,7 @@
                                                 headerindex="5h"><span class="accordprefix"></span>Can I get back my
                                                 money if my visa gets rejected?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="5c" style="display: none;">Tourist
                                                 Dubai Visa is leading in approving visas. It has hardly come across a
@@ -675,7 +675,7 @@
                                                 headerindex="6h"><span class="accordprefix"></span>Am I eligible to
                                                 travel to UAE with Dubai Visa?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/minus.png"
+                                                        src="<?=base_url()?>assets/website/images/minus.png"
                                                         alt="Close"></span></a>
                                             <div class="accordion_body" contentindex="6c" style="display: block;">Yes,
                                                 you are entitled to visit all the emirates with a Dubai visa. Emirates
@@ -686,7 +686,7 @@
                                                 headerindex="7h"><span class="accordprefix"></span>What should be the
                                                 passport validity for applying for a Dubai Visa?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="7c" style="display: none;">Your
                                                 passport should have a validity of 6 months before the commencement of
@@ -696,7 +696,7 @@
                                                 headerindex="8h"><span class="accordprefix"></span>Is the assistance
                                                 provided only in the English language?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="8c" style="display: none;">Our
                                                 team is excellent in assisting in the English Language. However, we
@@ -707,7 +707,7 @@
                                                 headerindex="9h"><span class="accordprefix"></span>Can I go in for a
                                                 Dubai Visa if my passport is in the renewal process?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="9c" style="display: none;">You can
                                                 knock us at the 24*7 Chat Support or WhatsApp and get the best possible
@@ -716,7 +716,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="10h"><span class="accordprefix"></span>How long can I stay
                                                 in Dubai?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="10c" style="display: none;">Your
                                                 stay will be dependent on the type of visa you have opted for. Tourist
@@ -727,7 +727,7 @@
                                                 headerindex="11h"><span class="accordprefix"></span>Can I apply for a
                                                 Dubai Visa if my passport ceases its value?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="11c" style="display: none;">No,
                                                 your passport should bear the validity for 6 months before the beginning
@@ -736,7 +736,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="12h"><span class="accordprefix"></span>Can I pay visa fee
                                                 in any currency?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="12c" style="display: none;">Yes,
                                                 the applicants can pay visa fees in any currency.</div>
@@ -745,7 +745,7 @@
                                                 headerindex="13h"><span class="accordprefix"></span>Is a cash option
                                                 available for getting Dubai Visa?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="13c" style="display: none;">Since
                                                 Tourist Dubai Visa is secured with 256-bit SSL encryption, you can pay
@@ -756,7 +756,7 @@
                                                 headerindex="14h"><span class="accordprefix"></span>Are my uploaded
                                                 documents for Dubai Visa safe?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="14c" style="display: none;">Yes,
                                                 your information along with uploaded documents are protected with
@@ -766,7 +766,7 @@
                                                 headerindex="15h"><span class="accordprefix"></span>Which documents are
                                                 required while travelling to Dubai?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="15c" style="display: none;">You
                                                 must possess your valid passport and a printout of your E-visa while
@@ -775,7 +775,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="16h"><span class="accordprefix"></span>Can I apply for a
                                                 Multiple Entry Visa?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="16c" style="display: none;">
                                                 Nationals of all countries are eligible to apply for a Multiple Entry
@@ -786,7 +786,7 @@
                                                 headerindex="17h"><span class="accordprefix"></span>Do I have to apply
                                                 for a Dubai visa if I hold the USA or UK nationality?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="17c" style="display: none;">
                                                 Nationals of G1 countries such as the USA, UK, Singapore, etc. are
@@ -798,7 +798,7 @@
                                                 headerindex="18h"><span class="accordprefix"></span>Can I cancel my
                                                 Dubai Visa application?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="18c" style="display: none;">Upon
                                                 filling in the application form and making payments, you can’t cancel it
@@ -809,7 +809,7 @@
                                                 headerindex="19h"><span class="accordprefix"></span>20. How can I be
                                                 informed about the entire visa application process?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="19c" style="display: none;">We
                                                 provide all the information on your registered email id. You can also
@@ -821,7 +821,7 @@
                                                 headerindex="20h"><span class="accordprefix"></span>How can I trust
                                                 Tourist Dubai Visa as far as my card details are concerned?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="20c" style="display: none;">Tourist
                                                 Dubai Visa is known for 256-bit SSL encryption. Not a piece of
@@ -831,7 +831,7 @@
                                                 headerindex="21h"><span class="accordprefix"></span>Whom can I speak
                                                 with if I wish to make amendments to my contact number or address?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="21c" style="display: none;">Upon
                                                 submission of the application form and making payments, you can’t make
@@ -842,7 +842,7 @@
                                                 headerindex="22h"><span class="accordprefix"></span>Can I add other
                                                 applicants to my visa application form<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="22c" style="display: none;">It is
                                                 very easy to add other applicants with your visa application form. Click
@@ -854,7 +854,7 @@
                                                 headerindex="23h"><span class="accordprefix"></span>Which nationality is
                                                 not eligible to get a Dubai visa?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="23c" style="display: none;">Kindly
                                                 visit our website and drop down the list from the Apply Visa Now
@@ -865,7 +865,7 @@
                                                 headerindex="24h"><span class="accordprefix"></span>What should be the
                                                 language of the documents required for submission?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="24c" style="display: none;">
                                                 Usually, documents submitted for a Dubai visa should bear either English
@@ -876,7 +876,7 @@
                                                 headerindex="25h"><span class="accordprefix"></span>What kind of visa do
                                                 I require if I want to meet my friend who is employed in Dubai?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="25c" style="display: none;">You
                                                 can apply for a Dubai tourist/visit visa to meet your friend or any
@@ -887,7 +887,7 @@
                                                 headerindex="26h"><span class="accordprefix"></span>Can I get an
                                                 extension over my Dubai Visa?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="26c" style="display: none;">Apart
                                                 from transit and job-seeker visas that are valid for 96 hours and 90
@@ -898,7 +898,7 @@
                                                 headerindex="27h"><span class="accordprefix"></span>What is the best
                                                 option if my friend and I have to make multiple entries in a particular
                                                 duration?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="27c" style="display: none;">You
                                                 are requested to choose Multiple Entry Visa as it opens the door for
@@ -910,7 +910,7 @@
                                                 headerindex="28h"><span class="accordprefix"></span>Is there an option
                                                 of adding other applicants?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="28c" style="display: none;">Yes,
                                                 there is an option of adding other applicants. When you click on the
@@ -922,7 +922,7 @@
                                                 headerindex="29h"><span class="accordprefix"></span>Can I be assisted in
                                                 filling out the Dubai Visa application form?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="29c" style="display: none;">Yes,
                                                 we always serve our customers to the best of our ability. You can simply
@@ -934,7 +934,7 @@
                                                 headerindex="30h"><span class="accordprefix"></span>Can I get your help
                                                 if I come across problems at the Immigration Desk?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="30c" style="display: none;">We are
                                                 available round the clock for your help via Chat Support or WhatsApp
@@ -944,7 +944,7 @@
                                                 headerindex="31h"><span class="accordprefix"></span>What is the
                                                 difference between e-Visa and online Visa?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="31c" style="display: none;">Both
                                                 e-Visa and online Visa are the same. There is no difference between the
@@ -954,7 +954,7 @@
                                                 headerindex="32h"><span class="accordprefix"></span>Does e-Visa or
                                                 online visa for Dubai hold equal weightage across the UAE?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="32c" style="display: none;">Yes,
                                                 Dubai e-Visa or online visa holds equal weightage across the UAE.</div>
@@ -963,7 +963,7 @@
                                                 headerindex="33h"><span class="accordprefix"></span>Can I avail online
                                                 visa or e-Visa for any country?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="33c" style="display: none;">Most
                                                 of the countries accept e-Visa or online visa. For more information,
@@ -976,7 +976,7 @@
                                                 headerindex="34h"><span class="accordprefix"></span>Under what
                                                 circumstances Dubai Visa can be denied?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="34c" style="display: none;">Our
                                                 visa experts are always ready to render full support in all possible
@@ -989,7 +989,7 @@
                                                 headerindex="35h"><span class="accordprefix"></span>Can I seek your help
                                                 if don’t know the procedure to track the status of my Dubai visa?<span
                                                     class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="35c" style="display: none;">You
                                                 can seek our help through contact@instadubaivisa.com.</div>
@@ -997,7 +997,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="36h"><span class="accordprefix"></span>What is the age
                                                 limit to travel alone?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="36c" style="display: none;">
                                                 Applicants between the age of 13 and 75 are eligible to travel alone.
@@ -1007,7 +1007,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="37h"><span class="accordprefix"></span>What type of visa is
                                                 suitable for children?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="37c" style="display: none;">There
                                                 is only one standard visa for all ages. Tourist Dubai Visa offers
@@ -1017,7 +1017,7 @@
                                                 headerindex="38h"><span class="accordprefix"></span>Is a valid passport
                                                 necessary for children?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="38c" style="display: none;">A
                                                 passport with 6 months validity is necessary for every traveller.</div>
@@ -1025,7 +1025,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="39h"><span class="accordprefix"></span>Can I get a refund
                                                 on visa rejection?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="39c" style="display: none;">Kindly
                                                 go through our terms and conditions regarding a refund.</div>
@@ -1034,7 +1034,7 @@
                                                 headerindex="40h"><span class="accordprefix"></span>What is the least
                                                 possible time for processing Dubai Visa?<span class="accordsuffix"><img
                                                         class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="40c" style="display: none;">The
                                                 minimum time required for processing visas is 12 to 24 hours. For this,
@@ -1044,7 +1044,7 @@
                                                 headerindex="41h"><span class="accordprefix"></span>Whether changes in
                                                 the application are acceptable after applying on the website or
                                                 not?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="41c" style="display: none;">Our
                                                 expert team is there to assist you in your interest. Kindly reach out at
@@ -1053,7 +1053,7 @@
                                         <div class="row"> <a href="#" class="accordion_head submenuheader"
                                                 headerindex="42h"><span class="accordprefix"></span>Why should I opt for
                                                 Tourist Dubai Visa?<span class="accordsuffix"><img class="statusicon"
-                                                        src="../media.instadubaivisa.com/images/plus.png"
+                                                        src="<?=base_url()?>assets/website/images/plus.png"
                                                         alt="Expand"></span></a>
                                             <div class="accordion_body" contentindex="42c" style="display: none;">Tourist
                                                 Dubai Visa offers a hassle-free process. It has a professionalized visa
