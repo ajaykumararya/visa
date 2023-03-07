@@ -44,19 +44,12 @@
                     <div class="slideshow-panel" data-transition="crossfade" data-loop="true" data-skip="false">
                         <ul class="carousel">
                             <li class="slide">
-                                
-                                    <?php
-                                    $sau = $this->db->get('setting');
-                                        foreach($sau->result() as $row){
-                                            ?>
                                         
                                                 <img class="lazy" 
-                                                data-src="<?php echo $row->header_image;?>" width="100%"
+                                                data-src="<?=base_url()?>assets/website/mdeia/images/umm.jpg" width="100%"
                                                 height="360" title="Tourist Dubai Visa" alt="apply for Dubai, UAE visa online" />
 
-                                    <?php         
-                                        }
-                                        ?>
+                        
                             </li>
                                     
                         </ul>
