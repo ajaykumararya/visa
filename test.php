@@ -1,6 +1,6 @@
 <?php
 $options = '
-<option value="">Select</option>
+<option value="0">Select</option>
 <option value="209#Afghanistan">
     Afghanistan </option>
 <option value="473#Albania">
