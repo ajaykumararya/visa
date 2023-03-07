@@ -62,7 +62,7 @@
 
             <h2 class="title1">STEPS FOR FUJAIRAH VISA</h2>
             <div class="stepPanel" id="aplyonlineBtn">
-                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-1.webp" width="45"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-1.png" width="45"
                         height="45" alt="Fujairah Visa Process"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -75,7 +75,7 @@
                 <p class="ptext5 row alignFromCenter mobRow moblineheight mobFont-md">Apply online</p>
             </div>
             <div class="stepPanel" id="makepaymntBtn">
-                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-2.webp" width="45"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-2.png" width="45"
                         height="45" alt="Pay Fujairah Visa Fees Online"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -87,7 +87,7 @@
                 <p class="ptext5 row alignFromCenter mobRow moblineheight mobFont-md">Pay visa fee online</p>
             </div>
             <div class="stepPanel" id="visaProcessBtn">
-                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-3.webp" width="45"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-3.png" width="45"
                         height="45" alt="Fujairah visa is sent for processing"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
@@ -99,7 +99,7 @@
                 <p class="ptext5 row alignFromCenter mobRow moblineheight mobFont-md">Visa is sent for processing</p>
             </div>
             <div class="stepPanel" id="downloadBtn">
-                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-3.webp" width="45"
+                <div class="column-three mobRow"><img src="<?=base_url()?>assets/website/media/images/step-3.png" width="45"
                         height="45" alt="Print Fujairah Visa and Fly to Fujairah"></div>
                 <div class="column-seven mobRow">
                     <div class="column-six alignFromCenter mobpaddingInBox">
